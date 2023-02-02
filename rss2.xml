@@ -8,55 +8,346 @@
      xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
      xmlns:spotify="http://www.spotify.com/ns/rss"
      xmlns:podcast="https://podcastindex.org/namespace/1.0"
-     xmlns:media="http://search.yahoo.com/mrss/">
+    xmlns:media="http://search.yahoo.com/mrss/">
 
-    <channel>
-        <title>Moscow Python: подкаст о Python на русском</title>
-        <atom:link href="https://feed.podbean.com/learnpython/feed.xml" rel="self" type="application/rss+xml"/>
-        <link>https://learnpython.podbean.com</link>
-        <description>Делают для вас команды курсов программирования LearnPython и сообщества MoscowPython</description>
-        <pubDate>Tue, 01 Nov 2022 09:10:52 -0300</pubDate>
-        <generator>https://podbean.com/?v=5.5</generator>
-        <language>ru-ru</language>
-        <spotify:countryOfOrigin>ru</spotify:countryOfOrigin>
-        <copyright>Copyright 2020 All rights reserved.</copyright>
-        <category>Technology</category>
-        <ttl>1440</ttl>
-        <itunes:type>episodic</itunes:type>
-        <itunes:subtitle>Вы также можете смотреть нас на YouTube</itunes:subtitle>
-        <itunes:summary>Подкаст о Python на русском от команды курсов LearnPython и организаторов сообщества
-            MoscowPython. Говорим на "вечные" для новичков темы и делимся техническими хаками.
-        </itunes:summary>
+<channel>
+    <title>Moscow Python: подкаст о Python на русском</title>
+    <atom:link href="https://feed.podbean.com/learnpython/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://learnpython.podbean.com</link>
+    <description>Делают для вас команды курсов программирования LearnPython и сообщества MoscowPython</description>
+    <pubDate>Tue, 01 Nov 2022 09:10:52 -0300</pubDate>
+    <generator>https://podbean.com/?v=5.5</generator>
+    <language>ru-ru</language>
+    <spotify:countryOfOrigin>ru</spotify:countryOfOrigin>
+    <copyright>Copyright 2020 All rights reserved.</copyright>
+    <category>Technology</category>
+    <ttl>1440</ttl>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle>Вы также можете смотреть нас на YouTube</itunes:subtitle>
+          <itunes:summary>Подкаст о Python на русском от команды курсов LearnPython и организаторов сообщества MoscowPython. Говорим на "вечные" для новичков темы и делимся техническими хаками.</itunes:summary>
         <itunes:author>MoscowPython</itunes:author>
-        <itunes:category text="Technology"/>
-        <itunes:owner>
-            <itunes:name>MoscowPython</itunes:name>
-            <itunes:email>gasevskyv@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:block>No</itunes:block>
+<itunes:category text="Technology" />
+    <itunes:owner>
+        <itunes:name>MoscowPython</itunes:name>
+        <itunes:email>gasevskyv@gmail.com</itunes:email>
+    </itunes:owner>
+	<itunes:block>No</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png" />
+    <image>
+        <url>https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png</url>
+        <title>Moscow Python: подкаст о Python на русском</title>
+        <link>https://learnpython.podbean.com</link>
+        <width>144</width>
+        <height>144</height>
+    </image>
+    <item>
+        <title>Moscow Python Podcast. Грабли на пути джуна (level: all)</title>
+        <itunes:title>Moscow Python Podcast. Грабли на пути джуна (level: all)</itunes:title>
+        <link>https://learnpython.podbean.com/e/moscow-python-podcast-%d0%b3%d1%80%d0%b0%d0%b1%d0%bb%d0%b8-%d0%bd%d0%b0-%d0%bf%d1%83%d1%82%d0%b8-%d0%b4%d0%b6%d1%83%d0%bd%d0%b0-level-all/</link>
+                    <comments>https://learnpython.podbean.com/e/moscow-python-podcast-%d0%b3%d1%80%d0%b0%d0%b1%d0%bb%d0%b8-%d0%bd%d0%b0-%d0%bf%d1%83%d1%82%d0%b8-%d0%b4%d0%b6%d1%83%d0%bd%d0%b0-level-all/#comments</comments>        <pubDate>Tue, 01 Nov 2022 09:10:52 -0300</pubDate>
+        <guid isPermaLink="false">learnpython.podbean.com/a5b56617-b4e5-3db9-8eb8-c253edd8ea25</guid>
+                      <description><![CDATA[<p>В гостях у  Moscow Python Podcast Python разработчик Юрий Бородич..</p>
+<p> </p>
+<p>Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
+<p> </p>
+<p>Все выпуски: https://rebrand.ly/pythonpodcasta6ffe</p>
+<p> </p>
+<p>Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315</p>
+<p> </p>
+<p>Курс Learn Python: https://rebrand.ly/learnpythondc288</p>
+<p> </p>
+<p>Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru</p>
+<p> </p>
+<p>Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>В гостях у  Moscow Python Podcast Python разработчик Юрий Бородич..</p>
+<p> </p>
+<p>Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
+<p> </p>
+<p>Все выпуски: https://rebrand.ly/pythonpodcasta6ffe</p>
+<p> </p>
+<p>Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315</p>
+<p> </p>
+<p>Курс Learn Python: https://rebrand.ly/learnpythondc288</p>
+<p> </p>
+<p>Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru</p>
+<p> </p>
+<p>Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international</p>
+]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/kzm3jb/4_01_11_22.mp3" length="39030050" type="audio/mpeg"/>
+        <itunes:subtitle>В гостях у  Moscow Python Podcast Python разработчик Юрий Бородич..
+ 
+Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий...</itunes:subtitle>
+        <itunes:summary><![CDATA[В гостях у  Moscow Python Podcast Python разработчик Юрий Бородич..
+ 
+Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.
+ 
+Все выпуски: https://rebrand.ly/pythonpodcasta6ffe
+ 
+Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315
+ 
+Курс Learn Python: https://rebrand.ly/learnpythondc288
+ 
+Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru
+ 
+Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international]]></itunes:summary>
+        <itunes:author>MoscowPython</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png"/>
-        <image>
-            <url>https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png</url>
-            <title>Moscow Python: подкаст о Python на русском</title>
-            <link>https://learnpython.podbean.com</link>
-            <width>144</width>
-            <height>144</height>
-        </image>
-        <item>
-            <title>Moscow Python Podcast. Грабли на пути джуна (level: all)</title>
-            <itunes:title>Moscow Python Podcast. Грабли на пути джуна (level: all)</itunes:title>
-            <link>
-                https://learnpython.podbean.com/e/moscow-python-podcast-%d0%b3%d1%80%d0%b0%d0%b1%d0%bb%d0%b8-%d0%bd%d0%b0-%d0%bf%d1%83%d1%82%d0%b8-%d0%b4%d0%b6%d1%83%d0%bd%d0%b0-level-all/
-            </link>
-            <comments>
-                https://learnpython.podbean.com/e/moscow-python-podcast-%d0%b3%d1%80%d0%b0%d0%b1%d0%bb%d0%b8-%d0%bd%d0%b0-%d0%bf%d1%83%d1%82%d0%b8-%d0%b4%d0%b6%d1%83%d0%bd%d0%b0-level-all/#comments
-            </comments>
-            <pubDate>Tue, 01 Nov 2022 09:10:52 -0300</pubDate>
-            <guid isPermaLink="false">learnpython.podbean.com/a5b56617-b4e5-3db9-8eb8-c253edd8ea25</guid>
-            <description><![CDATA[<p>В гостях у  Moscow Python Podcast Python разработчик Юрий Бородич..</p>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>40:38</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>158</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png" />    </item>
+    <item>
+        <title>Moscow Python Podcast. Как жить в современном потоке информации (level: all)</title>
+        <itunes:title>Moscow Python Podcast. Как жить в современном потоке информации (level: all)</itunes:title>
+        <link>https://learnpython.podbean.com/e/moscow-python-podcast-%d0%ba%d0%b0%d0%ba-%d0%b6%d0%b8%d1%82%d1%8c-%d0%b2-%d1%81%d0%be%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%bd%d0%be%d0%bc/</link>
+                    <comments>https://learnpython.podbean.com/e/moscow-python-podcast-%d0%ba%d0%b0%d0%ba-%d0%b6%d0%b8%d1%82%d1%8c-%d0%b2-%d1%81%d0%be%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%bd%d0%be%d0%bc/#comments</comments>        <pubDate>Tue, 11 Oct 2022 10:48:11 -0300</pubDate>
+        <guid isPermaLink="false">learnpython.podbean.com/827d06d0-7b0e-313b-ad0f-b1f892489ae3</guid>
+                      <description><![CDATA[<p>В гостях у  Moscow Python Podcast HRD компании Altenar Екатерина Фирсова.</p>
 <p> </p>
 <p>Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
+<p> </p>
+<p>Все выпуски: https://rebrand.ly/pythonpodcasta6ffe</p>
+<p> </p>
+<p>Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315</p>
+<p> </p>
+<p>Курс Learn Python: https://rebrand.ly/learnpythondc288</p>
+<p> </p>
+<p>Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru</p>
+<p>
+Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>В гостях у  Moscow Python Podcast HRD компании Altenar Екатерина Фирсова.</p>
+<p> </p>
+<p>Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
+<p> </p>
+<p>Все выпуски: https://rebrand.ly/pythonpodcasta6ffe</p>
+<p> </p>
+<p>Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315</p>
+<p> </p>
+<p>Курс Learn Python: https://rebrand.ly/learnpythondc288</p>
+<p> </p>
+<p>Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru</p>
+<p>
+Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international</p>
+]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/j72u65/3_11_10_22.mp3" length="47009802" type="audio/mpeg"/>
+        <itunes:subtitle>В гостях у  Moscow Python Podcast HRD компании Altenar Екатерина Фирсова.
+ 
+Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Гр...</itunes:subtitle>
+        <itunes:summary><![CDATA[В гостях у  Moscow Python Podcast HRD компании Altenar Екатерина Фирсова.
+ 
+Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.
+ 
+Все выпуски: https://rebrand.ly/pythonpodcasta6ffe
+ 
+Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315
+ 
+Курс Learn Python: https://rebrand.ly/learnpythondc288
+ 
+Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru
+Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international]]></itunes:summary>
+        <itunes:author>MoscowPython</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>48:57</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>157</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png" />    </item>
+    <item>
+        <title>Moscow Python Podcast. Open Source и Data  Science (level: all)</title>
+        <itunes:title>Moscow Python Podcast. Open Source и Data  Science (level: all)</itunes:title>
+        <link>https://learnpython.podbean.com/e/moscow-python-podcast-open-source-%d0%b8-data-science-level-all/</link>
+                    <comments>https://learnpython.podbean.com/e/moscow-python-podcast-open-source-%d0%b8-data-science-level-all/#comments</comments>        <pubDate>Mon, 26 Sep 2022 04:44:59 -0300</pubDate>
+        <guid isPermaLink="false">learnpython.podbean.com/fcc0bda0-e8f7-3eea-b6fa-e289f9c45157</guid>
+                      <description><![CDATA[<p>В гостях у  Moscow Python Podcast руководитель разработки Data Science компании Avito Олег Бугримов.</p>
+<p> </p>
+<p>Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
+<p> </p>
+<p>Все выпуски: https://rebrand.ly/pythonpodcasta6ffe</p>
+<p> </p>
+<p>Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315</p>
+<p> </p>
+<p>Курс Learn Python: https://rebrand.ly/learnpythondc288</p>
+<p> </p>
+<p>Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru</p>
+<p>
+Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>В гостях у  Moscow Python Podcast руководитель разработки Data Science компании Avito Олег Бугримов.</p>
+<p> </p>
+<p>Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
+<p> </p>
+<p>Все выпуски: https://rebrand.ly/pythonpodcasta6ffe</p>
+<p> </p>
+<p>Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315</p>
+<p> </p>
+<p>Курс Learn Python: https://rebrand.ly/learnpythondc288</p>
+<p> </p>
+<p>Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru</p>
+<p>
+Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international</p>
+]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/pyf4z2/2_26_09_22.mp3" length="29168393" type="audio/mpeg"/>
+        <itunes:subtitle>В гостях у  Moscow Python Podcast руководитель разработки Data Science компании Avito Олег Бугримов.
+ 
+Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комит...</itunes:subtitle>
+        <itunes:summary><![CDATA[В гостях у  Moscow Python Podcast руководитель разработки Data Science компании Avito Олег Бугримов.
+ 
+Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.
+ 
+Все выпуски: https://rebrand.ly/pythonpodcasta6ffe
+ 
+Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315
+ 
+Курс Learn Python: https://rebrand.ly/learnpythondc288
+ 
+Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru
+Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international]]></itunes:summary>
+        <itunes:author>MoscowPython</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>30:22</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>156</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png" />    </item>
+    <item>
+        <title>Moscow Python Podcast. Выгорание и токсичность (level: all)</title>
+        <itunes:title>Moscow Python Podcast. Выгорание и токсичность (level: all)</itunes:title>
+        <link>https://learnpython.podbean.com/e/moscow-python-podcast-%d0%b2%d1%8b%d0%b3%d0%be%d1%80%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b8%d1%82%d0%be%d0%ba%d1%81%d0%b8%d1%87%d0%bd%d0%be%d1%81%d1%82/</link>
+                    <comments>https://learnpython.podbean.com/e/moscow-python-podcast-%d0%b2%d1%8b%d0%b3%d0%be%d1%80%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b8%d1%82%d0%be%d0%ba%d1%81%d0%b8%d1%87%d0%bd%d0%be%d1%81%d1%82/#comments</comments>        <pubDate>Tue, 13 Sep 2022 10:21:57 -0300</pubDate>
+        <guid isPermaLink="false">learnpython.podbean.com/2cff24b0-91f6-3530-8deb-7cc88933690b</guid>
+                      <description><![CDATA[<p>В гостях у  Moscow Python Podcast VP of Engineering Константин Волков.</p>
+<p> </p>
+<p>Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
+<p> </p>
+<p>Все выпуски: https://rebrand.ly/pythonpodcasta6ffe</p>
+<p> </p>
+<p>Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315</p>
+<p> </p>
+<p>Курс Learn Python: https://rebrand.ly/learnpythondc288</p>
+<p> </p>
+<p>Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru</p>
+<p>
+Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>В гостях у  Moscow Python Podcast VP of Engineering Константин Волков.</p>
+<p> </p>
+<p>Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
+<p> </p>
+<p>Все выпуски: https://rebrand.ly/pythonpodcasta6ffe</p>
+<p> </p>
+<p>Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315</p>
+<p> </p>
+<p>Курс Learn Python: https://rebrand.ly/learnpythondc288</p>
+<p> </p>
+<p>Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru</p>
+<p>
+Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international</p>
+]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/58u78u/1_13_09_2022.mp3" length="40679935" type="audio/mpeg"/>
+        <itunes:subtitle>В гостях у  Moscow Python Podcast VP of Engineering Константин Волков.
+ 
+Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григо...</itunes:subtitle>
+        <itunes:summary><![CDATA[В гостях у  Moscow Python Podcast VP of Engineering Константин Волков.
+ 
+Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.
+ 
+Все выпуски: https://rebrand.ly/pythonpodcasta6ffe
+ 
+Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315
+ 
+Курс Learn Python: https://rebrand.ly/learnpythondc288
+ 
+Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru
+Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international]]></itunes:summary>
+        <itunes:author>MoscowPython</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>42:21</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>155</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png" />    </item>
+    <item>
+        <title>Moscow Python Podcast. Про тимлидство (level: all)</title>
+        <itunes:title>Moscow Python Podcast. Про тимлидство (level: all)</itunes:title>
+        <link>https://learnpython.podbean.com/e/moscow-python-podcast-%d0%bf%d1%80%d0%be-%d1%82%d0%b8%d0%bc%d0%bb%d0%b8%d0%b4%d1%81%d1%82%d0%b2%d0%be-level-all/</link>
+                    <comments>https://learnpython.podbean.com/e/moscow-python-podcast-%d0%bf%d1%80%d0%be-%d1%82%d0%b8%d0%bc%d0%bb%d0%b8%d0%b4%d1%81%d1%82%d0%b2%d0%be-level-all/#comments</comments>        <pubDate>Wed, 24 Aug 2022 13:14:08 -0300</pubDate>
+        <guid isPermaLink="false">learnpython.podbean.com/f28a06a4-2cdc-3457-bfde-04a3b011b63e</guid>
+                      <description><![CDATA[<p>В гостях у  Moscow Python Podcast Руководитель разработки компании IVA Technologies Александр Ковалев.</p>
+<p> </p>
+<p>Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
+<p> </p>
+<p>Все выпуски: https://rebrand.ly/pythonpodcasta6ffe</p>
+<p> </p>
+<p>Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315</p>
+<p> </p>
+<p>Курс Learn Python: https://rebrand.ly/learnpythondc288</p>
+<p> </p>
+<p>Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru</p>
+<p>
+Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>В гостях у  Moscow Python Podcast Руководитель разработки компании IVA Technologies Александр Ковалев.</p>
+<p> </p>
+<p>Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
+<p> </p>
+<p>Все выпуски: https://rebrand.ly/pythonpodcasta6ffe</p>
+<p> </p>
+<p>Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315</p>
+<p> </p>
+<p>Курс Learn Python: https://rebrand.ly/learnpythondc288</p>
+<p> </p>
+<p>Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru</p>
+<p>
+Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international</p>
+]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/jp77vr/3_24082022.mp3" length="43160570" type="audio/mpeg"/>
+        <itunes:subtitle>В гостях у  Moscow Python Podcast Руководитель разработки компании IVA Technologies Александр Ковалев.
+ 
+Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного ком...</itunes:subtitle>
+        <itunes:summary><![CDATA[В гостях у  Moscow Python Podcast Руководитель разработки компании IVA Technologies Александр Ковалев.
+ 
+Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.
+ 
+Все выпуски: https://rebrand.ly/pythonpodcasta6ffe
+ 
+Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315
+ 
+Курс Learn Python: https://rebrand.ly/learnpythondc288
+ 
+Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru
+Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international]]></itunes:summary>
+        <itunes:author>MoscowPython</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>44:56</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>154</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png" />    </item>
+    <item>
+        <title>Moscow Python Podcast. Про Хакатоны (level: all)</title>
+        <itunes:title>Moscow Python Podcast. Про Хакатоны (level: all)</itunes:title>
+        <link>https://learnpython.podbean.com/e/moscow-python-podcast-%d0%bf%d1%80%d0%be-%d1%85%d0%b0%d0%ba%d0%b0%d1%82%d0%be%d0%bd%d1%8b-level-all-1660468808/</link>
+                    <comments>https://learnpython.podbean.com/e/moscow-python-podcast-%d0%bf%d1%80%d0%be-%d1%85%d0%b0%d0%ba%d0%b0%d1%82%d0%be%d0%bd%d1%8b-level-all-1660468808/#comments</comments>        <pubDate>Sun, 14 Aug 2022 06:20:08 -0300</pubDate>
+        <guid isPermaLink="false">learnpython.podbean.com/a67e09c5-7068-3c56-9675-e1e053722064</guid>
+                      <description><![CDATA[<p>В гостях у  Moscow Python Podcast Lead of HR Community Skolkovo Алиса Цапкова. Обсудили с Алисой зачем нужны хакатоны, советы и лайфхаки участникам хакатонов.</p>
+<p> </p>
+<p>Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
+<p> </p>
+<p>Skolkovo Hack 2022:  <a href='https://codenrock.com/contests/skolkovo-hack-2022'>https://codenrock.com/contests/skolkovo-hack-2022</a></p>
 <p> </p>
 <p>Все выпуски: https://rebrand.ly/pythonpodcasta6ffe</p>
 <p> </p>
@@ -68,9 +359,11 @@
 <p> </p>
 <p>Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international</p>
 ]]></description>
-            <content:encoded><![CDATA[<p>В гостях у  Moscow Python Podcast Python разработчик Юрий Бородич..</p>
+                        <content:encoded><![CDATA[<p>В гостях у  Moscow Python Podcast Lead of HR Community Skolkovo Алиса Цапкова. Обсудили с Алисой зачем нужны хакатоны, советы и лайфхаки участникам хакатонов.</p>
 <p> </p>
 <p>Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
+<p> </p>
+<p>Skolkovo Hack 2022:  <a href='https://codenrock.com/contests/skolkovo-hack-2022'>https://codenrock.com/contests/skolkovo-hack-2022</a></p>
 <p> </p>
 <p>Все выпуски: https://rebrand.ly/pythonpodcasta6ffe</p>
 <p> </p>
@@ -82,16 +375,16 @@
 <p> </p>
 <p>Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international</p>
 ]]></content:encoded>
-
-            <enclosure url="https://mcdn.podbean.com/mf/web/kzm3jb/4_01_11_22.mp3" length="39030050" type="audio/mpeg"/>
-            <itunes:subtitle>В гостях у Moscow Python Podcast Python разработчик Юрий Бородич..
-
-                Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel
-                компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий...
-            </itunes:subtitle>
-            <itunes:summary><![CDATA[В гостях у  Moscow Python Podcast Python разработчик Юрий Бородич..
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/qp8f9s/2_14082022.mp3" length="39220730" type="audio/mpeg"/>
+        <itunes:subtitle>В гостях у  Moscow Python Podcast Lead of HR Community Skolkovo Алиса Цапкова. Обсудили с Алисой зачем нужны хакатоны, советы и лайфхаки участникам хакатонов.
+ 
+Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский...</itunes:subtitle>
+        <itunes:summary><![CDATA[В гостях у  Moscow Python Podcast Lead of HR Community Skolkovo Алиса Цапкова. Обсудили с Алисой зачем нужны хакатоны, советы и лайфхаки участникам хакатонов.
  
 Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.
+ 
+Skolkovo Hack 2022:  https://codenrock.com/contests/skolkovo-hack-2022
  
 Все выпуски: https://rebrand.ly/pythonpodcasta6ffe
  
@@ -102,527 +395,13 @@
 Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru
  
 Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international]]></itunes:summary>
-            <itunes:author>MoscowPython</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:block>No</itunes:block>
-            <itunes:duration>40:38</itunes:duration>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>158</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png"/>
-        </item>
-        <item>
-            <title>Moscow Python Podcast. Как жить в современном потоке информации (level: all)</title>
-            <itunes:title>Moscow Python Podcast. Как жить в современном потоке информации (level: all)</itunes:title>
-            <link>
-                https://learnpython.podbean.com/e/moscow-python-podcast-%d0%ba%d0%b0%d0%ba-%d0%b6%d0%b8%d1%82%d1%8c-%d0%b2-%d1%81%d0%be%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%bd%d0%be%d0%bc/
-            </link>
-            <comments>
-                https://learnpython.podbean.com/e/moscow-python-podcast-%d0%ba%d0%b0%d0%ba-%d0%b6%d0%b8%d1%82%d1%8c-%d0%b2-%d1%81%d0%be%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%bd%d0%be%d0%bc/#comments
-            </comments>
-            <pubDate>Tue, 11 Oct 2022 10:48:11 -0300</pubDate>
-            <guid isPermaLink="false">learnpython.podbean.com/827d06d0-7b0e-313b-ad0f-b1f892489ae3</guid>
-            <description><![CDATA[<p>В гостях у  Moscow Python Podcast HRD компании Altenar Екатерина Фирсова.</p>
-<p> </p>
-<p>Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
-<p> </p>
-<p>Все выпуски: https://rebrand.ly/pythonpodcasta6ffe</p>
-<p> </p>
-<p>Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315</p>
-<p> </p>
-<p>Курс Learn Python: https://rebrand.ly/learnpythondc288</p>
-<p> </p>
-<p>Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru</p>
-<p>
-Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international</p>
-]]></description>
-            <content:encoded><![CDATA[<p>В гостях у  Moscow Python Podcast HRD компании Altenar Екатерина Фирсова.</p>
-<p> </p>
-<p>Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
-<p> </p>
-<p>Все выпуски: https://rebrand.ly/pythonpodcasta6ffe</p>
-<p> </p>
-<p>Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315</p>
-<p> </p>
-<p>Курс Learn Python: https://rebrand.ly/learnpythondc288</p>
-<p> </p>
-<p>Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru</p>
-<p>
-Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international</p>
-]]></content:encoded>
-
-            <enclosure url="https://mcdn.podbean.com/mf/web/j72u65/3_11_10_22.mp3" length="47009802" type="audio/mpeg"/>
-            <itunes:subtitle>В гостях у Moscow Python Podcast HRD компании Altenar Екатерина Фирсова.
-
-                Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel
-                компании Evrone, руководитель программного комитета Moscow Python Conf++ Гр...
-            </itunes:subtitle>
-            <itunes:summary><![CDATA[В гостях у  Moscow Python Podcast HRD компании Altenar Екатерина Фирсова.
- 
-Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.
- 
-Все выпуски: https://rebrand.ly/pythonpodcasta6ffe
- 
-Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315
- 
-Курс Learn Python: https://rebrand.ly/learnpythondc288
- 
-Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru
-Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international]]></itunes:summary>
-            <itunes:author>MoscowPython</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:block>No</itunes:block>
-            <itunes:duration>48:57</itunes:duration>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>157</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png"/>
-        </item>
-        <item>
-            <title>Moscow Python Podcast. Open Source и Data Science (level: all)</title>
-            <itunes:title>Moscow Python Podcast. Open Source и Data Science (level: all)</itunes:title>
-            <link>https://learnpython.podbean.com/e/moscow-python-podcast-open-source-%d0%b8-data-science-level-all/
-            </link>
-            <comments>
-                https://learnpython.podbean.com/e/moscow-python-podcast-open-source-%d0%b8-data-science-level-all/#comments
-            </comments>
-            <pubDate>Mon, 26 Sep 2022 04:44:59 -0300</pubDate>
-            <guid isPermaLink="false">learnpython.podbean.com/fcc0bda0-e8f7-3eea-b6fa-e289f9c45157</guid>
-            <description><![CDATA[<p>В гостях у  Moscow Python Podcast руководитель разработки Data Science компании Avito Олег Бугримов.</p>
-<p> </p>
-<p>Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
-<p> </p>
-<p>Все выпуски: https://rebrand.ly/pythonpodcasta6ffe</p>
-<p> </p>
-<p>Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315</p>
-<p> </p>
-<p>Курс Learn Python: https://rebrand.ly/learnpythondc288</p>
-<p> </p>
-<p>Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru</p>
-<p>
-Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international</p>
-]]></description>
-            <content:encoded><![CDATA[<p>В гостях у  Moscow Python Podcast руководитель разработки Data Science компании Avito Олег Бугримов.</p>
-<p> </p>
-<p>Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
-<p> </p>
-<p>Все выпуски: https://rebrand.ly/pythonpodcasta6ffe</p>
-<p> </p>
-<p>Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315</p>
-<p> </p>
-<p>Курс Learn Python: https://rebrand.ly/learnpythondc288</p>
-<p> </p>
-<p>Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru</p>
-<p>
-Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international</p>
-]]></content:encoded>
-
-            <enclosure url="https://mcdn.podbean.com/mf/web/pyf4z2/2_26_09_22.mp3" length="29168393" type="audio/mpeg"/>
-            <itunes:subtitle>В гостях у Moscow Python Podcast руководитель разработки Data Science компании Avito Олег
-                Бугримов.
-
-                Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel
-                компании Evrone, руководитель программного комит...
-            </itunes:subtitle>
-            <itunes:summary><![CDATA[В гостях у  Moscow Python Podcast руководитель разработки Data Science компании Avito Олег Бугримов.
- 
-Ведущие выпуска — сооснователь MoscowPython и компании Geekfactor.io Валентин Домбровский и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.
- 
-Все выпуски: https://rebrand.ly/pythonpodcasta6ffe
- 
-Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315
- 
-Курс Learn Python: https://rebrand.ly/learnpythondc288
- 
-Конференция Moscow Python Conf (Russian Python Week):  https://conf.python.ru
-Программа помощи в трудоустройстве за рубеж от Geekfactor: https://geekfactor.io/international]]></itunes:summary>
-            <itunes:author>MoscowPython</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:block>No</itunes:block>
-            <itunes:duration>30:22</itunes:duration>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>156</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png"/>
-        </item>
-            <title>Moscow Python Podcast. Образование в IT (level: all)</title>
-        <itunes:title>Moscow Python Podcast. Образование в IT (level: all)</itunes:title>
-        <link>
-            https://learnpython.podbean.com/e/moscow-python-podcast-%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b2-it-level-all/
-        </link>
-        <comments>
-            https://learnpython.podbean.com/e/moscow-python-podcast-%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b2-it-level-all/#comments
-        </comments>
-        <pubDate>Mon, 12 Apr 2021 03:58:37 -0300</pubDate>
-        <guid isPermaLink="false">learnpython.podbean.com/aad1f5e7-5ff0-3341-acef-654cbb862005</guid>
-        <description><![CDATA[<p>В гостях у  Moscow Python Podcast евангелист Moscow Python, сооснователь курсов Learn Python, СТО в компании Zipsale Илья Лебедев. Обсудили с Ильей как становятся разработчиками после курсов и петпроджектов.</p>
-        <p> </p>
-        <p>Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, Team Lead NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
-        <p> </p>
-        <p>Мастер-класс Ильи Лебедева "Проектирование АПИ для тех, у кого нет 10 лет опыта" - <a href='https://learnpython.timepad.ru/event/1604348/'>https://learnpython.timepad.ru/event/1604348/</a></p>
-        <p>Мастер-класс Златы Обуховской "Разработка асинхронных приложений: начало" - <a href='https://learnpython.timepad.ru/event/1604560/'>https://learnpython.timepad.ru/event/1604560/</a></p>
-        <p>Python-прокачка от Drylabs: <a href='https://drylabs.io/python-training'>https://drylabs.io/python-training</a></p>
-        <p>Все выпуски:<a href='https://www.youtube.com/redirect?q=https%3A%2F%2Frebrand.ly%2Fpythonpodcasta6ffe&redir_token=_u3BI8TLRIAc2ThqhJO_cXDzdYN8MTU4Njc2Nzc3M0AxNTg2NjgxMzcz&event=video_description&v=wZQtu-HUAPs'> https://rebrand.ly/pythonpodcasta6ffe</a></p>
-        <p>Митапы MoscowPython:<a href='https://www.youtube.com/redirect?q=https%3A%2F%2Frebrand.ly%2Fpythonmeetupf6315&redir_token=_u3BI8TLRIAc2ThqhJO_cXDzdYN8MTU4Njc2Nzc3M0AxNTg2NjgxMzcz&event=video_description&v=wZQtu-HUAPs'> https://rebrand.ly/pythonmeetupf6315</a></p>
-        <p>Курс Learn Python:<a href='https://www.youtube.com/redirect?q=https%3A%2F%2Frebrand.ly%2Flearnpythondc288&redir_token=_u3BI8TLRIAc2ThqhJO_cXDzdYN8MTU4Njc2Nzc3M0AxNTg2NjgxMzcz&event=video_description&v=wZQtu-HUAPs'> https://rebrand.ly/learnpythondc288</a></p>
-        <p>Конференция Moscow Python Conf (Russian Python Week):  <a href='https://conf.python.ru'>https://conf.python.ru</a></p>
-        ]]></description>
-        <content:encoded><![CDATA[<p>В гостях у  Moscow Python Podcast евангелист Moscow Python, сооснователь курсов Learn Python, СТО в компании Zipsale Илья Лебедев. Обсудили с Ильей как становятся разработчиками после курсов и петпроджектов.</p>
-        <p> </p>
-        <p>Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, Team Lead NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
-        <p> </p>
-        <p>Мастер-класс Ильи Лебедева "Проектирование АПИ для тех, у кого нет 10 лет опыта" - <a href='https://learnpython.timepad.ru/event/1604348/'>https://learnpython.timepad.ru/event/1604348/</a></p>
-        <p>Мастер-класс Златы Обуховской "Разработка асинхронных приложений: начало" - <a href='https://learnpython.timepad.ru/event/1604560/'>https://learnpython.timepad.ru/event/1604560/</a></p>
-        <p>Python-прокачка от Drylabs: <a href='https://drylabs.io/python-training'>https://drylabs.io/python-training</a></p>
-        <p>Все выпуски:<a href='https://www.youtube.com/redirect?q=https%3A%2F%2Frebrand.ly%2Fpythonpodcasta6ffe&redir_token=_u3BI8TLRIAc2ThqhJO_cXDzdYN8MTU4Njc2Nzc3M0AxNTg2NjgxMzcz&event=video_description&v=wZQtu-HUAPs'> https://rebrand.ly/pythonpodcasta6ffe</a></p>
-        <p>Митапы MoscowPython:<a href='https://www.youtube.com/redirect?q=https%3A%2F%2Frebrand.ly%2Fpythonmeetupf6315&redir_token=_u3BI8TLRIAc2ThqhJO_cXDzdYN8MTU4Njc2Nzc3M0AxNTg2NjgxMzcz&event=video_description&v=wZQtu-HUAPs'> https://rebrand.ly/pythonmeetupf6315</a></p>
-        <p>Курс Learn Python:<a href='https://www.youtube.com/redirect?q=https%3A%2F%2Frebrand.ly%2Flearnpythondc288&redir_token=_u3BI8TLRIAc2ThqhJO_cXDzdYN8MTU4Njc2Nzc3M0AxNTg2NjgxMzcz&event=video_description&v=wZQtu-HUAPs'> https://rebrand.ly/learnpythondc288</a></p>
-        <p>Конференция Moscow Python Conf (Russian Python Week):  <a href='https://conf.python.ru'>https://conf.python.ru</a></p>
-        ]]></content:encoded>
-
-        <enclosure url="https://mcdn.podbean.com/mf/web/ppszum/python2-MP4_12MB74ujp.mp3" length="44396687"
-        type="audio/mpeg"/>
-        <itunes:subtitle>В гостях у Moscow Python Podcast евангелист Moscow Python, сооснователь курсов Learn
-            Python, СТО в компании Zipsale Илья Лебедев. Обсудили с Ильей как становятся разработчиками после курсов
-            и петпроджектов.
-
-            Ведущие выпуска — сооснователь MoscowPyt...
-        </itunes:subtitle>
-        <itunes:summary><![CDATA[В гостях у  Moscow Python Podcast евангелист Moscow Python, сооснователь курсов Learn Python, СТО в компании Zipsale Илья Лебедев. Обсудили с Ильей как становятся разработчиками после курсов и петпроджектов.
- 
-        Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, Team Lead NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.
-         <item>
-            <title>Moscow Python Podcast. Как перейти от Python на Go во время самоизоляции (level: junior)</title>
-            <itunes:title>Moscow Python Podcast. Как перейти от Python на Go во время самоизоляции (level: junior)
-            </itunes:title>
-            <link>
-                https://learnpython.podbean.com/e/moscow-python-podcast-%d0%ba%d0%b0%d0%ba-%d0%bf%d0%b5%d1%80%d0%b5%d0%b9%d1%82%d0%b8%d0%be%d1%82-python%d0%bd%d0%b0-go%d0%b2%d0%be-%d0%b2/
-            </link>
-            <comments>
-                https://learnpython.podbean.com/e/moscow-python-podcast-%d0%ba%d0%b0%d0%ba-%d0%bf%d0%b5%d1%80%d0%b5%d0%b9%d1%82%d0%b8%d0%be%d1%82-python%d0%bd%d0%b0-go%d0%b2%d0%be-%d0%b2/#comments
-            </comments>
-            <pubDate>Sat, 18 Apr 2020 07:58:14 -0300</pubDate>
-            <guid isPermaLink="false">learnpython.podbean.com/2666aba4-971b-5649-8ddf-f8d8dad231a3</guid>
-            <description><![CDATA[<p>В гостях у  Moscow Python Podcast Всеволод Якунин,  выпускник курсов LearnPython и стажер-разработчики на Go в компании Wildberries. Поговорили о как войти в IT с помощью Python, а потом перейти на Go.</p>
-<p>Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и  DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
-<p>Все выпуски:<a href='https://www.youtube.com/redirect?q=https%3A%2F%2Frebrand.ly%2Fpythonpodcasta6ffe&redir_token=_u3BI8TLRIAc2ThqhJO_cXDzdYN8MTU4Njc2Nzc3M0AxNTg2NjgxMzcz&event=video_description&v=wZQtu-HUAPs'> https://rebrand.ly/pythonpodcasta6ffe</a></p>
-<p>Митапы MoscowPython:<a href='https://www.youtube.com/redirect?q=https%3A%2F%2Frebrand.ly%2Fpythonmeetupf6315&redir_token=_u3BI8TLRIAc2ThqhJO_cXDzdYN8MTU4Njc2Nzc3M0AxNTg2NjgxMzcz&event=video_description&v=wZQtu-HUAPs'> https://rebrand.ly/pythonmeetupf6315</a></p>
-<p>Курс Learn Python:<a href='https://www.youtube.com/redirect?q=https%3A%2F%2Frebrand.ly%2Flearnpythondc288&redir_token=_u3BI8TLRIAc2ThqhJO_cXDzdYN8MTU4Njc2Nzc3M0AxNTg2NjgxMzcz&event=video_description&v=wZQtu-HUAPs'> https://rebrand.ly/learnpythondc288</a></p>
-<p>Конференция Moscow Python Conf:<a href='https://www.youtube.com/redirect?q=https%3A%2F%2Fconf.python.ru%2Fmoscow%2F2020&redir_token=_u3BI8TLRIAc2ThqhJO_cXDzdYN8MTU4Njc2Nzc3M0AxNTg2NjgxMzcz&event=video_description&v=wZQtu-HUAPs'> https://conf.python.ru/moscow/2020</a></p>
-]]></description>
-            <content:encoded><![CDATA[<p>В гостях у  Moscow Python Podcast Всеволод Якунин,  выпускник курсов LearnPython и стажер-разработчики на Go в компании Wildberries. Поговорили о как войти в IT с помощью Python, а потом перейти на Go.</p>
-<p>Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и  DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
-<p>Все выпуски:<a href='https://www.youtube.com/redirect?q=https%3A%2F%2Frebrand.ly%2Fpythonpodcasta6ffe&redir_token=_u3BI8TLRIAc2ThqhJO_cXDzdYN8MTU4Njc2Nzc3M0AxNTg2NjgxMzcz&event=video_description&v=wZQtu-HUAPs'> https://rebrand.ly/pythonpodcasta6ffe</a></p>
-<p>Митапы MoscowPython:<a href='https://www.youtube.com/redirect?q=https%3A%2F%2Frebrand.ly%2Fpythonmeetupf6315&redir_token=_u3BI8TLRIAc2ThqhJO_cXDzdYN8MTU4Njc2Nzc3M0AxNTg2NjgxMzcz&event=video_description&v=wZQtu-HUAPs'> https://rebrand.ly/pythonmeetupf6315</a></p>
-<p>Курс Learn Python:<a href='https://www.youtube.com/redirect?q=https%3A%2F%2Frebrand.ly%2Flearnpythondc288&redir_token=_u3BI8TLRIAc2ThqhJO_cXDzdYN8MTU4Njc2Nzc3M0AxNTg2NjgxMzcz&event=video_description&v=wZQtu-HUAPs'> https://rebrand.ly/learnpythondc288</a></p>
-<p>Конференция Moscow Python Conf:<a href='https://www.youtube.com/redirect?q=https%3A%2F%2Fconf.python.ru%2Fmoscow%2F2020&redir_token=_u3BI8TLRIAc2ThqhJO_cXDzdYN8MTU4Njc2Nzc3M0AxNTg2NjgxMzcz&event=video_description&v=wZQtu-HUAPs'> https://conf.python.ru/moscow/2020</a></p>
-]]></content:encoded>
-
-            <enclosure url="https://mcdn.podbean.com/mf/web/2fxm7v/GMT20200404-121706_----------.m4a" length="11113348"
-                       type="audio/x-m4a"/>
-            <itunes:subtitle>В гостях у Moscow Python Podcast Всеволод Якунин, выпускник курсов LearnPython и
-                стажер-разработчики на Go в компании Wildberries. Поговорили о как войти в IT с помощью Python, а потом
-                перейти на Go.
-                Ведущие выпуска — сооснователь MoscowPython и ко...
-            </itunes:subtitle>
-            <itunes:summary><![CDATA[В гостях у  Moscow Python Podcast Всеволод Якунин,  выпускник курсов LearnPython и стажер-разработчики на Go в компании Wildberries. Поговорили о как войти в IT с помощью Python, а потом перейти на Go.
-Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и  DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.
-Все выпуски: https://rebrand.ly/pythonpodcasta6ffe
-Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315
-Курс Learn Python: https://rebrand.ly/learnpythondc288
-Конференция Moscow Python Conf: https://conf.python.ru/moscow/2020]]></itunes:summary>
-            <itunes:author>MoscowPython</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:block>No</itunes:block>
-            <itunes:duration>27:13</itunes:duration>
-            <itunes:episode>73</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png"/>
-        <item>
-            <title>Moscow Python Podcast. Рефакторинг проектов по-взрослому (level: middle)</title>
-            <itunes:title>Moscow Python Podcast. Рефакторинг проектов по-взрослому (level: middle)</itunes:title>
-            <link>
-                https://learnpython.podbean.com/e/moscow-python-podcast-%d1%80%d0%b5%d1%84%d0%b0%d0%ba%d1%82%d0%be%d1%80%d0%b8%d0%bd%d0%b3%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d0%be%d0%b2-%d0%bf/
-            </link>
-            <comments>
-                https://learnpython.podbean.com/e/moscow-python-podcast-%d1%80%d0%b5%d1%84%d0%b0%d0%ba%d1%82%d0%be%d1%80%d0%b8%d0%bd%d0%b3%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d0%be%d0%b2-%d0%bf/#comments
-            </comments>
-            <pubDate>Sun, 12 Apr 2020 08:20:31 -0300</pubDate>
-            <guid isPermaLink="false">learnpython.podbean.com/57a615fd-0b33-590a-904b-25842fa3e712</guid>
-            <description><![CDATA[<p>В гостях у Moscow Python Podcast Андрей Ермилов и Максим Белоусов, разработчики компании Rambler. Поговорили о извилистом пути Python, и не только, разработчиков.</p>
-<p>Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский и тимлид NVIDIA Злата Обуховская и DevRel компании Evrone.</p>
-<p>Все выпуски: <a href='https://rebrand.ly/pythonpodcasta6ffe'>https://rebrand.ly/pythonpodcasta6ffe </a></p>
-<p>Митапы MoscowPython: <a href='https://rebrand.ly/pythonmeetupf6315'>https://rebrand.ly/pythonmeetupf6315 </a></p>
-<p>Курс Learn Python: <a href='https://rebrand.ly/learnpythondc288'>https://rebrand.ly/learnpythondc288 </a></p>
-<p>Конференция Moscow Python Conf: <a href='https://conf.python.ru/moscow/2020'>https://conf.python.ru/moscow/2020</a></p>
-]]></description>
-            <content:encoded><![CDATA[<p>В гостях у Moscow Python Podcast Андрей Ермилов и Максим Белоусов, разработчики компании Rambler. Поговорили о извилистом пути Python, и не только, разработчиков.</p>
-<p>Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский и тимлид NVIDIA Злата Обуховская и DevRel компании Evrone.</p>
-<p>Все выпуски: <a href='https://rebrand.ly/pythonpodcasta6ffe'>https://rebrand.ly/pythonpodcasta6ffe </a></p>
-<p>Митапы MoscowPython: <a href='https://rebrand.ly/pythonmeetupf6315'>https://rebrand.ly/pythonmeetupf6315 </a></p>
-<p>Курс Learn Python: <a href='https://rebrand.ly/learnpythondc288'>https://rebrand.ly/learnpythondc288 </a></p>
-<p>Конференция Moscow Python Conf: <a href='https://conf.python.ru/moscow/2020'>https://conf.python.ru/moscow/2020</a></p>
-]]></content:encoded>
-
-            <enclosure url="https://mcdn.podbean.com/mf/web/cie7ei/4_.mp3" length="106988437" type="audio/mpeg"/>
-            <itunes:subtitle>В гостях у Moscow Python Podcast Андрей Ермилов и Максим Белоусов, разработчики компании
-                Rambler. Поговорили о извилистом пути Python, и не только, разработчиков.
-                Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский и т...
-            </itunes:subtitle>
-            <itunes:summary><![CDATA[В гостях у Moscow Python Podcast Андрей Ермилов и Максим Белоусов, разработчики компании Rambler. Поговорили о извилистом пути Python, и не только, разработчиков.
-Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский и тимлид NVIDIA Злата Обуховская и DevRel компании Evrone.
-Все выпуски: https://rebrand.ly/pythonpodcasta6ffe 
-Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315 
-Курс Learn Python: https://rebrand.ly/learnpythondc288 
-Конференция Moscow Python Conf: https://conf.python.ru/moscow/2020]]></itunes:summary>
-            <itunes:author>MoscowPython</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:block>No</itunes:block>
-            <itunes:duration>55:42</itunes:duration>
-            <itunes:episode>72</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png"/>
-        </item>
-        <item>
-            <title>Как сохранить продуктивность, работая из дома.</title>
-            <itunes:title>Как сохранить продуктивность, работая из дома.</itunes:title>
-            <link>
-                https://learnpython.podbean.com/e/%d0%ba%d0%b0%d0%ba-%d1%81%d0%be%d1%85%d1%80%d0%b0%d0%bd%d0%b8%d1%82%d1%8c-%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%82%d0%b8%d0%b2%d0%bd%d0%be/
-            </link>
-            <comments>
-                https://learnpython.podbean.com/e/%d0%ba%d0%b0%d0%ba-%d1%81%d0%be%d1%85%d1%80%d0%b0%d0%bd%d0%b8%d1%82%d1%8c-%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%82%d0%b8%d0%b2%d0%bd%d0%be/#comments
-            </comments>
-            <pubDate>Tue, 07 Apr 2020 08:14:28 -0300</pubDate>
-            <guid isPermaLink="false">learnpython.podbean.com/a6ff84d1-5a10-5ee0-b926-0e4fabcb6bcb</guid>
-            <description><![CDATA[<p>Активисты и сооснователи сообщества Moscow Python разбираются, легко ли среднестатистическому айтишнику работать из дома. И какие базовые правила нужно соблюдать, чтобы оставаться продуктивными.</p>
-<p>На связи - разработчик Х5 Retail Group и активист MoscowPython Алексей Штырняев, сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
-]]></description>
-            <content:encoded><![CDATA[<p>Активисты и сооснователи сообщества Moscow Python разбираются, легко ли среднестатистическому айтишнику работать из дома. И какие базовые правила нужно соблюдать, чтобы оставаться продуктивными.</p>
-<p>На связи - разработчик Х5 Retail Group и активист MoscowPython Алексей Штырняев, сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
-]]></content:encoded>
-
-            <enclosure url="https://mcdn.podbean.com/mf/web/vucdrf/GMT20200404-102755_----------.m4a" length="13920368"
-                       type="audio/x-m4a"/>
-            <itunes:subtitle>Активисты и сооснователи сообщества Moscow Python разбираются, легко ли
-                среднестатистическому айтишнику работать из дома. И какие базовые правила нужно соблюдать, чтобы
-                оставаться продуктивными.
-                На связи - разработчик Х5 Retail Group и активист Mosco...
-            </itunes:subtitle>
-            <itunes:summary><![CDATA[Активисты и сооснователи сообщества Moscow Python разбираются, легко ли среднестатистическому айтишнику работать из дома. И какие базовые правила нужно соблюдать, чтобы оставаться продуктивными.
-На связи - разработчик Х5 Retail Group и активист MoscowPython Алексей Штырняев, сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.]]></itunes:summary>
-            <itunes:author>MoscowPython</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:block>No</itunes:block>
-            <itunes:duration>34:05</itunes:duration>
-            <itunes:episode>71</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png"/>
-        </item>
-        <item>
-            <title>Moscow Python Podcast. DevRel, секреты профессионального мастерства (level: junior)</title>
-            <itunes:title>Moscow Python Podcast. DevRel, секреты профессионального мастерства (level: junior)
-            </itunes:title>
-            <link>
-                https://learnpython.podbean.com/e/moscow-python-podcast-devrel%d1%81%d0%b5%d0%ba%d1%80%d0%b5%d1%82%d1%8b-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d1%81%d0%b8%d0%be%d0%bd%d0%b0/
-            </link>
-            <comments>
-                https://learnpython.podbean.com/e/moscow-python-podcast-devrel%d1%81%d0%b5%d0%ba%d1%80%d0%b5%d1%82%d1%8b-%d0%bf%d1%80%d0%be%d1%84%d0%b5%d1%81%d1%81%d0%b8%d0%be%d0%bd%d0%b0/#comments
-            </comments>
-            <pubDate>Sat, 04 Apr 2020 04:19:51 -0300</pubDate>
-            <guid isPermaLink="false">learnpython.podbean.com/4333299d-e70f-5f95-a1c0-4a8d90b35fb9</guid>
-            <description><![CDATA[<p>В гостях у Moscow Python Podcast Евгения Голева, DevRel компании Lamoda. Обсудили, что такое DevRel, его направления и зачем он нужен.</p>
-<p>Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
-<p>Все выпуски: <a href='https://rebrand.ly/pythonpodcasta6ffe'>https://rebrand.ly/pythonpodcasta6ffe </a></p>
-<p>Митапы MoscowPython: <a href='https://rebrand.ly/pythonmeetupf6315'>https://rebrand.ly/pythonmeetupf6315 </a></p>
-<p>Курс Learn Python: <a href='https://rebrand.ly/learnpythondc288'>https://rebrand.ly/learnpythondc288 </a></p>
-<p>Конференция Moscow Python Conf: https://conf.python.ru/moscow/2020</p>
-]]></description>
-            <content:encoded><![CDATA[<p>В гостях у Moscow Python Podcast Евгения Голева, DevRel компании Lamoda. Обсудили, что такое DevRel, его направления и зачем он нужен.</p>
-<p>Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
-<p>Все выпуски: <a href='https://rebrand.ly/pythonpodcasta6ffe'>https://rebrand.ly/pythonpodcasta6ffe </a></p>
-<p>Митапы MoscowPython: <a href='https://rebrand.ly/pythonmeetupf6315'>https://rebrand.ly/pythonmeetupf6315 </a></p>
-<p>Курс Learn Python: <a href='https://rebrand.ly/learnpythondc288'>https://rebrand.ly/learnpythondc288 </a></p>
-<p>Конференция Moscow Python Conf: https://conf.python.ru/moscow/2020</p>
-]]></content:encoded>
-
-            <enclosure url="https://mcdn.podbean.com/mf/web/ks9584/3_.mp3" length="89286434" type="audio/mpeg"/>
-            <itunes:subtitle>В гостях у Moscow Python Podcast Евгения Голева, DevRel компании Lamoda. Обсудили, что
-                такое DevRel, его направления и зачем он нужен.
-                Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата
-                Обуховская...
-            </itunes:subtitle>
-            <itunes:summary><![CDATA[В гостях у Moscow Python Podcast Евгения Голева, DevRel компании Lamoda. Обсудили, что такое DevRel, его направления и зачем он нужен.
-Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.
-Все выпуски: https://rebrand.ly/pythonpodcasta6ffe 
-Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315 
-Курс Learn Python: https://rebrand.ly/learnpythondc288 
-Конференция Moscow Python Conf: https://conf.python.ru/moscow/2020]]></itunes:summary>
-            <itunes:author>MoscowPython</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:block>No</itunes:block>
-            <itunes:duration>46:29</itunes:duration>
-            <itunes:episode>70</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png"/>
-        </item>
-        <item>
-            <title>Moscow Python Podcast. Data science в распределенной среде (level: middle)</title>
-            <itunes:title>Moscow Python Podcast. Data science в распределенной среде (level: middle)</itunes:title>
-            <link>
-                https://learnpython.podbean.com/e/moscow-python-podcast-data-science%d0%b2-%d1%80%d0%b0%d1%81%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b5%d0%bd%d0%bd%d0%be%d0%b9-%d1%81%d1%80/
-            </link>
-            <comments>
-                https://learnpython.podbean.com/e/moscow-python-podcast-data-science%d0%b2-%d1%80%d0%b0%d1%81%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b5%d0%bd%d0%bd%d0%be%d0%b9-%d1%81%d1%80/#comments
-            </comments>
-            <pubDate>Fri, 27 Mar 2020 06:03:22 -0300</pubDate>
-            <guid isPermaLink="false">learnpython.podbean.com/a2c4df60-16d1-553b-a30e-060a8e9e1bde</guid>
-            <description><![CDATA[<p>В гостях у Moscow Python Podcast Андрей Гаврилов, Big Data Python developer в EPAM. Поговорили о сложностях связанных с распределенными вычислениями в Big Data и Data science. Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров. Все выпуски: https://rebrand.ly/pythonpodcasta6ffe Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315 Курс Learn Python: https://rebrand.ly/learnpythondc288 Конференция Moscow Python Conf: https://conf.python.ru/moscow/2020</p>
-]]></description>
-            <content:encoded><![CDATA[<p>В гостях у Moscow Python Podcast Андрей Гаврилов, Big Data Python developer в EPAM. Поговорили о сложностях связанных с распределенными вычислениями в Big Data и Data science. Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров. Все выпуски: https://rebrand.ly/pythonpodcasta6ffe Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315 Курс Learn Python: https://rebrand.ly/learnpythondc288 Конференция Moscow Python Conf: https://conf.python.ru/moscow/2020</p>
-]]></content:encoded>
-
-            <enclosure url="https://mcdn.podbean.com/mf/web/aa24bx/4__4.mp3" length="72499240" type="audio/mpeg"/>
-            <itunes:subtitle>В гостях у Moscow Python Podcast Андрей Гаврилов, Big Data Python developer в EPAM.
-                Поговорили о сложностях связанных с распределенными вычислениями в Big Data и Data science. Ведущие
-                выпуска — сооснователь MoscowPython и компании DryLabs Валентин До...
-            </itunes:subtitle>
-            <itunes:summary>
-                <![CDATA[В гостях у Moscow Python Podcast Андрей Гаврилов, Big Data Python developer в EPAM. Поговорили о сложностях связанных с распределенными вычислениями в Big Data и Data science. Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров. Все выпуски: https://rebrand.ly/pythonpodcasta6ffe Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315 Курс Learn Python: https://rebrand.ly/learnpythondc288 Конференция Moscow Python Conf: https://conf.python.ru/moscow/2020]]></itunes:summary>
-            <itunes:author>MoscowPython</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:block>No</itunes:block>
-            <itunes:duration>37:45</itunes:duration>
-            <itunes:episode>69</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png"/>
-        </item>
-        <item>
-            <title>Moscow Python Podcast. Как психануть и устроиться на стажировку в Яндекс (level: junior)</title>
-            <itunes:title>Moscow Python Podcast. Как психануть и устроиться на стажировку в Яндекс (level: junior)
-            </itunes:title>
-            <link>
-                https://learnpython.podbean.com/e/moscow-python-podcast-%d0%ba%d0%b0%d0%ba-%d0%bf%d1%81%d0%b8%d1%85%d0%b0%d0%bd%d1%83%d1%82%d1%8c-%d0%b8-%d1%83%d1%81%d1%82%d1%80%d0%be%d0%b8/
-            </link>
-            <comments>
-                https://learnpython.podbean.com/e/moscow-python-podcast-%d0%ba%d0%b0%d0%ba-%d0%bf%d1%81%d0%b8%d1%85%d0%b0%d0%bd%d1%83%d1%82%d1%8c-%d0%b8-%d1%83%d1%81%d1%82%d1%80%d0%be%d0%b8/#comments
-            </comments>
-            <pubDate>Fri, 20 Mar 2020 12:17:50 -0300</pubDate>
-            <guid isPermaLink="false">learnpython.podbean.com/ec9c6637-4394-5788-91ea-749f11e29f11</guid>
-            <description><![CDATA[<p>В гостях у Moscow Python Podcast Татьяна Евменова, выпускник LearnPython, стажер в Яндексе. Обсудили проблемы и возможности при смене профессии и как бороться с синдромом самозванца. Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров. Все выпуски: https://rebrand.ly/pythonpodcasta6ffe Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315 Курс Learn Python: https://rebrand.ly/learnpythondc288 Конференция Moscow Python Conf: https://conf.python.ru/moscow/2020</p>
-]]></description>
-            <content:encoded><![CDATA[<p>В гостях у Moscow Python Podcast Татьяна Евменова, выпускник LearnPython, стажер в Яндексе. Обсудили проблемы и возможности при смене профессии и как бороться с синдромом самозванца. Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров. Все выпуски: https://rebrand.ly/pythonpodcasta6ffe Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315 Курс Learn Python: https://rebrand.ly/learnpythondc288 Конференция Moscow Python Conf: https://conf.python.ru/moscow/2020</p>
-]]></content:encoded>
-
-            <enclosure url="https://mcdn.podbean.com/mf/web/b6xw87/3__3.mp3" length="67513685" type="audio/mpeg"/>
-            <itunes:subtitle>В гостях у Moscow Python Podcast Татьяна Евменова, выпускник LearnPython, стажер в Яндексе.
-                Обсудили проблемы и возможности при смене профессии и как бороться с синдромом самозванца. Ведущие
-                выпуска — сооснователь MoscowPython и компании DryLabs Вале...
-            </itunes:subtitle>
-            <itunes:summary>
-                <![CDATA[В гостях у Moscow Python Podcast Татьяна Евменова, выпускник LearnPython, стажер в Яндексе. Обсудили проблемы и возможности при смене профессии и как бороться с синдромом самозванца. Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров. Все выпуски: https://rebrand.ly/pythonpodcasta6ffe Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315 Курс Learn Python: https://rebrand.ly/learnpythondc288 Конференция Moscow Python Conf: https://conf.python.ru/moscow/2020]]></itunes:summary>
-            <itunes:author>MoscowPython</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:block>No</itunes:block>
-            <itunes:duration>35:09</itunes:duration>
-            <itunes:episode>68</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png"/>
-        </item>
-        <item>
-            <title>Moscow Python Podcast. Проблемы jupyter notebook и их решения в production (level: junior)</title>
-            <itunes:title>Moscow Python Podcast. Проблемы jupyter notebook и их решения в production (level: junior)
-            </itunes:title>
-            <link>
-                https://learnpython.podbean.com/e/moscow-python-podcast-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d1%8b-jupyternotebook-%d0%b8%d0%b8%d1%85-%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8/
-            </link>
-            <comments>
-                https://learnpython.podbean.com/e/moscow-python-podcast-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d1%8b-jupyternotebook-%d0%b8%d0%b8%d1%85-%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8/#comments
-            </comments>
-            <pubDate>Sat, 14 Mar 2020 05:06:07 -0300</pubDate>
-            <guid isPermaLink="false">learnpython.podbean.com/7bbbc288-9dc8-508f-883b-bec57fe50275</guid>
-            <description><![CDATA[<p>В гостях у Moscow Python Podcast Петр Ермаков, senior data scientist в компании Lamoda, основатель школы DataGym. Обсудили возможности коллективной работы с jupyter notebook и многое другое. Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
-<p> </p>
-<p>Все выпуски:</p>
-<p><a href='https://rebrand.ly/pythonpodcasta6ffe'>https://rebrand.ly/pythonpodcasta6ffe</a></p>
-<p> </p>
-<p>Митапы MoscowPython:</p>
-<p><a href='https://rebrand.ly/pythonmeetupf6315'>https://rebrand.ly/pythonmeetupf6315 </a></p>
-<p>Курс Learn Python:</p>
-<p><a href='https://rebrand.ly/learnpythondc288'>https://rebrand.ly/learnpythondc288 </a></p>
-<p>Конференция Moscow Python Conf:</p>
-<p><a href='https://conf.python.ru/moscow/2020'>https://conf.python.ru/moscow/2020</a></p>
-<p> </p>
-]]></description>
-            <content:encoded><![CDATA[<p>В гостях у Moscow Python Podcast Петр Ермаков, senior data scientist в компании Lamoda, основатель школы DataGym. Обсудили возможности коллективной работы с jupyter notebook и многое другое. Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.</p>
-<p> </p>
-<p>Все выпуски:</p>
-<p><a href='https://rebrand.ly/pythonpodcasta6ffe'>https://rebrand.ly/pythonpodcasta6ffe</a></p>
-<p> </p>
-<p>Митапы MoscowPython:</p>
-<p><a href='https://rebrand.ly/pythonmeetupf6315'>https://rebrand.ly/pythonmeetupf6315 </a></p>
-<p>Курс Learn Python:</p>
-<p><a href='https://rebrand.ly/learnpythondc288'>https://rebrand.ly/learnpythondc288 </a></p>
-<p>Конференция Moscow Python Conf:</p>
-<p><a href='https://conf.python.ru/moscow/2020'>https://conf.python.ru/moscow/2020</a></p>
-<p> </p>
-]]></content:encoded>
-
-            <enclosure url="https://mcdn.podbean.com/mf/web/7qek5b/2__1.mp3" length="70601283" type="audio/mpeg"/>
-            <itunes:subtitle>В гостях у Moscow Python Podcast Петр Ермаков, senior data scientist в компании Lamoda,
-                основатель школы DataGym. Обсудили возможности коллективной работы с jupyter notebook и многое другое.
-                Ведущие выпуска — сооснователь MoscowPython и компании DryL...
-            </itunes:subtitle>
-            <itunes:summary><![CDATA[В гостях у Moscow Python Podcast Петр Ермаков, senior data scientist в компании Lamoda, основатель школы DataGym. Обсудили возможности коллективной работы с jupyter notebook и многое другое. Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров.
- 
-Все выпуски:
-https://rebrand.ly/pythonpodcasta6ffe
- 
-Митапы MoscowPython:
-https://rebrand.ly/pythonmeetupf6315 
-Курс Learn Python:
-https://rebrand.ly/learnpythondc288 
-Конференция Moscow Python Conf:
-https://conf.python.ru/moscow/2020
- ]]></itunes:summary>
-            <itunes:author>MoscowPython</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:block>No</itunes:block>
-            <itunes:duration>36:45</itunes:duration>
-            <itunes:episode>67</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png"/>
-        </item>
-        <item>
-            <title>Moscow Python Podcast. Разработка приложений для Windows на Python (level: middle)</title>
-            <itunes:title>Moscow Python Podcast. Разработка приложений для Windows на Python (level: middle)
-            </itunes:title>
-            <link>
-                https://learnpython.podbean.com/e/moscow-python-podcast-%d1%80%d0%b0%d0%b7%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%ba%d0%b0-%d0%bf%d1%80%d0%b8%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b9/
-            </link>
-            <comments>
-                https://learnpython.podbean.com/e/moscow-python-podcast-%d1%80%d0%b0%d0%b7%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%ba%d0%b0-%d0%bf%d1%80%d0%b8%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b9/#comments
-            </comments>
-            <pubDate>Fri, 06 Mar 2020 06:05:47 -0400</pubDate>
-            <guid isPermaLink="false">learnpython.podbean.com/1e69b2c1-56ed-52e0-937c-63b5452bd9ca</guid>
-            <description><![CDATA[<p>В гостях у Moscow Python Podcast Василий Панков, руководитель Python разработки в компании Ernst & Young. Поговорили о интеграция Python-приложений с Windows API и зачем нужен Python для работы с приложениями на Windows. Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров. Все выпуски: https://rebrand.ly/pythonpodcasta6ffe Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315 Курс Learn Python: https://rebrand.ly/learnpythondc288 Конференция Moscow Python Conf: https://conf.python.ru/moscow/2020</p>
-]]></description>
-            <content:encoded><![CDATA[<p>В гостях у Moscow Python Podcast Василий Панков, руководитель Python разработки в компании Ernst & Young. Поговорили о интеграция Python-приложений с Windows API и зачем нужен Python для работы с приложениями на Windows. Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров. Все выпуски: https://rebrand.ly/pythonpodcasta6ffe Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315 Курс Learn Python: https://rebrand.ly/learnpythondc288 Конференция Moscow Python Conf: https://conf.python.ru/moscow/2020</p>
-]]></content:encoded>
-
-            <enclosure url="https://mcdn.podbean.com/mf/web/u7yzvu/1__1.mp3" length="72757421" type="audio/mpeg"/>
-            <itunes:subtitle>В гостях у Moscow Python Podcast Василий Панков, руководитель Python разработки в компании
-                Ernst &amp; Young. Поговорили о интеграция Python-приложений с Windows API и зачем нужен Python для
-                работы с приложениями на Windows. Ведущие выпуска — соосновател...
-            </itunes:subtitle>
-            <itunes:summary>
-                <![CDATA[В гостях у Moscow Python Podcast Василий Панков, руководитель Python разработки в компании Ernst & Young. Поговорили о интеграция Python-приложений с Windows API и зачем нужен Python для работы с приложениями на Windows. Ведущие выпуска — сооснователь MoscowPython и компании DryLabs Валентин Домбровский, тимлид NVIDIA Злата Обуховская и DevRel компании Evrone, руководитель программного комитета Moscow Python Conf++ Григорий Петров. Все выпуски: https://rebrand.ly/pythonpodcasta6ffe Митапы MoscowPython: https://rebrand.ly/pythonmeetupf6315 Курс Learn Python: https://rebrand.ly/learnpythondc288 Конференция Moscow Python Conf: https://conf.python.ru/moscow/2020]]></itunes:summary>
-            <itunes:author>MoscowPython</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:block>No</itunes:block>
-            <itunes:duration>37:53</itunes:duration>
-            <itunes:episode>66</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png"/>
-        </item>
-    </channel>
+        <itunes:author>MoscowPython</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>40:50</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>153</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/3240357/1_.png" />    </item>
+</channel>
 </rss>
