@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:castbox="http://castbox.fm/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     version="2.0">
+    <channel>
+        <atom:link href="http://rss.castbox.fm/everest/ceae332912dc4626b063e111fbbf9ff6.xml" type="application/rss+xml" rel="self"/>
+        <copyright></copyright>
+        <link>https://castbox.fm/ch/4718681</link>
+        <language>en-us</language>
+
+        <title>👮 👯 👰 👱 👲 👳 👴 👵 👶 👷 👸 👹 👺 👻 👼 👽 👾 👿 💀 💁 💂🎄 🎅 🎆 ₳ ☧ ␢ ֆ 💳</title>
+        <description><![CDATA[Сахарные радости со смайлами с castbox]]></description>
+        <castbox:uid>e142fbfdb0c0474abeb0b0dcad71bc38</castbox:uid>
+        <castbox:pid>4718681</castbox:pid>
+        <castbox:type></castbox:type>
+
+        <itunes:summary><![CDATA[Сахарные радости со смайлами с castbox]]></itunes:summary>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:author>zlata-evdokimova</itunes:author>
+
+        <itunes:owner>
+            <itunes:email>gasevskyv@gmail.com</itunes:email>
+        </itunes:owner>
+
+        <itunes:image href="https://s3.castbox.fm/55/31/46/cfb51a4cfaa6eccac14e2a11b2.jpg"/>
+        <itunes:keywords>Society &amp; Culture</itunes:keywords>
+
+        
+        
+            
+        <itunes:category text="Society &amp; Culture"/>
+            
+        
+        
+
+        <itunes:explicit>no</itunes:explicit>
+
+        
+        <item>
+            <title>Wav</title>
+            <description><![CDATA[  <p>Сладкий зефир</p>  ]]></description>
+            <content:encoded><![CDATA[  <p>Сладкий зефир</p>  ]]></content:encoded>
+            <itunes:summary>Сладкий зефир</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/ac/46/2f/0e594149e68bf2b70b297d4746.jpg"/>
+            <enclosure url="https://s3.castbox.fm/78/ee/4d/e2f5844aa0b77c4a3943bc27aa.mp3" type="audio/mp3" length="2221485"/>
+            <itunes:duration>00:02:18</itunes:duration>
+            <guid isPermaLink="false">album-ceae332912dc4626b063e111fbbf9ff6-6b8b3f6bf4b64902bcf67ac71a7f1f0b</guid>
+            <pubDate>Tue, 21 Dec 2021 09:21:34 +0000</pubDate>
+            <castbox:tid>452582549</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+            <itunes:season>1</itunes:season>
+            
+        </item>
+        
+    </channel>
+</rss>
