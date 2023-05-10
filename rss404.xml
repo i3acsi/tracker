@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title><![CDATA[proveryalshchik]]></title>
+        <description><![CDATA[<p>asasdsdd</p>]]></description>
+        <link>https://77kdjekjd.mave.digital</link>
+        <image>
+            <url>https://mavecloud.s3mts.ru/storage/podcasts/c7175100-3e4a-4186-a16c-e429b80bb446/images/dad4b13d-2907-4a11-87f3-d0a94eb15c09.png</url>
+            <title>proveryalshchik</title>
+            <link>https://77kdjekjd.mave.digital</link>
+        </image>
+        <generator>mave podcasts</generator>
+        <lastBuildDate>Tue, 14 Feb 2023 10:52:19 GMT</lastBuildDate>
+        <pubDate>Thu, 01 Sep 2022 09:50:00 GMT</pubDate>
+        <copyright><![CDATA[2023 © Злата. Все права защищены.]]></copyright>
+        <language><![CDATA[ru]]></language>
+        <itunes:type>episodic</itunes:type>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>Злата</itunes:author>
+        <itunes:summary>asasdsdd</itunes:summary>
+        <itunes:owner>
+            <itunes:name>Злата</itunes:name>
+            <itunes:email>gasevskyv@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://mavecloud.s3mts.ru/storage/podcasts/c7175100-3e4a-4186-a16c-e429b80bb446/images/dad4b13d-2907-4a11-87f3-d0a94eb15c09.png"/>
+        <itunes:category text="History">
+        </itunes:category>
+        <itunes:category text="Health &amp; Fitness">
+        </itunes:category>
+        <item>
+            <title><![CDATA[3 сезон]]></title>
+            <link>https://77kdjekjd.mave.digital/ep-3</link>
+            <guid isPermaLink="false">931344b0-c5d7-43fc-a521-0dae0e671882</guid>
+            <pubDate>Thu, 01 Sep 2022 09:50:00 GMT</pubDate>
+            <enclosure url="https://api.mave.digital/storage/podcasts/c7175100-3e4a-4186-a16c-e429b80bb446/episodes/3ccd353b-6bc9-493d-9946-1d0dc56febc2.mp3" length="58429" type="audio/mpeg"/>
+            <itunes:title>3 сезон</itunes:title>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>3</itunes:duration>
+            <itunes:image href="https://mavecloud.s3mts.ru/storage/podcasts/c7175100-3e4a-4186-a16c-e429b80bb446/images/dad4b13d-2907-4a11-87f3-d0a94eb15c09.png"/>
+            <itunes:season>3</itunes:season>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title><![CDATA[Своя обложка]]></title>
+            <link>https://77kdjekjd.mave.digital/ep-2</link>
+            <guid isPermaLink="false">7cd09b4a-e650-439c-a3cd-aff48b04cdf0</guid>
+            <pubDate>Mon, 28 Jun 2021 11:31:00 GMT</pubDate>
+            <enclosure url="https://api.mave.digital/storage/podcasts/c7175100-3e4a-4186-a16c-e429b80bb446/episodes/3ccd353b-6bc9-493d-9946-1d0dc56febc1.mp3" length="246511" type="audio/mpeg"/>
+            <itunes:title>Своя обложка</itunes:title>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>15</itunes:duration>
+            <itunes:image href="https://mavecloud.s3mts.ru/storage/podcasts/c7175100-3e4a-4186-a16c-e429b80bb446/images/a90e95f8-b8fc-411e-810b-4c7c6a5d09f7.jpg"/>
+            <itunes:episode>1</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title><![CDATA[Трейлер]]></title>
+            <description><![CDATA[дата публикации подкаста
+<p>2021-06-29 18:28:00<br />дата публикации эпизода изменена на </p><p>2017-06-29 </p>]]></description>
+            <link>https://77kdjekjd.mave.digital/ep-1</link>
+            <guid isPermaLink="false">dbeb2a47-0b4d-4bc2-b113-8847fcda1252</guid>
+            <pubDate>Thu, 29 Jun 2017 11:28:00 GMT</pubDate>
+            <enclosure url="https://api.mave.digital/storage/podcasts/c7175100-3e4a-4186-a16c-e429b80bb446/episodes/3ccd353b-6bc9-493d-9946-1d0dc56febc0.mp3" length="242542" type="audio/mpeg"/>
+            <itunes:title>Трейлер</itunes:title>
+            <itunes:summary>дата публикации подкаста
+2021-06-29 18:28:00
+дата публикации эпизода изменена на
+2017-06-29</itunes:summary>
+            <content:encoded>дата публикации подкаста
+&lt;p&gt;2021-06-29 18:28:00&lt;br /&gt;дата публикации эпизода изменена на &lt;/p&gt;&lt;p&gt;2017-06-29 &lt;/p&gt;</content:encoded>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>15</itunes:duration>
+            <itunes:image href="https://mavecloud.s3mts.ru/storage/podcasts/c7175100-3e4a-4186-a16c-e429b80bb446/images/dad4b13d-2907-4a11-87f3-d0a94eb15c09.png"/>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>trailer</itunes:episodeType>
+        </item>
+    </channel>
+</rss>
