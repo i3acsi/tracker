@@ -21,8 +21,22 @@
         <itunes:block>No</itunes:block>
         <itunes:complete>No</itunes:complete>
         <item>
-            <title>тест</title>
-            <enclosure url="https://files.redbasset.tech/redbasset/episode/195/1105/41443/1676450974297_miyagi_saloon.mp3" length="6684652" type="audio/mpeg"/>
+            <title>bad_chapters</title>
+            <enclosure url=https://drive.google.com/uc?export=download&id=17LHR8e10dSsXyL2zv29Po6lC5I1stxmG" length="6684652" type="audio/mpeg"/>
+            <guid isPermaLink="false">4b98b56a-6597-4b37-bcc4-64e7fedae727</guid>
+            <pubDate>Wed, 8 Feb 2023 00:00:00 GMT</pubDate>
+            <description>&lt;p&gt;&lt;/p&gt;
+</description>
+            <itunes:duration>166</itunes:duration>
+            <link>https://st.zvuk.com/0802jjdjkqjdbwjkbksd/de71d9d1-e3dd-401b-a775-1120e8f820b2</link>
+            <itunes:image href="https://files.redbasset.tech/redbasset/episode_cover/195/1105/41443/1675922156397_poster.png"/>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:title>тест</itunes:title>
+            <itunes:block>No</itunes:block>
+        </item>
+        <item>
+            <title>ok_chapters</title>
+            <enclosure url="https://drive.google.com/uc?export=download&id=1pm-S-3j7kxNbPUem_8ChyjAmgjtqQXO2" length="6684652" type="audio/mpeg"/>
             <guid isPermaLink="false">4b98b56a-6597-4b37-bcc4-64e7fedae727</guid>
             <pubDate>Wed, 8 Feb 2023 00:00:00 GMT</pubDate>
             <description>&lt;p&gt;&lt;/p&gt;
