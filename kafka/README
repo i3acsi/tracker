@@ -1,0 +1,1 @@
+gleb@hh-desktop:~/hh_work_gitlab/scripts/kafka-scripts/dev$ /usr/local/kafka/bin/kafka-topics.sh --command-config conf.properties --bootstrap-server ${servers} --create --topic research-platform-topic
