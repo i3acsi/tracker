@@ -1,0 +1,3356 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <link type="text/css" id="dark-mode" rel="stylesheet" href=""/>
+    <channel>
+        <title>Самые честные новости</title>
+        <link>https://www.youtube.com/user/temalebedev</link>
+        <language>ru</language>
+        <image>
+            <url>https://podcast.tema.ru/avatar.jpg</url>
+            <title>Самые честные новости</title>
+            <link>https://www.youtube.com/user/temalebedev</link>
+        </image>
+        <itunes:author>Артемий Лебедев</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <description>Подкаст самых честных новостей</description>
+        <itunes:owner>
+            <itunes:name>Артемий Лебедев</itunes:name>
+            <itunes:email>gasevskyv@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://podcast.tema.ru/avatar_high.jpg"/>
+        <itunes:category text="News"/>
+        <lastBuildDate>Tue, 30 Jan 2024 12:43:31 GMT</lastBuildDate>
+        <pubDate>Fri, 19 Jan 2024 19:22:22 GMT</pubDate>
+        <item>
+            <title>№ 480 Изнасилование в метавселенной / Болезнь Х / Жена подарила мужу любовницу</title>
+            <enclosure url="https://podcast.tema.ru/audio/vPp1uKhgBZmnvLxysfn5aP.mp3" length="75696794" type="audio/mpeg"/>
+            <guid>vPp1uKhgBZmnvLxysfn5aP</guid>
+            <pubDate>Fri, 19 Jan 2024 19:22:22 GMT</pubDate>
+            <itunes:duration>51:24</itunes:duration>
+        </item>
+        <item>
+            <title>№ 479 Арабы поимели Галкина / США остановили помощь Украине / Война в Йемене</title>
+            <enclosure url="https://podcast.tema.ru/audio/iJVJ9URpoujosQuigzkUyY.mp3" length="74480228" type="audio/mpeg"/>
+            <guid>iJVJ9URpoujosQuigzkUyY</guid>
+            <pubDate>Wed, 17 Jan 2024 19:22:22 GMT</pubDate>
+            <itunes:duration>51:43</itunes:duration>
+        </item>
+        <item>
+            <title>№ 478 Столкновение метро в Нью-Йорке / Боинг в полете потерял дверь / Илон Маск — наркоман</title>
+            <enclosure url="https://podcast.tema.ru/audio/aBBkVm5TkJXXQRBrg2NQah.mp3" length="66811327" type="audio/mpeg"/>
+            <guid>aBBkVm5TkJXXQRBrg2NQah</guid>
+            <pubDate>Fri, 12 Jan 2024 19:22:22 GMT</pubDate>
+            <itunes:duration>45:26</itunes:duration>
+        </item>
+        <item>
+            <title>№ 477 В Ульяновске упала Луна / Елка из туалетов / Ютубер умер во время оргии</title>
+            <enclosure url="https://podcast.tema.ru/audio/cKdpa1r6qdV8c4F99hfQiQ.mp3" length="64275176" type="audio/mpeg"/>
+            <guid>cKdpa1r6qdV8c4F99hfQiQ</guid>
+            <pubDate>Wed, 10 Jan 2024 19:22:22 GMT</pubDate>
+            <itunes:duration>44:38</itunes:duration>
+        </item>
+        <item>
+            <title>№ 476 Удар ВСУ по Белгороду / Школьниц оставили без штанов / Якутский дракон из навоза</title>
+            <enclosure url="https://podcast.tema.ru/audio/wvDqyCZw3HuHb1LYJwPcy1.mp3" length="64026654" type="audio/mpeg"/>
+            <guid>wvDqyCZw3HuHb1LYJwPcy1</guid>
+            <pubDate>Fri, 05 Jan 2024 19:22:22 GMT</pubDate>
+            <itunes:duration>44:27</itunes:duration>
+        </item>
+        <item>
+            <title>№ 475 Подростка убили за лень / Пожизненное заточение хакера / Санта-Клаус пролетел над Россией</title>
+            <enclosure url="https://podcast.tema.ru/audio/c6yGe9KQFWeNLocYHxG55f.mp3" length="44814088" type="audio/mpeg"/>
+            <guid>c6yGe9KQFWeNLocYHxG55f</guid>
+            <pubDate>Tue, 02 Jan 2024 19:22:22 GMT</pubDate>
+            <itunes:duration>31:07</itunes:duration>
+        </item>
+        <item>
+            <title>№ 474 Отмена Киркорова / Байден спел песню «Я русский» / Нашествие Дедов Морозов</title>
+            <enclosure url="https://podcast.tema.ru/audio/f3Fv3wVuWQre7RzkSbGa8x.mp3" length="64448847" type="audio/mpeg"/>
+            <guid>f3Fv3wVuWQre7RzkSbGa8x</guid>
+            <pubDate>Fri, 29 Dec 2023 19:22:22 GMT</pubDate>
+            <itunes:duration>44:07</itunes:duration>
+        </item>
+        <item>
+            <title>№ 473 Голая вечеринка Ивлеевой / Захват посольства Кении в Москве / Кошмар на американских горках</title>
+            <enclosure url="https://podcast.tema.ru/audio/tkENtTRrANDJaAXau9Vk6o.mp3" length="90499568" type="audio/mpeg"/>
+            <guid>tkENtTRrANDJaAXau9Vk6o</guid>
+            <pubDate>Wed, 27 Dec 2023 19:22:22 GMT</pubDate>
+            <itunes:duration>01:02:50</itunes:duration>
+        </item>
+        <item>
+            <title>№ 472 Огнестрел ягодицы на МРТ / Массовая гибель слонов / 12-й пакет санкций</title>
+            <enclosure url="https://podcast.tema.ru/audio/fQMNonsJWRr9iZaBnHo9Cr.mp3" length="82977546" type="audio/mpeg"/>
+            <guid>fQMNonsJWRr9iZaBnHo9Cr</guid>
+            <pubDate>Fri, 22 Dec 2023 19:22:22 GMT</pubDate>
+            <itunes:duration>57:37</itunes:duration>
+        </item>
+        <item>
+            <title>№ 471 Королева «Автоваза» / Патриарх Кирилл в розыске / Запрет на книги Акунина</title>
+            <enclosure url="https://podcast.tema.ru/audio/djBdw3JLK3WTbQvzwx7E9s.mp3" length="100913078" type="audio/mpeg"/>
+            <guid>djBdw3JLK3WTbQvzwx7E9s</guid>
+            <pubDate>Wed, 20 Dec 2023 19:22:22 GMT</pubDate>
+            <itunes:duration>01:10:04</itunes:duration>
+        </item>
+        <item>
+            <title>№ 470 Матрас из презервативов / Младенца назвали Чушпаном / Признание Киркорова</title>
+            <enclosure url="https://podcast.tema.ru/audio/4ZGbQpiQYpRydh6DFWshwg.mp3" length="83901953" type="audio/mpeg"/>
+            <guid>4ZGbQpiQYpRydh6DFWshwg</guid>
+            <pubDate>Fri, 15 Dec 2023 19:22:22 GMT</pubDate>
+            <itunes:duration>56:53</itunes:duration>
+        </item>
+        <item>
+            <title>№ 469 Кот загадил Эрмитаж / Ким Чен Ын расплакался / В Киеве затопило метро</title>
+            <enclosure url="https://podcast.tema.ru/audio/jiHtWThtiBEFuvjJ1dxfX4.mp3" length="99812874" type="audio/mpeg"/>
+            <guid>jiHtWThtiBEFuvjJ1dxfX4</guid>
+            <pubDate>Tue, 12 Dec 2023 19:22:22 GMT</pubDate>
+            <itunes:duration>01:09:18</itunes:duration>
+        </item>
+        <item>
+            <title>№ 468 Вакцина от алкоголизма / 70-летняя женщина родила близнецов / Собака с пятью ногами</title>
+            <enclosure url="https://podcast.tema.ru/audio/725FjUJkbMAoKrvckTAPsG.mp3" length="85906504" type="audio/mpeg"/>
+            <guid>725FjUJkbMAoKrvckTAPsG</guid>
+            <pubDate>Fri, 08 Dec 2023 19:22:22 GMT</pubDate>
+            <itunes:duration>58:29</itunes:duration>
+        </item>
+        <item>
+            <title>№ 467 Зеленский — мечтатель года / Преследование Л*** и т.д. в России / Уральские чиновники украли елку</title>
+            <enclosure url="https://podcast.tema.ru/audio/5JaZ3LoqXvCJihtxbFXvv3.mp3" length="99628756" type="audio/mpeg"/>
+            <guid>5JaZ3LoqXvCJihtxbFXvv3</guid>
+            <pubDate>Wed, 06 Dec 2023 19:22:22 GMT</pubDate>
+            <itunes:duration>01:07:45</itunes:duration>
+        </item>
+        <item>
+            <title>№ 466 Московские робокошки / Блоуджоб на борту Победы / Парашютист без головы</title>
+            <enclosure url="https://podcast.tema.ru/audio/oCvXuho88XKAg9qyZEjcF5.mp3" length="87059025" type="audio/mpeg"/>
+            <guid>oCvXuho88XKAg9qyZEjcF5</guid>
+            <pubDate>Fri, 01 Dec 2023 19:22:22 GMT</pubDate>
+            <itunes:duration>01:00:01</itunes:duration>
+        </item>
+        <item>
+            <title>№ 465 Шарлот поговорил с Зеленским / Юг России смыло ураганом / Первые тампоны для мужчин</title>
+            <enclosure url="https://podcast.tema.ru/audio/peGY3KN2bgjeBL5rGuAtXX.mp3" length="88326272" type="audio/mpeg"/>
+            <guid>peGY3KN2bgjeBL5rGuAtXX</guid>
+            <pubDate>Wed, 29 Nov 2023 19:22:22 GMT</pubDate>
+            <itunes:duration>01:01:19</itunes:duration>
+        </item>
+        <item>
+            <title>№ 464 Коктейль за 1890 фунтов / Джемперы из человеческих волос / Изгнание котов из МГУ</title>
+            <enclosure url="https://podcast.tema.ru/audio/mu8rfijNgQa7nu2mSjfkdf.mp3" length="81421861" type="audio/mpeg"/>
+            <guid>mu8rfijNgQa7nu2mSjfkdf</guid>
+            <pubDate>Fri, 24 Nov 2023 19:22:22 GMT</pubDate>
+            <itunes:duration>55:13</itunes:duration>
+        </item>
+        <item>
+            <title>№ 463 Наемники бегут с Украины / Поврежден череп Путина / Девушка с двумя матками</title>
+            <enclosure url="https://podcast.tema.ru/audio/xAfBR51RMMWimooM2rjhMU.mp3" length="96802136" type="audio/mpeg"/>
+            <guid>xAfBR51RMMWimooM2rjhMU</guid>
+            <pubDate>Wed, 22 Nov 2023 19:22:22 GMT</pubDate>
+            <itunes:duration>01:07:13</itunes:duration>
+        </item>
+        <item>
+            <title>№ 462 Голый русский в Паттайе / Опасность чайных пакетиков / Самая одинокая овца</title>
+            <enclosure url="https://podcast.tema.ru/audio/hjAEKyNTz7vLPj3hVqdKbf.mp3" length="76332810" type="audio/mpeg"/>
+            <guid>hjAEKyNTz7vLPj3hVqdKbf</guid>
+            <pubDate>Fri, 17 Nov 2023 19:22:22 GMT</pubDate>
+            <itunes:duration>53:00</itunes:duration>
+        </item>
+        <item>
+            <title>№ 461 Налог на дождевую воду / Запад забил на Киев / Пересадка глаза</title>
+            <enclosure url="https://podcast.tema.ru/audio/gxAXBkw111xFQwjsvv1MG4.mp3" length="99572675" type="audio/mpeg"/>
+            <guid>gxAXBkw111xFQwjsvv1MG4</guid>
+            <pubDate>Tue, 14 Nov 2023 19:22:22 GMT</pubDate>
+            <itunes:duration>01:09:08</itunes:duration>
+        </item>
+        <item>
+            <title>№ 460 Суд в стриптиз-баре / Канье Уэст требует целовать Гитлера / Очень плохая учительница из Челябинска</title>
+            <enclosure url="https://podcast.tema.ru/audio/kgxgJNVW1JCPz5ztnCRWY6.mp3" length="85680110" type="audio/mpeg"/>
+            <guid>kgxgJNVW1JCPz5ztnCRWY6</guid>
+            <pubDate>Fri, 10 Nov 2023 19:22:22 GMT</pubDate>
+            <itunes:duration>59:29</itunes:duration>
+        </item>
+        <item>
+            <title>№ 459 Моргенштерн обсуждает Дурова / Обезьяны похитили девочку / Нашествие пенисов в Ебурге</title>
+            <enclosure url="https://podcast.tema.ru/audio/6fosRm3aZM4knPGNYd3kFB.mp3" length="103757315" type="audio/mpeg"/>
+            <guid>6fosRm3aZM4knPGNYd3kFB</guid>
+            <pubDate>Tue, 07 Nov 2023 19:22:22 GMT</pubDate>
+            <itunes:duration>01:12:02</itunes:duration>
+        </item>
+        <item>
+            <title>№ 458 Бунты в Панаме / Обезьяна сделала туристу пенилинкцию / Кардашьян показала соски</title>
+            <enclosure url="https://podcast.tema.ru/audio/hUQhtpb66it9QV8UAMtvGg.mp3" length="88452433" type="audio/mpeg"/>
+            <guid>hUQhtpb66it9QV8UAMtvGg</guid>
+            <pubDate>Fri, 03 Nov 2023 19:22:22 GMT</pubDate>
+            <itunes:duration>01:01:25</itunes:duration>
+        </item>
+        <item>
+            <title>№ 457 Нападение на Анатолия Шария / Охота на евреев в Дагестане / Вакцинация от кокаина</title>
+            <enclosure url="https://podcast.tema.ru/audio/jYSgyNsw3Tc1diwWkvnJUY.mp3" length="107027373" type="audio/mpeg"/>
+            <guid>jYSgyNsw3Tc1diwWkvnJUY</guid>
+            <pubDate>Tue, 31 Oct 2023 02:05:05 GMT</pubDate>
+            <itunes:duration>01:14:19</itunes:duration>
+        </item>
+        <item>
+            <title>№ 456 Голый Дуров / Кошка с двумя носами / Торт с ядом для военных</title>
+            <enclosure url="https://podcast.tema.ru/audio/tnHUaTgAJxNVNytBnZjtHy.mp3" length="79166214" type="audio/mpeg"/>
+            <guid>tnHUaTgAJxNVNytBnZjtHy</guid>
+            <pubDate>Thu, 26 Oct 2023 02:05:05 GMT</pubDate>
+            <itunes:duration>54:58</itunes:duration>
+        </item>
+        <item>
+            <title>№ 453 День без лифчика / Провал польских властей / Гоблин против Галкина</title>
+            <enclosure url="https://podcast.tema.ru/audio/25102023.mp3" length="116397066" type="audio/mpeg"/>
+            <guid>25102023</guid>
+            <pubDate>Wed, 25 Oct 2023 02:05:05 GMT</pubDate>
+            <itunes:duration>01:20:49</itunes:duration>
+        </item>
+        <item>
+            <title>№ 455 Отмена Греты Тунберг / Взрыв больницы в Газе / Анекдот про младенцев</title>
+            <enclosure url="https://podcast.tema.ru/audio/emBL2DiRyBc1zyz13uyZ1Z.mp3" length="132048138" type="audio/mpeg"/>
+            <guid>emBL2DiRyBc1zyz13uyZ1Z</guid>
+            <pubDate>Wed, 25 Oct 2023 02:05:05 GMT</pubDate>
+            <itunes:duration>01:31:41</itunes:duration>
+        </item>
+        <item>
+            <title>№ 452 Извращенец в метро / Нашествие клопов во Франции / Трусы за полмиллиона</title>
+            <enclosure url="https://podcast.tema.ru/audio/20102023.mp3" length="94581652" type="audio/mpeg"/>
+            <guid>20102023</guid>
+            <pubDate>Fri, 20 Oct 2023 10:13:13 GMT</pubDate>
+            <itunes:duration>01:05:40</itunes:duration>
+        </item>
+        <item>
+            <title>№ 454 Кенгуру пристроилось к собаке / Разгерметизация МКС / Финляндия конфискует русские дома</title>
+            <enclosure url="https://podcast.tema.ru/audio/4bNBd7eGz2RQqkpeyMm3bU.mp3" length="84327174" type="audio/mpeg"/>
+            <guid>4bNBd7eGz2RQqkpeyMm3bU</guid>
+            <pubDate>Fri, 20 Oct 2023 02:05:05 GMT</pubDate>
+            <itunes:duration>58:33</itunes:duration>
+        </item>
+        <item>
+            <title>№ 450 Конец британских поездов / Спасение пениса омича / США остались без панд</title>
+            <enclosure url="https://podcast.tema.ru/audio/13102023.mp3" length="75508016" type="audio/mpeg"/>
+            <guid>13102023</guid>
+            <pubDate>Thu, 12 Oct 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>52:26</itunes:duration>
+        </item>
+        <item>
+            <title>№ 451 Петарда в п***де / Кока-Кола торгует детьми / Война в Израиле</title>
+            <enclosure url="https://podcast.tema.ru/audio/17102023.mp3" length="89325066" type="audio/mpeg"/>
+            <guid>17102023</guid>
+            <pubDate>Wed, 11 Oct 2023 12:15:15 GMT</pubDate>
+            <itunes:duration>01:02:01</itunes:duration>
+        </item>
+        <item>
+            <title>№ 449 Марьяна Ро продала трусы / Кличко отказался умирать / Конец рынка НФТ</title>
+            <enclosure url="https://podcast.tema.ru/audio/04102023.mp3" length="90717258" type="audio/mpeg"/>
+            <guid>04102023</guid>
+            <pubDate>Tue, 10 Oct 2023 14:22:22 GMT</pubDate>
+            <itunes:duration>01:02:59</itunes:duration>
+        </item>
+        <item>
+            <title>№ 448 Памятник доярке / Грузовик с мохнатками / США вернули Ирану $$$</title>
+            <enclosure url="https://podcast.tema.ru/audio/29092023.mp3" length="83656055" type="audio/mpeg"/>
+            <guid>29092023</guid>
+            <pubDate>Fri, 06 Oct 2023 06:09:09 GMT</pubDate>
+            <itunes:duration>55:54</itunes:duration>
+        </item>
+        <item>
+            <title>№ 447 Удар по Севастополю / Переводчик с петушиного / Удар по Одессе</title>
+            <enclosure url="https://podcast.tema.ru/audio/26092023.mp3" length="93763532" type="audio/mpeg"/>
+            <guid>26092023</guid>
+            <pubDate>Tue, 03 Oct 2023 21:00:01 GMT</pubDate>
+            <itunes:duration>01:05:15</itunes:duration>
+        </item>
+        <item>
+            <title>№ 446 Илон Маск украл козла / Польша против Украины / Побег крокодилов в Китае</title>
+            <enclosure url="https://podcast.tema.ru/audio/22092023.mp3" length="98438190" type="audio/mpeg"/>
+            <guid>22092023</guid>
+            <pubDate>Thu, 21 Sep 2023 22:01:01 GMT</pubDate>
+            <itunes:duration>01:06:09</itunes:duration>
+        </item>
+        <item>
+            <title>№ 445 Ким Чен Ын в России / Обострение ситуации в Карабахе / Чипсина убила подростка</title>
+            <enclosure url="https://podcast.tema.ru/audio/19092023.mp3" length="91755324" type="audio/mpeg"/>
+            <guid>19092023</guid>
+            <pubDate>Tue, 19 Sep 2023 21:00:01 GMT</pubDate>
+            <itunes:duration>01:03:43</itunes:duration>
+        </item>
+        <item>
+            <title>№ 444 Первое зачатие человека в космосе / Депортация Панина в Россию / Москвич отрезал себе ***</title>
+            <enclosure url="https://podcast.tema.ru/audio/15092023.mp3" length="76719512" type="audio/mpeg"/>
+            <guid>15092023</guid>
+            <pubDate>Thu, 14 Sep 2023 22:01:01 GMT</pubDate>
+            <itunes:duration>51:20</itunes:duration>
+        </item>
+        <item>
+            <title>№ 443 Понос на борту самолета / Даня Милохин сбежал из России / 15-й айфон</title>
+            <enclosure url="https://podcast.tema.ru/audio/13092023.mp3" length="117905848" type="audio/mpeg"/>
+            <guid>13092023</guid>
+            <pubDate>Tue, 12 Sep 2023 22:01:01 GMT</pubDate>
+            <itunes:duration>01:21:52</itunes:duration>
+        </item>
+        <item>
+            <title>№ 442 Дефицит шашлыка в Блоруссии / Встреча Путина и Эрдогана / Десять новых стран в ЕС</title>
+            <enclosure url="https://podcast.tema.ru/audio/08092023.mp3" length="63827381" type="audio/mpeg"/>
+            <guid>08092023</guid>
+            <pubDate>Thu, 07 Sep 2023 22:01:01 GMT</pubDate>
+            <itunes:duration>44:19</itunes:duration>
+        </item>
+        <item>
+            <title>№ 441 Атака Пскова / Казнь за пост в Твиттере / Берниг Мен утонул в грязи</title>
+            <enclosure url="https://podcast.tema.ru/audio/06092023.mp3" length="84695296" type="audio/mpeg"/>
+            <guid>06092023</guid>
+            <pubDate>Tue, 05 Sep 2023 22:01:01 GMT</pubDate>
+            <itunes:duration>58:48</itunes:duration>
+        </item>
+        <item>
+            <title>№ 440 Козы держат в страхе Бутово / Священник **** на пляже / Илон Маск звонит Путину</title>
+            <enclosure url="https://podcast.tema.ru/audio/01092023.mp3" length="75414540" type="audio/mpeg"/>
+            <guid>01092023</guid>
+            <pubDate>Thu, 31 Aug 2023 22:01:01 GMT</pubDate>
+            <itunes:duration>50:29</itunes:duration>
+        </item>
+        <item>
+            <title>№ 439 Киев осудил Папу Римского / Пересадка матки / Кацу вынесли приговор</title>
+            <enclosure url="https://podcast.tema.ru/audio/30082023.mp3" length="98539912" type="audio/mpeg"/>
+            <guid>30082023</guid>
+            <pubDate>Tue, 29 Aug 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>01:08:25</itunes:duration>
+        </item>
+        <item>
+            <title>№ 438 Конец Пригожина / Пластик из мух / Гонка тираннозавров</title>
+            <enclosure url="https://podcast.tema.ru/audio/25082023.mp3" length="81478991" type="audio/mpeg"/>
+            <guid>25082023</guid>
+            <pubDate>Thu, 24 Aug 2023 22:01:01 GMT</pubDate>
+            <itunes:duration>55:12</itunes:duration>
+        </item>
+        <item>
+            <title>№ 437 Морген показал трусы своей телки / Крушение миссии «Луна-25» / Смертельная экскурсия в Москве</title>
+            <enclosure url="https://podcast.tema.ru/audio/23082023.mp3" length="82691136" type="audio/mpeg"/>
+            <guid>23082023</guid>
+            <pubDate>Tue, 22 Aug 2023 22:01:01 GMT</pubDate>
+            <itunes:duration>57:25</itunes:duration>
+        </item>
+        <item>
+            <title>Африканская деревня в Твери / Акула напала на украинку-русофобку / Мерседес отключает Россию</title>
+            <enclosure url="https://podcast.tema.ru/audio/18082023.mp3" length="74941573" type="audio/mpeg"/>
+            <guid>18082023</guid>
+            <pubDate>Thu, 17 Aug 2023 22:01:01 GMT</pubDate>
+            <itunes:duration>49:16</itunes:duration>
+        </item>
+        <item>
+            <title>№ 435 Стриптиз на детской площадке / Россия на Луне / Оксимирон отлизал Мизулину</title>
+            <enclosure url="https://podcast.tema.ru/audio/16082023.mp3" length="81306758" type="audio/mpeg"/>
+            <guid>16082023</guid>
+            <pubDate>Wed, 16 Aug 2023 19:22:22 GMT</pubDate>
+            <itunes:duration>56:27</itunes:duration>
+        </item>
+        <item>
+            <title>№ 434 Исчезновение Венеции / Меган Маркл кинула принца / Самая громкая отрыжка</title>
+            <enclosure url="https://podcast.tema.ru/audio/10082023.mp3" length="79572738" type="audio/mpeg"/>
+            <guid>10082023</guid>
+            <pubDate>Thu, 10 Aug 2023 22:01:01 GMT</pubDate>
+            <itunes:duration>55:15</itunes:duration>
+        </item>
+        <item>
+            <title>№ 433 Украина поссорилась с Польшей / Навальный сел на 19 лет / Китай запретил экспорт дронов</title>
+            <enclosure url="https://podcast.tema.ru/audio/08082023.mp3" length="102083698" type="audio/mpeg"/>
+            <guid>08082023</guid>
+            <pubDate>Tue, 08 Aug 2023 20:23:23 GMT</pubDate>
+            <itunes:duration>01:10:53</itunes:duration>
+        </item>
+        <item>
+            <title>№ 432 Рыбы-пенисы / Богохульство в Мавритании / США обнаружили пришельцев</title>
+            <enclosure url="https://podcast.tema.ru/audio/04082023.mp3" length="73668932" type="audio/mpeg"/>
+            <guid>04082023</guid>
+            <pubDate>Thu, 03 Aug 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>51:09</itunes:duration>
+        </item>
+        <item>
+            <title>№ 431 Атака на Москву-Сити / Пьяный священник устроил ДТП / У Хьюстона проблемы</title>
+            <enclosure url="https://podcast.tema.ru/audio/02082023.mp3" length="91542484" type="audio/mpeg"/>
+            <guid>02082023</guid>
+            <pubDate>Tue, 01 Aug 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>01:03:34</itunes:duration>
+        </item>
+        <item>
+            <title>№ 430 Атака чупакабры / Илон Маск пуком накачал колесо / Елену Исинбаеву отменили</title>
+            <enclosure url="https://podcast.tema.ru/audio/28072023.mp3" length="72406290" type="audio/mpeg"/>
+            <guid>28072023</guid>
+            <pubDate>Wed, 26 Jul 2023 21:01:11 GMT</pubDate>
+            <itunes:duration>50:16</itunes:duration>
+        </item>
+        <item>
+            <title>№ 429 Домогательства в Макдоналдсе / Мощный удар по Украине / Блогерша осквернила Родину-мать</title>
+            <enclosure url="https://podcast.tema.ru/audio/26072023.mp3" length="82351552" type="audio/mpeg"/>
+            <guid>26072023</guid>
+            <pubDate>Tue, 25 Jul 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>57:11</itunes:duration>
+        </item>
+        <item>
+            <title>№ 428 Пляжи США тонут в экскрементах / Маск и Цукерберг меряются членами / В России запретили смену пола</title>
+            <enclosure url="https://podcast.tema.ru/audio/21072023.mp3" length="87204930" type="audio/mpeg"/>
+            <guid>21072023</guid>
+            <pubDate>Thu, 20 Jul 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>01:00:33</itunes:duration>
+        </item>
+        <item>
+            <title>№ 427 Покушение на Симоньян и Собчак / Атака на Крымский мост / Байден покусал ребенка</title>
+            <enclosure url="https://podcast.tema.ru/audio/18072023.mp3" length="73765962" type="audio/mpeg"/>
+            <guid>18072023</guid>
+            <pubDate>Tue, 18 Jul 2023 19:22:22 GMT</pubDate>
+            <itunes:duration>51:18</itunes:duration>
+        </item>
+        <item>
+            <title>№ 426 Соревнования по огуречному хрусту / В Тбилиси разнесли гей-парад / Паша Техник задержан за татухи</title>
+            <enclosure url="https://podcast.tema.ru/audio/14072023.mp3" length="92600424" type="audio/mpeg"/>
+            <guid>14072023</guid>
+            <pubDate>Thu, 13 Jul 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>01:04:18</itunes:duration>
+        </item>
+        <item>
+            <title>№ 425 Пригожину вернули миллиарды / Отжим квартиры в Киеве / Отключение интернета в России</title>
+            <enclosure url="https://podcast.tema.ru/audio/12072023.mp3" length="125758392" type="audio/mpeg"/>
+            <guid>12072023</guid>
+            <pubDate>Tue, 11 Jul 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>01:27:19</itunes:duration>
+        </item>
+        <item>
+            <title>№ 424 Нашествие змей в Москве / Крокодиловый рамен / Зеленский легализовал каннабис</title>
+            <enclosure url="https://podcast.tema.ru/audio/07072023.mp3" length="66951326" type="audio/mpeg"/>
+            <guid>07072023</guid>
+            <pubDate>Thu, 06 Jul 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>46:29</itunes:duration>
+        </item>
+        <item>
+            <title>№ 423 Женщина убила водителя Убера / Израиль начинает новую войну / Первый чеченский спутник</title>
+            <enclosure url="https://podcast.tema.ru/audio/05072023.mp3" length="84435506" type="audio/mpeg"/>
+            <guid>05072023</guid>
+            <pubDate>Tue, 04 Jul 2023 21:00:00 GMT</pubDate>
+            <itunes:duration>58:38</itunes:duration>
+        </item>
+        <item>
+            <title>№ 422 Старбакс против ЛГБТ / Илон Маск VS Марк Цукерберг / В Каире сносят «Город мертвых»</title>
+            <enclosure url="https://podcast.tema.ru/audio/30062023.mp3" length="89586234" type="audio/mpeg"/>
+            <guid>30062023</guid>
+            <pubDate>Thu, 29 Jun 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>01:02:12</itunes:duration>
+        </item>
+        <item>
+            <title>№ 421 Мятеж ЧВК «Вагнер» / Гибель батискафа «Титан» / Любовь Соболь сошла с ума</title>
+            <enclosure url="https://podcast.tema.ru/audio/28062023.mp3" length="128597302" type="audio/mpeg"/>
+            <guid>28062023</guid>
+            <pubDate>Tue, 27 Jun 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>01:29:18</itunes:duration>
+        </item>
+        <item>
+            <title>№ 420 Китай против Израиля / Гарвард торгует человечиной / Свержение Лукашенко</title>
+            <enclosure url="https://podcast.tema.ru/audio/23062023.mp3" length="101001344" type="audio/mpeg"/>
+            <guid>23062023</guid>
+            <pubDate>Thu, 22 Jun 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>01:10:08</itunes:duration>
+        </item>
+        <item>
+            <title>№ 419 Бойкот печенья Орео / Контрнаступление Украины / Лепи и Басков платят лям</title>
+            <enclosure url="https://podcast.tema.ru/audio/21062023.mp3" length="129708452" type="audio/mpeg"/>
+            <guid>21062023</guid>
+            <pubDate>Tue, 20 Jun 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>01:30:04</itunes:duration>
+        </item>
+        <item>
+            <title>№ 418 Падение НЛО / Страна без кроксов / Запрет на самоубийство</title>
+            <enclosure url="https://podcast.tema.ru/audio/16062023.mp3" length="83434176" type="audio/mpeg"/>
+            <guid>16062023</guid>
+            <pubDate>Thu, 15 Jun 2023 23:12:12 GMT</pubDate>
+            <itunes:duration>57:56</itunes:duration>
+        </item>
+        <item>
+            <title>№ 417 Бекхэм перекупил Месси / Забастовка Греты Тумберг / Акула сожрала туриста</title>
+            <enclosure url="https://podcast.tema.ru/audio/14062023.mp3" length="128707478" type="audio/mpeg"/>
+            <guid>14062023</guid>
+            <pubDate>Tue, 13 Jun 2023 23:02:02 GMT</pubDate>
+            <itunes:duration>01:29:22</itunes:duration>
+        </item>
+        <item>
+            <title>№ 416 Челлендж убил тиктокера / Смерч в Самаре / Древние небинарные люди</title>
+            <enclosure url="https://podcast.tema.ru/audio/09062023.mp3" length="112334448" type="audio/mpeg"/>
+            <guid>09062023</guid>
+            <pubDate>Fri, 09 Jun 2023 00:33:33 GMT</pubDate>
+            <itunes:duration>01:18:00</itunes:duration>
+        </item>
+        <item>
+            <title>№ 415 Израиль послал Пугачеву / Мужчина родил! / Разрушение Каховской ГЭС</title>
+            <enclosure url="https://podcast.tema.ru/audio/07062023.mp3" length="140160774" type="audio/mpeg"/>
+            <guid>07062023</guid>
+            <pubDate>Tue, 06 Jun 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>01:37:20</itunes:duration>
+        </item>
+        <item>
+            <title>№ 414 Ракета Симача / Пчелы закусали инвалида / Гроб из грибов</title>
+            <enclosure url="https://podcast.tema.ru/audio/02062023.mp3" length="104411792" type="audio/mpeg"/>
+            <guid>02062023</guid>
+            <pubDate>Thu, 01 Jun 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>01:12:30</itunes:duration>
+        </item>
+        <item>
+            <title>№ 413 Атака дронов на Москву / Скандальное интервью Пригожина / Рабство в Швейцарии</title>
+            <enclosure url="https://podcast.tema.ru/audio/31052023.mp3" length="127437950" type="audio/mpeg"/>
+            <guid>31052023</guid>
+            <pubDate>Tue, 30 May 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>01:28:29</itunes:duration>
+        </item>
+        <item>
+            <title>№ 412 Самострел в тире / Мужик ***** козленка / Кофе на грудном молоке</title>
+            <enclosure url="https://podcast.tema.ru/audio/26052023.mp3" length="94815838" type="audio/mpeg"/>
+            <guid>26052023</guid>
+            <pubDate>Thu, 25 May 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>01:05:50</itunes:duration>
+        </item>
+        <item>
+            <title>№ 411 Контрабандная палестинская сперма / Взятие Бахмута / ЦРУ вербует русских</title>
+            <enclosure url="https://podcast.tema.ru/audio/23052023.mp3" length="101751918" type="audio/mpeg"/>
+            <guid>23052023</guid>
+            <pubDate>Tue, 23 May 2023 22:01:01 GMT</pubDate>
+            <itunes:duration>01:10:39</itunes:duration>
+        </item>
+        <item>
+            <title>№ 410 Иранцы продают свои органы / В Гаити убито 600 человек / Исчезновение Лукашенко</title>
+            <enclosure url="https://podcast.tema.ru/audio/19052023.mp3" length="95250908" type="audio/mpeg"/>
+            <guid>19052023</guid>
+            <pubDate>Thu, 18 May 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>01:06:08</itunes:duration>
+        </item>
+        <item>
+            <title>№ 409 Ютубер разбил самолет / Прямые перелеты в Грузию / Зеленскому запретили выступать</title>
+            <enclosure url="https://podcast.tema.ru/audio/17052023.mp3" length="113249034" type="audio/mpeg"/>
+            <guid>17052023</guid>
+            <pubDate>Tue, 16 May 2023 21:12:34 GMT</pubDate>
+            <itunes:duration>01:18:38</itunes:duration>
+        </item>
+        <item>
+            <title>№ 408 Индия наехала на Киев / Детский труд в Макдаке / Саудиты приветствуют ЛГБТ и т. д.</title>
+            <enclosure url="https://podcast.tema.ru/audio/12052023.mp3" length="88113882" type="audio/mpeg"/>
+            <guid>12052023</guid>
+            <pubDate>Thu, 11 May 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>01:01:11</itunes:duration>
+        </item>
+        <item>
+            <title>№ 407 Сбер вернулся в Крым / Покушение на Прилепина / Пригожин наехал на Минобороны</title>
+            <enclosure url="https://podcast.tema.ru/audio/10052023.mp3" length="120020476" type="audio/mpeg"/>
+            <guid>10052023</guid>
+            <pubDate>Tue, 09 May 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>01:23:20</itunes:duration>
+        </item>
+        <item>
+            <title>Атака дронов на Кремль / Замок Пугачевой стал крематорием / Трансплантация фекалий</title>
+            <enclosure url="https://podcast.tema.ru/audio/05052023.mp3" length="70334856" type="audio/mpeg"/>
+            <guid>05052023</guid>
+            <pubDate>Thu, 04 May 2023 22:11:11 GMT</pubDate>
+            <itunes:duration>48:50</itunes:duration>
+        </item>
+        <item>
+            <title>Путин депортирует украинцев / Фаллический айсберг / Тиндер уходит из России</title>
+            <enclosure url="https://podcast.tema.ru/audio/03052023.mp3" length="98749622" type="audio/mpeg"/>
+            <guid>03052023</guid>
+            <pubDate>Tue, 02 May 2023 20:00:00 GMT</pubDate>
+            <itunes:duration>01:08:34</itunes:duration>
+        </item>
+        <item>
+            <title>Арест Блиновской / Профессор взорвал синагогу / Барби — даун</title>
+            <enclosure url="https://podcast.tema.ru/audio/28042023.mp3" length="126231022" type="audio/mpeg"/>
+            <guid>28042023</guid>
+            <pubDate>Fri, 28 Apr 2023 19:00:00 GMT</pubDate>
+            <itunes:duration>01:27:39</itunes:duration>
+        </item>
+        <item>
+            <title>Атака флота в Крыму / Летающая корова убила мужчину / Павел Дуров обнищал</title>
+            <enclosure url="https://podcast.tema.ru/audio/26042023.mp3" length="148733218" type="audio/mpeg"/>
+            <guid>26042023</guid>
+            <pubDate>Tue, 25 Apr 2023 22:00:00 GMT</pubDate>
+            <itunes:duration>01:43:26</itunes:duration>
+        </item>
+        <item>
+            <title>Смерть Пугачевой / Белоруссия кинула Венесуэлу / Депутат пописал на стену</title>
+            <enclosure url="https://podcast.tema.ru/audio/456240081.mp3" length="124611560" type="audio/mpeg"/>
+            <guid>456240081</guid>
+            <pubDate>Fri, 21 Apr 2023 00:27:28 GMT</pubDate>
+            <itunes:duration>01:26:32</itunes:duration>
+        </item>
+        <item>
+            <title>Клопы сожрали мужчину / У Путина рак / Переворот в Судане</title>
+            <enclosure url="https://podcast.tema.ru/audio/qSHHh3JM240.mp3" length="137893293" type="audio/mpeg"/>
+            <guid>qSHHh3JM240</guid>
+            <pubDate>Wed, 19 Apr 2023 01:16:47 GMT</pubDate>
+            <itunes:duration>01:35:46</itunes:duration>
+        </item>
+        <item>
+            <title>Трамп сел на 136 лет / Отлизал пенсионерке за 200 млн / Слоны-разрушители</title>
+            <enclosure url="https://podcast.tema.ru/audio/14042023.mp3" length="96902922" type="audio/mpeg"/>
+            <guid>14042023</guid>
+            <pubDate>Fri, 14 Apr 2023 00:33:33 GMT</pubDate>
+            <itunes:duration>01:07:23</itunes:duration>
+        </item>
+        <item>
+            <title>Суд над «ЕбиДоеби» / Онлайн-призыв / Полный запрет вейпов</title>
+            <enclosure url="https://podcast.tema.ru/audio/_RYuxyYzm-E.mp3" length="139171953" type="audio/mpeg"/>
+            <guid>_RYuxyYzm-E</guid>
+            <pubDate>Wed, 12 Apr 2023 00:26:59 GMT</pubDate>
+            <itunes:duration>01:32:58</itunes:duration>
+        </item>
+        <item>
+            <title>Трах тараканов / Бомбежка Израиля / МТС потеряло яйцо</title>
+            <enclosure url="https://podcast.tema.ru/audio/y6ZxJpWf7LA.mp3" length="95633394" type="audio/mpeg"/>
+            <guid>y6ZxJpWf7LA</guid>
+            <pubDate>Fri, 07 Apr 2023 10:57:12 GMT</pubDate>
+            <itunes:duration>01:06:31</itunes:duration>
+        </item>
+        <item>
+            <title>Последний фильм Тарантино / Убийство Владлена Татарского / Фрикаделька из мяса мамонта</title>
+            <enclosure url="https://podcast.tema.ru/audio/5042023.mp3" length="92751916" type="audio/mpeg"/>
+            <guid>5042023</guid>
+            <pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
+            <itunes:duration>01:04:24</itunes:duration>
+        </item>
+        <item>
+            <title>Стерилизация уйгуров / Секс-куклы для собак / Борьба за власть в КНДР</title>
+            <enclosure url="https://podcast.tema.ru/audio/456239989.mp3" length="93670258" type="audio/mpeg"/>
+            <guid>456239989</guid>
+            <pubDate>Mon, 03 Apr 2023 15:01:40 GMT</pubDate>
+            <itunes:duration>01:05:08</itunes:duration>
+        </item>
+        <item>
+            <title>Похороны Греты Тунберг / Варламов иноагент / Ядерное оружие в Беларуси</title>
+            <enclosure url="https://podcast.tema.ru/audio/Q2Q7iFsxqCk.mp3" length="103380525" type="audio/mpeg"/>
+            <guid>Q2Q7iFsxqCk</guid>
+            <pubDate>Wed, 29 Mar 2023 22:23:37 GMT</pubDate>
+            <itunes:duration>01:11:48</itunes:duration>
+        </item>
+        <item>
+            <title>Ядерные отходы Японии / США депортируют русских / Путин в Донбассе</title>
+            <enclosure url="https://podcast.tema.ru/audio/456239971.mp3" length="114936104" type="audio/mpeg"/>
+            <guid>456239971</guid>
+            <pubDate>Fri, 24 Mar 2023 12:54:04 GMT</pubDate>
+            <itunes:duration>01:19:49</itunes:duration>
+        </item>
+        <item>
+            <title>Огнетушитель в вечном огне / Арест Путина / Тонны мусора в Париже</title>
+            <enclosure url="https://podcast.tema.ru/audio/F4cTbeiV5VE.mp3" length="110630637" type="audio/mpeg"/>
+            <guid>F4cTbeiV5VE</guid>
+            <pubDate>Wed, 22 Mar 2023 10:22:00 GMT</pubDate>
+            <itunes:duration>01:16:50</itunes:duration>
+        </item>
+        <item>
+            <title>Крах американских банков / Совы - инопланетяне / Адъ в Израиле</title>
+            <enclosure url="https://podcast.tema.ru/audio/456239949.mp3" length="98044120" type="audio/mpeg"/>
+            <guid>456239949</guid>
+            <pubDate>Thu, 16 Mar 2023 22:41:59 GMT</pubDate>
+            <itunes:duration>01:08:05</itunes:duration>
+        </item>
+        <item>
+            <title>Протесты в Грузии / Навальный получил «Оскар» / Черная касса Собянина</title>
+            <enclosure url="https://podcast.tema.ru/audio/CF-oevxtBj0.mp3" length="128977965" type="audio/mpeg"/>
+            <guid>CF-oevxtBj0</guid>
+            <pubDate>Wed, 15 Mar 2023 00:19:49 GMT</pubDate>
+            <itunes:duration>01:29:34</itunes:duration>
+        </item>
+        <item>
+            <title>Киев против Луи Виттона / Смена власти в России / Принцесса с ДЦП</title>
+            <enclosure url="https://podcast.tema.ru/audio/456239911.mp3" length="103469036" type="audio/mpeg"/>
+            <guid>456239911</guid>
+            <pubDate>Fri, 10 Mar 2023 07:43:22 GMT</pubDate>
+            <itunes:duration>01:11:51</itunes:duration>
+        </item>
+        <item>
+            <title>Диверсанты в Брянске / США запрещают ТикТок / Обыск у Лерчека</title>
+            <enclosure url="https://podcast.tema.ru/audio/456239904.mp3" length="134225042" type="audio/mpeg"/>
+            <guid>456239904</guid>
+            <pubDate>Wed, 08 Mar 2023 00:20:49 GMT</pubDate>
+            <itunes:duration>01:33:12</itunes:duration>
+        </item>
+        <item>
+            <title>Эпидемия сифилиса в США / Мировой рекорд селфи / Канадские суперсвиньи </title>
+            <enclosure url="https://podcast.tema.ru/audio/456239880.mp3" length="107246320" type="audio/mpeg"/>
+            <guid>456239880</guid>
+            <pubDate>Fri, 03 Mar 2023 08:35:16 GMT</pubDate>
+            <itunes:duration>01:14:35</itunes:duration>
+        </item>
+        <item>
+            <title>Распад России / Тайна ЧВК «Рёдан» / Вторжение в Приднестровье</title>
+            <enclosure url="https://podcast.tema.ru/audio/456239874.mp3" length="98352738" type="audio/mpeg"/>
+            <guid>456239874</guid>
+            <pubDate>Wed, 01 Mar 2023 00:27:28 GMT</pubDate>
+            <itunes:duration>01:08:24</itunes:duration>
+        </item>
+        <item>
+            <title>Апокалипсис в Огайо / Курица - убийца / Деменция Брюса Уиллиса</title>
+            <enclosure url="https://podcast.tema.ru/audio/456239852.mp3" length="101211402" type="audio/mpeg"/>
+            <guid>456239852</guid>
+            <pubDate>Fri, 24 Feb 2023 11:30:57 GMT</pubDate>
+            <itunes:duration>01:10:17</itunes:duration>
+        </item>
+        <item>
+            <title>Варламов потерял стыд / Послание Путина / Менструальный отпуск</title>
+            <enclosure url="https://podcast.tema.ru/audio/i6EO6FJJwzs.mp3" length="143642925" type="audio/mpeg"/>
+            <guid>i6EO6FJJwzs</guid>
+            <pubDate>Tue, 21 Feb 2023 21:24:54 GMT</pubDate>
+            <itunes:duration>01:39:46</itunes:duration>
+        </item>
+        <item>
+            <title>Орден Путина и Зеленского / Захват самолета в Индонезии / Ядерная зима</title>
+            <enclosure url="https://podcast.tema.ru/audio/7PyOG3u500U.mp3" length="123249645" type="audio/mpeg"/>
+            <guid>7PyOG3u500U</guid>
+            <pubDate>Fri, 17 Feb 2023 10:21:20 GMT</pubDate>
+            <itunes:duration>01:25:36</itunes:duration>
+        </item>
+        <item>
+            <title>Земфира иноагент / Сатья избил женщину / НЛО в Америке</title>
+            <enclosure url="https://podcast.tema.ru/audio/vDUCOmbQzA0.mp3" length="126430893" type="audio/mpeg"/>
+            <guid>vDUCOmbQzA0</guid>
+            <pubDate>Wed, 15 Feb 2023 12:21:28 GMT</pubDate>
+            <itunes:duration>01:27:48</itunes:duration>
+        </item>
+        <item>
+            <title>Украина вступает в ЕС / Воскрешение птицы Додо / Арбузы в Антарктиде</title>
+            <enclosure url="https://podcast.tema.ru/audio/HPJGRXkxtHM.mp3" length="94196205" type="audio/mpeg"/>
+            <guid>HPJGRXkxtHM</guid>
+            <pubDate>Fri, 10 Feb 2023 06:00:07 GMT</pubDate>
+            <itunes:duration>01:05:25</itunes:duration>
+        </item>
+        <item>
+            <title>Метеорит в Красноярске / Мощное землетрясение в Турции / Ленина украли из мавзолея</title>
+            <enclosure url="https://podcast.tema.ru/audio/YNfJXl3hyaE.mp3" length="123629805" type="audio/mpeg"/>
+            <guid>YNfJXl3hyaE</guid>
+            <pubDate>Tue, 07 Feb 2023 23:25:29 GMT</pubDate>
+            <itunes:duration>01:25:52</itunes:duration>
+        </item>
+        <item>
+            <title>Смартфон от Кока-Колы / Навального заражают на зоне / Муравьи определяют рак</title>
+            <enclosure url="https://podcast.tema.ru/audio/9zZl_j9eypE.mp3" length="114032493" type="audio/mpeg"/>
+            <guid>9zZl_j9eypE</guid>
+            <pubDate>Fri, 03 Feb 2023 06:00:02 GMT</pubDate>
+            <itunes:duration>01:19:12</itunes:duration>
+        </item>
+        <item>
+            <title>Проститутка задохнулась презервативом / Порка в кадетской школе / Монеточка — иноагент</title>
+            <enclosure url="https://podcast.tema.ru/audio/4aPplEXb2LE.mp3" length="135309933" type="audio/mpeg"/>
+            <guid>4aPplEXb2LE</guid>
+            <pubDate>Wed, 01 Feb 2023 06:06:03 GMT</pubDate>
+            <itunes:duration>01:33:58</itunes:duration>
+        </item>
+        <item>
+            <title>Трибунал для Путина / Касио наживается на Шакире / Индия переросла Китай</title>
+            <enclosure url="https://podcast.tema.ru/audio/LNAzX6eA8YU.mp3" length="104336685" type="audio/mpeg"/>
+            <guid>LNAzX6eA8YU</guid>
+            <pubDate>Fri, 27 Jan 2023 06:00:07 GMT</pubDate>
+            <itunes:duration>01:12:28</itunes:duration>
+        </item>
+        <item>
+            <title>Скандальное интервью Дудя / Зачем Украине танки? / ПВО в центре Москвы</title>
+            <enclosure url="https://podcast.tema.ru/audio/IsDBigZV8yc.mp3" length="136563885" type="audio/mpeg"/>
+            <guid>IsDBigZV8yc</guid>
+            <pubDate>Tue, 24 Jan 2023 22:17:13 GMT</pubDate>
+            <itunes:duration>01:34:51</itunes:duration>
+        </item>
+        <item>
+            <title>Взрыв газопровода в Литве / Кража в Белом доме / Баленсиага 2.0</title>
+            <enclosure url="https://podcast.tema.ru/audio/ojqzoQ_lld0.mp3" length="110168685" type="audio/mpeg"/>
+            <guid>ojqzoQ_lld0</guid>
+            <pubDate>Fri, 20 Jan 2023 06:00:30 GMT</pubDate>
+            <itunes:duration>01:16:31</itunes:duration>
+        </item>
+        <item>
+            <title>Первый робот-адвокат / Бомбежка в Днепре / Крушение самолета в Непале</title>
+            <enclosure url="https://podcast.tema.ru/audio/ehBViY4yUlY.mp3" length="137183661" type="audio/mpeg"/>
+            <guid>ehBViY4yUlY</guid>
+            <pubDate>Tue, 17 Jan 2023 21:30:09 GMT</pubDate>
+            <itunes:duration>01:35:16</itunes:duration>
+        </item>
+        <item>
+            <title>Греция строит забор с Турцией / В Москве найдена мумия в стрингах / Енот - курсант</title>
+            <enclosure url="https://podcast.tema.ru/audio/jju66M9sR7Q.mp3" length="99142317" type="audio/mpeg"/>
+            <guid>jju66M9sR7Q</guid>
+            <pubDate>Fri, 13 Jan 2023 06:00:13 GMT</pubDate>
+            <itunes:duration>01:08:51</itunes:duration>
+        </item>
+        <item>
+            <title>Зеленский vs Петросян Галустян / В США казнили трансгендера / Литл Биг надругался над крестом</title>
+            <enclosure url="https://podcast.tema.ru/audio/pNifLIcdn30.mp3" length="96876909" type="audio/mpeg"/>
+            <guid>pNifLIcdn30</guid>
+            <pubDate>Tue, 10 Jan 2023 22:03:08 GMT</pubDate>
+            <itunes:duration>01:07:17</itunes:duration>
+        </item>
+        <item>
+            <title>Зеленский хвастается терактами / Эппл обвинили в расизме / Кремлевские тиктокеры</title>
+            <enclosure url="https://podcast.tema.ru/audio/iPsO77seRVw.mp3" length="70960941" type="audio/mpeg"/>
+            <guid>iPsO77seRVw</guid>
+            <pubDate>Fri, 06 Jan 2023 06:00:13 GMT</pubDate>
+            <itunes:duration>49:17</itunes:duration>
+        </item>
+        <item>
+            <title>РПЦ посылает в пустыню / Подписка на кошек / Символ 2023 из навоза</title>
+            <enclosure url="https://podcast.tema.ru/audio/y4eMYxKYWzM.mp3" length="79860141" type="audio/mpeg"/>
+            <guid>y4eMYxKYWzM</guid>
+            <pubDate>Tue, 03 Jan 2023 16:49:41 GMT</pubDate>
+            <itunes:duration>55:28</itunes:duration>
+        </item>
+        <item>
+            <title>В Германии сожгли турка / Роботы-пылесосы сливают нюдсы / Штаб Навального в даркнете</title>
+            <enclosure url="https://podcast.tema.ru/audio/OFjVBRx2ftc.mp3" length="110890413" type="audio/mpeg"/>
+            <guid>OFjVBRx2ftc</guid>
+            <pubDate>Fri, 30 Dec 2022 06:02:27 GMT</pubDate>
+            <itunes:duration>01:17:01</itunes:duration>
+        </item>
+        <item>
+            <title>Даня Милохин VS Первый канал / Грузия блокирует счета россиян / Москвичи жили 15 лет с трупом</title>
+            <enclosure url="https://podcast.tema.ru/audio/_FXySFNZ_nE.mp3" length="104720228" type="audio/mpeg"/>
+            <guid>_FXySFNZ_nE</guid>
+            <pubDate>Tue, 27 Dec 2022 21:33:56 GMT</pubDate>
+            <itunes:duration>01:12:44</itunes:duration>
+        </item>
+        <item>
+            <title>Нашествие акул / 114 тысяч $$$ за джинсы / Токсичный Путин</title>
+            <enclosure url="https://podcast.tema.ru/audio/O5d3l-KQOTE.mp3" length="95343114" type="audio/mpeg"/>
+            <guid>O5d3l-KQOTE</guid>
+            <pubDate>Fri, 23 Dec 2022 06:00:08 GMT</pubDate>
+            <itunes:duration>01:07:20</itunes:duration>
+        </item>
+        <item>
+            <title>Ватикан извинился перед Чечней / Бой Индии и Китая на палках / Эпичный финал ЧМ-2022</title>
+            <enclosure url="https://podcast.tema.ru/audio/1kH4jcmkb-o.mp3" length="140496813" type="audio/mpeg"/>
+            <guid>1kH4jcmkb-o</guid>
+            <pubDate>Tue, 20 Dec 2022 22:20:57 GMT</pubDate>
+            <itunes:duration>01:37:34</itunes:duration>
+        </item>
+        <item>
+            <title>Трехпалая лошадь / Роналду продался арабам / 21 год тюрьмы за Леди Гагу</title>
+            <enclosure url="https://podcast.tema.ru/audio/LMKwj9m03TQ.mp3" length="114889581" type="audio/mpeg"/>
+            <guid>LMKwj9m03TQ</guid>
+            <pubDate>Fri, 16 Dec 2022 08:16:17 GMT</pubDate>
+            <itunes:duration>01:19:47</itunes:duration>
+        </item>
+        <item>
+            <title>Госпереворот в Германии / Эвакуация Путина / Мировая премьера Аватара</title>
+            <enclosure url="https://podcast.tema.ru/audio/GiQh5bj3IRE.mp3" length="128904813" type="audio/mpeg"/>
+            <guid>GiQh5bj3IRE</guid>
+            <pubDate>Tue, 13 Dec 2022 22:49:04 GMT</pubDate>
+            <itunes:duration>01:29:31</itunes:duration>
+        </item>
+        <item>
+            <title>Тюрьма за секс в Индонезии / Сноуден получил паспорт РФ / Лепс избил петербуржца</title>
+            <enclosure url="https://podcast.tema.ru/audio/QRz4Q-K7IZA.mp3" length="81432621" type="audio/mpeg"/>
+            <guid>QRz4Q-K7IZA</guid>
+            <pubDate>Fri, 09 Dec 2022 06:00:14 GMT</pubDate>
+            <itunes:duration>56:33</itunes:duration>
+        </item>
+        <item>
+            <title>Закрытие телеканала До///дь / Жосткая судьба блогера Некоглая / Мужчина прострелил себе ***</title>
+            <enclosure url="https://podcast.tema.ru/audio/S8IxgTY2s4A.mp3" length="132852141" type="audio/mpeg"/>
+            <guid>S8IxgTY2s4A</guid>
+            <pubDate>Tue, 06 Dec 2022 23:05:25 GMT</pubDate>
+            <itunes:duration>01:32:16</itunes:duration>
+        </item>
+        <item>
+            <title>Инопланетная одежда адидаса / Маск судится с украинцами / Найдена старейшая в мире записка</title>
+            <enclosure url="https://podcast.tema.ru/audio/ujVTT5s0Ffc.mp3" length="92569581" type="audio/mpeg"/>
+            <guid>ujVTT5s0Ffc</guid>
+            <pubDate>Fri, 02 Dec 2022 06:00:17 GMT</pubDate>
+            <itunes:duration>01:04:17</itunes:duration>
+        </item>
+        <item>
+            <title>Загадка взрывающегося сортира / Скандальный трек Бузовой / Война НАТО с Россией</title>
+            <enclosure url="https://podcast.tema.ru/audio/UnW-QwV2Prc.mp3" length="107255853" type="audio/mpeg"/>
+            <guid>UnW-QwV2Prc</guid>
+            <pubDate>Tue, 29 Nov 2022 22:08:42 GMT</pubDate>
+            <itunes:duration>01:14:29</itunes:duration>
+        </item>
+        <item>
+            <title>Слоны — алкоголики / Крах биткойна / Швеция меняет конституцию</title>
+            <enclosure url="https://podcast.tema.ru/audio/TYGAJ3hg4hI.mp3" length="124297965" type="audio/mpeg"/>
+            <guid>TYGAJ3hg4hI</guid>
+            <pubDate>Fri, 25 Nov 2022 14:43:50 GMT</pubDate>
+            <itunes:duration>01:26:19</itunes:duration>
+        </item>
+        <item>
+            <title>Илон Маск поставил ультиматум / «Репортаж из вселенной секонд-хенда» / Стрельба в гей-клубе</title>
+            <enclosure url="https://podcast.tema.ru/audio/768D0p_0Se0.mp3" length="140659245" type="audio/mpeg"/>
+            <guid>768D0p_0Se0</guid>
+            <pubDate>Wed, 23 Nov 2022 17:55:50 GMT</pubDate>
+            <itunes:duration>01:37:41</itunes:duration>
+        </item>
+        <item>
+            <title>США отменили рабство / Джекпот на 2 миллиарда / Карла III забросали яйцами</title>
+            <enclosure url="https://podcast.tema.ru/audio/RN3405DV0mU.mp3" length="99109485" type="audio/mpeg"/>
+            <guid>RN3405DV0mU</guid>
+            <pubDate>Fri, 18 Nov 2022 06:00:19 GMT</pubDate>
+            <itunes:duration>01:08:50</itunes:duration>
+        </item>
+        <item>
+            <title>Путана откусила *** полицейскому / Сдача Херсона / Мизулина депортировала Некоглая</title>
+            <enclosure url="https://podcast.tema.ru/audio/38Ie2oRhYoU.mp3" length="95355117" type="audio/mpeg"/>
+            <guid>38Ie2oRhYoU</guid>
+            <pubDate>Tue, 15 Nov 2022 22:37:23 GMT</pubDate>
+            <itunes:duration>01:06:14</itunes:duration>
+        </item>
+        <item>
+            <title>Конкурс по одеванию покойников / Рыбы — наркоманы / Экологи убили велосипедистку</title>
+            <enclosure url="https://podcast.tema.ru/audio/Xn1qK-O4jUY.mp3" length="96863085" type="audio/mpeg"/>
+            <guid>Xn1qK-O4jUY</guid>
+            <pubDate>Fri, 11 Nov 2022 06:00:09 GMT</pubDate>
+            <itunes:duration>01:07:16</itunes:duration>
+        </item>
+        <item>
+            <title>Российские солдаты питаются кенгуру / Мобилизованные устроили бунт / Отмена визового режима в РФ</title>
+            <enclosure url="https://podcast.tema.ru/audio/Lt9E0hcbhZQ.mp3" length="122174829" type="audio/mpeg"/>
+            <guid>Lt9E0hcbhZQ</guid>
+            <pubDate>Wed, 09 Nov 2022 06:00:13 GMT</pubDate>
+            <itunes:duration>01:24:51</itunes:duration>
+        </item>
+        <item>
+            <title>Человек не мылся 50 лет / Британские голуби-зомби / Питон съел женщину</title>
+            <enclosure url="https://podcast.tema.ru/audio/gnu5P9CLQ-M.mp3" length="97120557" type="audio/mpeg"/>
+            <guid>gnu5P9CLQ-M</guid>
+            <pubDate>Fri, 04 Nov 2022 06:00:14 GMT</pubDate>
+            <itunes:duration>01:07:27</itunes:duration>
+        </item>
+        <item>
+            <title>Смертельная давка в Сеуле / Собчак бежала из России / Тиньков отказался от гражданства РФ</title>
+            <enclosure url="https://podcast.tema.ru/audio/m8XmF1S-Jxw.mp3" length="147496941" type="audio/mpeg"/>
+            <guid>m8XmF1S-Jxw</guid>
+            <pubDate>Wed, 02 Nov 2022 00:05:23 GMT</pubDate>
+            <itunes:duration>01:42:26</itunes:duration>
+        </item>
+        <item>
+            <title>Провокация с «грязной бомбой» / Черная дыра выплюнула звезду / Восстание зомби-косуль</title>
+            <enclosure url="https://podcast.tema.ru/audio/yzWF1tfNRsM.mp3" length="94526829" type="audio/mpeg"/>
+            <guid>yzWF1tfNRsM</guid>
+            <pubDate>Fri, 28 Oct 2022 06:00:18 GMT</pubDate>
+            <itunes:duration>01:05:39</itunes:duration>
+        </item>
+        <item>
+            <title>Маск высмеял Каспарова / Салат-латук победил Лиз Трасс / Кевин Спейси оправдан</title>
+            <enclosure url="https://podcast.tema.ru/audio/Y6pL_esG7qw.mp3" length="139712816" type="audio/mpeg"/>
+            <guid>Y6pL_esG7qw</guid>
+            <pubDate>Tue, 25 Oct 2022 22:39:10 GMT</pubDate>
+            <itunes:duration>01:37:02</itunes:duration>
+        </item>
+        <item>
+            <title>Похороны Аллы Пугачевой / Блокаторы полового созревания / Самый высокий кот мира</title>
+            <enclosure url="https://podcast.tema.ru/audio/dZ7bNhOXnDs.mp3" length="88450605" type="audio/mpeg"/>
+            <guid>dZ7bNhOXnDs</guid>
+            <pubDate>Fri, 21 Oct 2022 06:00:22 GMT</pubDate>
+            <itunes:duration>01:01:26</itunes:duration>
+        </item>
+        <item>
+            <title>Завершение мобилизации / Осквернение картины Ван Гога / Авиакатастрофа в Ейске</title>
+            <enclosure url="https://podcast.tema.ru/audio/KI7zcHbKTZc.mp3" length="131889645" type="audio/mpeg"/>
+            <guid>KI7zcHbKTZc</guid>
+            <pubDate>Tue, 18 Oct 2022 21:36:03 GMT</pubDate>
+            <itunes:duration>01:31:36</itunes:duration>
+        </item>
+        <item>
+            <title>Захват мэрии Парижа / Канье Уэста забанили везде / Школьник подорвался на кофемолке</title>
+            <enclosure url="https://podcast.tema.ru/audio/eG9PsKB_FCo.mp3" length="78186861" type="audio/mpeg"/>
+            <guid>eG9PsKB_FCo</guid>
+            <pubDate>Fri, 14 Oct 2022 06:00:11 GMT</pubDate>
+            <itunes:duration>54:18</itunes:duration>
+        </item>
+        <item>
+            <title>Дисней удалил все мультики / Взрыв Крымского моста / Отмена новогодних праздников</title>
+            <enclosure url="https://podcast.tema.ru/audio/RxY-QYf_9no.mp3" length="91126701" type="audio/mpeg"/>
+            <guid>RxY-QYf_9no</guid>
+            <pubDate>Tue, 11 Oct 2022 22:28:42 GMT</pubDate>
+            <itunes:duration>01:03:17</itunes:duration>
+        </item>
+        <item>
+            <title>ЦРУ воскрешает мамонтов / Россиянка засунула в себя топор / Фальшивые яйца Усманова</title>
+            <enclosure url="https://podcast.tema.ru/audio/-d9XtUQfN9w.mp3" length="111446253" type="audio/mpeg"/>
+            <guid>-d9XtUQfN9w</guid>
+            <pubDate>Fri, 07 Oct 2022 05:36:48 GMT</pubDate>
+            <itunes:duration>01:17:24</itunes:duration>
+        </item>
+        <item>
+            <title>Илон Маск расшифровался / «Лев Против» сбежал из России / Россия присоединила новые территории</title>
+            <enclosure url="https://podcast.tema.ru/audio/vEpjg5aOm48.mp3" length="121091949" type="audio/mpeg"/>
+            <guid>vEpjg5aOm48</guid>
+            <pubDate>Tue, 04 Oct 2022 22:48:46 GMT</pubDate>
+            <itunes:duration>01:24:06</itunes:duration>
+        </item>
+        <item>
+            <title>Чипсы со вкусом в*гины / Турция — новая помойка ЕС / Шахматист с ан*льной шпаргалкой</title>
+            <enclosure url="https://podcast.tema.ru/audio/Vkqo09UeOFs.mp3" length="100109997" type="audio/mpeg"/>
+            <guid>Vkqo09UeOFs</guid>
+            <pubDate>Fri, 30 Sep 2022 06:00:17 GMT</pubDate>
+            <itunes:duration>01:09:32</itunes:duration>
+        </item>
+        <item>
+            <title>Артемий Лебедев поджог военкомат / Уничтожение Северного потока / ВКонтакте удалили из Апстора</title>
+            <enclosure url="https://podcast.tema.ru/audio/bRXpt6dIbPI.mp3" length="109755117" type="audio/mpeg"/>
+            <guid>bRXpt6dIbPI</guid>
+            <pubDate>Tue, 27 Sep 2022 22:07:03 GMT</pubDate>
+            <itunes:duration>01:16:14</itunes:duration>
+        </item>
+        <item>
+            <title>Почка за Айфон / Байден вводит санкции против меня! / Венгрия больше не демократия</title>
+            <enclosure url="https://podcast.tema.ru/audio/-RqYJ7NgDtY.mp3" length="97918893" type="audio/mpeg"/>
+            <guid>-RqYJ7NgDtY</guid>
+            <pubDate>Fri, 23 Sep 2022 05:49:45 GMT</pubDate>
+            <itunes:duration>01:08:00</itunes:duration>
+        </item>
+        <item>
+            <title>Всеобщая мобилизация! / Алла Пугачева — иноагент / Домогательства на похоронах королевы</title>
+            <enclosure url="https://podcast.tema.ru/audio/jet9OqCRtWA.mp3" length="110642733" type="audio/mpeg"/>
+            <guid>jet9OqCRtWA</guid>
+            <pubDate>Tue, 20 Sep 2022 23:12:31 GMT</pubDate>
+            <itunes:duration>01:16:51</itunes:duration>
+        </item>
+        <item>
+            <title>Уссурийцы тонут в г*вне / Русских лишили шенгена / Копия Луны у Дубае</title>
+            <enclosure url="https://podcast.tema.ru/audio/aOZFRPlGyYg.mp3" length="95076333" type="audio/mpeg"/>
+            <guid>aOZFRPlGyYg</guid>
+            <pubDate>Fri, 16 Sep 2022 02:54:53 GMT</pubDate>
+            <itunes:duration>01:06:02</itunes:duration>
+        </item>
+        <item>
+            <title>Поражение России в Харькове / Шнур учинил скандал / Монеточка в розыске</title>
+            <enclosure url="https://podcast.tema.ru/audio/Q0GlSHOIYno.mp3" length="109164717" type="audio/mpeg"/>
+            <guid>Q0GlSHOIYno</guid>
+            <pubDate>Tue, 13 Sep 2022 22:48:57 GMT</pubDate>
+            <itunes:duration>01:15:49</itunes:duration>
+        </item>
+        <item>
+            <title>Бузова показала лобок / Умерла королева Елизавета II / Древнеримский фаллос</title>
+            <enclosure url="https://podcast.tema.ru/audio/LpfoXENtqNg.mp3" length="95131053" type="audio/mpeg"/>
+            <guid>LpfoXENtqNg</guid>
+            <pubDate>Fri, 09 Sep 2022 18:24:59 GMT</pubDate>
+            <itunes:duration>01:06:04</itunes:duration>
+        </item>
+        <item>
+            <title>Голый Борис Джонсон / Испанцы отобрали детей у россиянки / Протесты в Праге</title>
+            <enclosure url="https://podcast.tema.ru/audio/zQ3ajQHJvYI.mp3" length="98028909" type="audio/mpeg"/>
+            <guid>zQ3ajQHJvYI</guid>
+            <pubDate>Wed, 07 Sep 2022 22:54:23 GMT</pubDate>
+            <itunes:duration>01:08:05</itunes:duration>
+        </item>
+        <item>
+            <title>Зоосексуализм / Зеленский обстрелял Донецк / Прилучный при всех раздел Зепюр</title>
+            <enclosure url="https://podcast.tema.ru/audio/xZGDV5OJktg.mp3" length="107828397" type="audio/mpeg"/>
+            <guid>xZGDV5OJktg</guid>
+            <pubDate>Fri, 02 Sep 2022 06:00:16 GMT</pubDate>
+            <itunes:duration>01:14:53</itunes:duration>
+        </item>
+        <item>
+            <title>Возвращение Пугачевой / Школьник продал друзей в рабство / Россияне написали 150 тыс. доносов</title>
+            <enclosure url="https://podcast.tema.ru/audio/qfzKvdVg8Zc.mp3" length="101138157" type="audio/mpeg"/>
+            <guid>qfzKvdVg8Zc</guid>
+            <pubDate>Tue, 30 Aug 2022 21:42:20 GMT</pubDate>
+            <itunes:duration>01:10:14</itunes:duration>
+        </item>
+        <item>
+            <title>Англичанки массово идут в эскорт / Теплица с коноплей на МКС / Афганистан меняет изюм на нефть</title>
+            <enclosure url="https://podcast.tema.ru/audio/UDGhQBGDBNQ.mp3" length="107185581" type="audio/mpeg"/>
+            <guid>UDGhQBGDBNQ</guid>
+            <pubDate>Fri, 26 Aug 2022 06:00:06 GMT</pubDate>
+            <itunes:duration>01:14:26</itunes:duration>
+        </item>
+        <item>
+            <title>Убийство Дарьи Дугиной / Полная остановка «Северного потока» / США одобрили атаку Крыма</title>
+            <enclosure url="https://podcast.tema.ru/audio/OQKZUn3mX0U.mp3" length="115190253" type="audio/mpeg"/>
+            <guid>OQKZUn3mX0U</guid>
+            <pubDate>Tue, 23 Aug 2022 21:05:57 GMT</pubDate>
+            <itunes:duration>01:20:00</itunes:duration>
+        </item>
+        <item>
+            <title>Секретные документы Трампа / Автопилот Теслы сбивает детей / Навальный создал профсоюз</title>
+            <enclosure url="https://podcast.tema.ru/audio/6xWFv3oZsgo.mp3" length="111746925" type="audio/mpeg"/>
+            <guid>6xWFv3oZsgo</guid>
+            <pubDate>Fri, 19 Aug 2022 06:00:01 GMT</pubDate>
+            <itunes:duration>01:17:37</itunes:duration>
+        </item>
+        <item>
+            <title>День полярного жирафа / Англичане, которые кровоточат / Гендерно-нейтральная Жанна д'Арк</title>
+            <enclosure url="https://podcast.tema.ru/audio/eflfcQYzo1k.mp3" length="113569965" type="audio/mpeg"/>
+            <guid>eflfcQYzo1k</guid>
+            <pubDate>Tue, 16 Aug 2022 22:45:03 GMT</pubDate>
+            <itunes:duration>01:18:52</itunes:duration>
+        </item>
+        <item>
+            <title>Старбакс уходит из США / Ученые научились дышать через жопу / Мужчина погасил ипотеку онанизмом</title>
+            <enclosure url="https://podcast.tema.ru/audio/HSOJzuTLy2Q.mp3" length="85625325" type="audio/mpeg"/>
+            <guid>HSOJzuTLy2Q</guid>
+            <pubDate>Fri, 12 Aug 2022 06:00:09 GMT</pubDate>
+            <itunes:duration>59:28</itunes:duration>
+        </item>
+        <item>
+            <title>Украина разрешила гей-браки / Турция перешла на рубли / Бабуля избила чихуахуа коньяком</title>
+            <enclosure url="https://podcast.tema.ru/audio/4kiBbp7qqfc.mp3" length="102644973" type="audio/mpeg"/>
+            <guid>4kiBbp7qqfc</guid>
+            <pubDate>Tue, 09 Aug 2022 23:10:13 GMT</pubDate>
+            <itunes:duration>01:11:17</itunes:duration>
+        </item>
+        <item>
+            <title>Галкина закидали яйцами / Самарский футболист-козел / Тимати купил Старбакс</title>
+            <enclosure url="https://podcast.tema.ru/audio/DuOA6AC7pyQ.mp3" length="95360877" type="audio/mpeg"/>
+            <guid>DuOA6AC7pyQ</guid>
+            <pubDate>Fri, 05 Aug 2022 08:55:24 GMT</pubDate>
+            <itunes:duration>01:06:14</itunes:duration>
+        </item>
+        <item>
+            <title>Макрон обиделся на Африку / Третья мировая война / Папа Римский отрекся от престола</title>
+            <enclosure url="https://podcast.tema.ru/audio/AvEX0s-xVhc.mp3" length="136110573" type="audio/mpeg"/>
+            <guid>AvEX0s-xVhc</guid>
+            <pubDate>Wed, 03 Aug 2022 06:00:03 GMT</pubDate>
+            <itunes:duration>01:34:32</itunes:duration>
+        </item>
+        <item>
+            <title>Кит съел двух женщин / Гей-связь Галкина и Зеленского / Диагноз по дикпику</title>
+            <enclosure url="https://podcast.tema.ru/audio/jIKsezNcZAw.mp3" length="102424365" type="audio/mpeg"/>
+            <guid>jIKsezNcZAw</guid>
+            <pubDate>Fri, 29 Jul 2022 06:00:23 GMT</pubDate>
+            <itunes:duration>01:11:08</itunes:duration>
+        </item>
+        <item>
+            <title>Презервативы с кайфом / Раскрыты тайны городского хозяйства Москвы / Удар по Одессе</title>
+            <enclosure url="https://podcast.tema.ru/audio/XsSj1nlS1R0.mp3" length="128887533" type="audio/mpeg"/>
+            <guid>XsSj1nlS1R0</guid>
+            <pubDate>Wed, 27 Jul 2022 00:31:11 GMT</pubDate>
+            <itunes:duration>01:29:31</itunes:duration>
+        </item>
+        <item>
+            <title>Легализация интернет-браков / Секс-игрушки для коров / Комар поймал вора</title>
+            <enclosure url="https://podcast.tema.ru/audio/jPb8ybE3wJM.mp3" length="82727843" type="audio/mpeg"/>
+            <guid>jPb8ybE3wJM</guid>
+            <pubDate>Fri, 22 Jul 2022 15:46:20 GMT</pubDate>
+            <itunes:duration>57:27</itunes:duration>
+        </item>
+        <item>
+            <title>Подписка на подогрев жопы / Вторжение Китая в Россию / Пожары в Европе</title>
+            <enclosure url="https://podcast.tema.ru/audio/xgWJvNUivd8.mp3" length="120363885" type="audio/mpeg"/>
+            <guid>xgWJvNUivd8</guid>
+            <pubDate>Wed, 20 Jul 2022 06:31:26 GMT</pubDate>
+            <itunes:duration>01:23:36</itunes:duration>
+        </item>
+        <item>
+            <title>Кострома дышит дерьмом / Илон Маск послал Твиттер / Россиянин застрял в диване</title>
+            <enclosure url="https://podcast.tema.ru/audio/PwT65LJ6wFY.mp3" length="140601645" type="audio/mpeg"/>
+            <guid>PwT65LJ6wFY</guid>
+            <pubDate>Fri, 15 Jul 2022 06:00:07 GMT</pubDate>
+            <itunes:duration>01:37:39</itunes:duration>
+        </item>
+        <item>
+            <title>Омолаживающие фекалии / Мэр женился на крокодиле / Запрет на секс в Катаре</title>
+            <enclosure url="https://podcast.tema.ru/audio/2Tus5RRgqI4.mp3" length="95089005" type="audio/mpeg"/>
+            <guid>2Tus5RRgqI4</guid>
+            <pubDate>Fri, 08 Jul 2022 06:00:00 GMT</pubDate>
+            <itunes:duration>01:06:02</itunes:duration>
+        </item>
+        <item>
+            <title>«Русский салат» в НАТО / Капитуляция Зеленского / Беспилотный «КАМАЗ»</title>
+            <enclosure url="https://podcast.tema.ru/audio/ISG5P4JTC28.mp3" length="119543661" type="audio/mpeg"/>
+            <guid>ISG5P4JTC28</guid>
+            <pubDate>Tue, 05 Jul 2022 22:03:01 GMT</pubDate>
+            <itunes:duration>01:23:01</itunes:duration>
+        </item>
+        <item>
+            <title>Путин стал императором / Петербуржец утопил любимую / НАТО забирает Калининград</title>
+            <enclosure url="https://podcast.tema.ru/audio/U3PVTr5LqDc.mp3" length="100803501" type="audio/mpeg"/>
+            <guid>U3PVTr5LqDc</guid>
+            <pubDate>Fri, 01 Jul 2022 06:00:14 GMT</pubDate>
+            <itunes:duration>01:10:01</itunes:duration>
+        </item>
+        <item>
+            <title>Налоги растут / «Стопхам» получил люлей / Аборты в США</title>
+            <enclosure url="https://podcast.tema.ru/audio/c2cORVBn7PE.mp3" length="102260781" type="audio/mpeg"/>
+            <guid>c2cORVBn7PE</guid>
+            <pubDate>Tue, 28 Jun 2022 21:49:21 GMT</pubDate>
+            <itunes:duration>01:11:01</itunes:duration>
+        </item>
+        <item>
+            <title>Рыба - главный враг человечества / Крыса из унитаза откусила попу ребенку / Умер после обрезания</title>
+            <enclosure url="https://podcast.tema.ru/audio/kPyByGtkjFA.mp3" length="127401453" type="audio/mpeg"/>
+            <guid>kPyByGtkjFA</guid>
+            <pubDate>Fri, 24 Jun 2022 06:00:10 GMT</pubDate>
+            <itunes:duration>01:28:29</itunes:duration>
+        </item>
+        <item>
+            <title>Пиксаровский гей-поцелуй / 80% британцев мигрируют в Россию / Слив дневника дочери Байдена</title>
+            <enclosure url="https://podcast.tema.ru/audio/bZDG3KAZrWY.mp3" length="121965165" type="audio/mpeg"/>
+            <guid>bZDG3KAZrWY</guid>
+            <pubDate>Tue, 21 Jun 2022 21:15:01 GMT</pubDate>
+            <itunes:duration>01:24:42</itunes:duration>
+        </item>
+        <item>
+            <title>Россиянка застряла в мусоропроводе / Галкина вздрючили по полной / Россия запретила японцам рыбачить</title>
+            <enclosure url="https://podcast.tema.ru/audio/iOW6bPVGkw8.mp3" length="106484013" type="audio/mpeg"/>
+            <guid>iOW6bPVGkw8</guid>
+            <pubDate>Fri, 17 Jun 2022 02:00:09 GMT</pubDate>
+            <itunes:duration>01:13:57</itunes:duration>
+        </item>
+        <item>
+            <title>Правда о биолабораториях / Индия оказалась в эпицентре скандала/ Скандальный ребрендинг Макдональдса</title>
+            <enclosure url="https://podcast.tema.ru/audio/SwQJs3Z0gxc.mp3" length="100405485" type="audio/mpeg"/>
+            <guid>SwQJs3Z0gxc</guid>
+            <pubDate>Tue, 14 Jun 2022 21:15:00 GMT</pubDate>
+            <itunes:duration>01:09:44</itunes:duration>
+        </item>
+        <item>
+            <title>Дикая езда на матрасе в Крыму / Жительница Аляски обезвредила опоссума / Росгвардия выпустила ЛЕГО</title>
+            <enclosure url="https://podcast.tema.ru/audio/mocY2sPmiV0.mp3" length="109309869" type="audio/mpeg"/>
+            <guid>mocY2sPmiV0</guid>
+            <pubDate>Fri, 10 Jun 2022 06:00:23 GMT</pubDate>
+            <itunes:duration>01:15:55</itunes:duration>
+        </item>
+        <item>
+            <title>Международный месяц мастурбации / Нападение на Мону Лизу / Индианка женилась на себе</title>
+            <enclosure url="https://podcast.tema.ru/audio/GUSFW962z7U.mp3" length="127573677" type="audio/mpeg"/>
+            <guid>GUSFW962z7U</guid>
+            <pubDate>Tue, 07 Jun 2022 21:13:20 GMT</pubDate>
+            <itunes:duration>01:28:36</itunes:duration>
+        </item>
+        <item>
+            <title>Билл Гейтс атаковал Илона Маска / Слон — убийца крокодилов / В России кончился силикон для жоп</title>
+            <enclosure url="https://podcast.tema.ru/audio/6WTLATrA6Zc.mp3" length="90604845" type="audio/mpeg"/>
+            <guid>6WTLATrA6Zc</guid>
+            <pubDate>Fri, 03 Jun 2022 06:00:01 GMT</pubDate>
+            <itunes:duration>01:02:56</itunes:duration>
+        </item>
+        <item>
+            <title>Фекальный фонтан / Россиянам запретили смывать втулку в унитаз / В США помиловали салемскую ведьму</title>
+            <enclosure url="https://podcast.tema.ru/audio/dHwBqYE9jQY.mp3" length="109204461" type="audio/mpeg"/>
+            <guid>dHwBqYE9jQY</guid>
+            <pubDate>Tue, 31 May 2022 20:42:44 GMT</pubDate>
+            <itunes:duration>01:15:51</itunes:duration>
+        </item>
+        <item>
+            <title>В ЕС обучают детей химическому сексу / Преступник притворился собакой / Редкие цветы-пенисы</title>
+            <enclosure url="https://podcast.tema.ru/audio/s1CM4SeTS1A.mp3" length="97821549" type="audio/mpeg"/>
+            <guid>s1CM4SeTS1A</guid>
+            <pubDate>Fri, 27 May 2022 05:00:13 GMT</pubDate>
+            <itunes:duration>01:07:56</itunes:duration>
+        </item>
+        <item>
+            <title>Обезьянья оспа поражает человечество / Найден теленок с буквой Z / Паспорт хорошего русского</title>
+            <enclosure url="https://podcast.tema.ru/audio/JirgYd8-kAo.mp3" length="104577913" type="audio/mpeg"/>
+            <guid>JirgYd8-kAo</guid>
+            <pubDate>Tue, 24 May 2022 23:09:13 GMT</pubDate>
+            <itunes:duration>01:12:38</itunes:duration>
+        </item>
+        <item>
+            <title>Гигантский палтус / Пьяные олени кошмарят жителей / Арестован глава секты пожирателей 💩</title>
+            <enclosure url="https://podcast.tema.ru/audio/Df5YinmHF7o.mp3" length="106918893" type="audio/mpeg"/>
+            <guid>Df5YinmHF7o</guid>
+            <pubDate>Fri, 20 May 2022 06:00:03 GMT</pubDate>
+            <itunes:duration>01:14:15</itunes:duration>
+        </item>
+        <item>
+            <title>Нереальный спрос на украинское порно / Украинские военные сдают «Азовсталь» / Новые Барби</title>
+            <enclosure url="https://podcast.tema.ru/audio/y6TsJFDKUCU.mp3" length="130659309" type="audio/mpeg"/>
+            <guid>y6TsJFDKUCU</guid>
+            <pubDate>Wed, 18 May 2022 00:06:02 GMT</pubDate>
+            <itunes:duration>01:30:45</itunes:duration>
+        </item>
+        <item>
+            <title>Закон о менструальном достоинстве / Учитель года показывал член / Смертельный баттл рэперов</title>
+            <enclosure url="https://podcast.tema.ru/audio/53vzuSxC39s.mp3" length="112318893" type="audio/mpeg"/>
+            <guid>53vzuSxC39s</guid>
+            <pubDate>Thu, 12 May 2022 18:47:27 GMT</pubDate>
+            <itunes:duration>01:18:00</itunes:duration>
+        </item>
+        <item>
+            <title>Мука из сверчков / Папа Римский унизил Патриарха Кирилла / Моргенштерна признали иноагентом</title>
+            <enclosure url="https://podcast.tema.ru/audio/ODPj5Rqyjsw.mp3" length="112002093" type="audio/mpeg"/>
+            <guid>ODPj5Rqyjsw</guid>
+            <pubDate>Tue, 10 May 2022 23:12:55 GMT</pubDate>
+            <itunes:duration>01:17:47</itunes:duration>
+        </item>
+        <item>
+            <title>Немкам разрешили плавать топлесс / Коровы подсели на колу / Полицейский в мечети показывал член</title>
+            <enclosure url="https://podcast.tema.ru/audio/BDrL_GRO-X8.mp3" length="91412973" type="audio/mpeg"/>
+            <guid>BDrL_GRO-X8</guid>
+            <pubDate>Thu, 05 May 2022 20:40:22 GMT</pubDate>
+            <itunes:duration>01:03:29</itunes:duration>
+        </item>
+        <item>
+            <title>Мир без презервативов / Джоли попала под воздушную тревогу / Херсонская область стала Россией</title>
+            <enclosure url="https://podcast.tema.ru/audio/3dBvKNyRpIg.mp3" length="119532141" type="audio/mpeg"/>
+            <guid>3dBvKNyRpIg</guid>
+            <pubDate>Tue, 03 May 2022 22:09:15 GMT</pubDate>
+            <itunes:duration>01:23:01</itunes:duration>
+        </item>
+        <item>
+            <title>Менструальные отпуска / Что общего у Сникерса и члена? / Навальный публикует расстрельные списки</title>
+            <enclosure url="https://podcast.tema.ru/audio/6rEl5S1e0gE.mp3" length="72721197" type="audio/mpeg"/>
+            <guid>6rEl5S1e0gE</guid>
+            <pubDate>Fri, 29 Apr 2022 06:00:01 GMT</pubDate>
+            <itunes:duration>50:30</itunes:duration>
+        </item>
+        <item>
+            <title>Теракты в Приднестровье / Прощай, Тинькофф! / Москвича оштрафовали за сине-желтую обувь</title>
+            <enclosure url="https://podcast.tema.ru/audio/o4b-YqE9hKM.mp3" length="109340973" type="audio/mpeg"/>
+            <guid>o4b-YqE9hKM</guid>
+            <pubDate>Tue, 26 Apr 2022 22:45:31 GMT</pubDate>
+            <itunes:duration>01:15:56</itunes:duration>
+        </item>
+        <item>
+            <title>Нашествие крыс в Питере / Две женщины в тюрьме забеременели от третьей / На Байдена насрала птица</title>
+            <enclosure url="https://podcast.tema.ru/audio/YOq6MiCtjdI.mp3" length="92116845" type="audio/mpeg"/>
+            <guid>YOq6MiCtjdI</guid>
+            <pubDate>Fri, 22 Apr 2022 06:00:08 GMT</pubDate>
+            <itunes:duration>01:03:59</itunes:duration>
+        </item>
+        <item>
+            <title>Тайна затопленного крейсера «Москва» / Дудя признали иноагентом / Позор на концерте Нурлана Сабурова</title>
+            <enclosure url="https://podcast.tema.ru/audio/T3_hrNafMYg.mp3" length="114167277" type="audio/mpeg"/>
+            <guid>T3_hrNafMYg</guid>
+            <pubDate>Tue, 19 Apr 2022 23:50:41 GMT</pubDate>
+            <itunes:duration>01:19:17</itunes:duration>
+        </item>
+        <item>
+            <title>Грибы научились разговаривать / Найдены штаны 3000-летней давности / Дровосеки отжали лося у медведя</title>
+            <enclosure url="https://podcast.tema.ru/audio/H-C3ECu8b14.mp3" length="101676440" type="audio/mpeg"/>
+            <guid>H-C3ECu8b14</guid>
+            <pubDate>Thu, 14 Apr 2022 22:09:17 GMT</pubDate>
+            <itunes:duration>01:10:37</itunes:duration>
+        </item>
+        <item>
+            <title>Британцы предлагают украинкам жилье за секс / Сочинцы отхеппибездили НАТО / Возвращение Хованского</title>
+            <enclosure url="https://podcast.tema.ru/audio/IDc_KPMLx7Y.mp3" length="117184398" type="audio/mpeg"/>
+            <guid>IDc_KPMLx7Y</guid>
+            <pubDate>Tue, 12 Apr 2022 22:53:50 GMT</pubDate>
+            <itunes:duration>01:21:23</itunes:duration>
+        </item>
+        <item>
+            <title>Огуречный кризис в Британии / Волочкова нассала под елкой / Найден самый скучный человек</title>
+            <enclosure url="https://podcast.tema.ru/audio/AEcqKSVjcdI.mp3" length="108883728" type="audio/mpeg"/>
+            <guid>AEcqKSVjcdI</guid>
+            <pubDate>Thu, 07 Apr 2022 22:51:24 GMT</pubDate>
+            <itunes:duration>01:15:37</itunes:duration>
+        </item>
+        <item>
+            <title>Резня в Буче / Школьнику выбрили на голове букву Z / Европейцы замерзнут назло России</title>
+            <enclosure url="https://podcast.tema.ru/audio/IIJO6HD3CRE.mp3" length="130430360" type="audio/mpeg"/>
+            <guid>IIJO6HD3CRE</guid>
+            <pubDate>Wed, 06 Apr 2022 00:37:25 GMT</pubDate>
+            <itunes:duration>01:30:35</itunes:duration>
+        </item>
+        <item>
+            <title>Идиоты в правительстве Великобритании / Умер Путин ???? / Нашествие мокриц в Австралии</title>
+            <enclosure url="https://podcast.tema.ru/audio/2FS0jBg2zQg.mp3" length="66494517" type="audio/mpeg"/>
+            <guid>2FS0jBg2zQg</guid>
+            <pubDate>Fri, 01 Apr 2022 05:00:01 GMT</pubDate>
+            <itunes:duration>46:11</itunes:duration>
+        </item>
+        <item>
+            <title>Раскрыта тайна буквы Z / Мордобой на премии Оскар / Русский газ за русские рубли</title>
+            <enclosure url="https://podcast.tema.ru/audio/QP0SKcQKueU.mp3" length="97998190" type="audio/mpeg"/>
+            <guid>QP0SKcQKueU</guid>
+            <pubDate>Tue, 29 Mar 2022 22:23:35 GMT</pubDate>
+            <itunes:duration>01:08:04</itunes:duration>
+        </item>
+        <item>
+            <title>Россиянка провалилась с унитазом / Электронные татуировки / Задержана кошка-наркокурьер</title>
+            <enclosure url="https://podcast.tema.ru/audio/ECS9xQhckJs.mp3" length="92802749" type="audio/mpeg"/>
+            <guid>ECS9xQhckJs</guid>
+            <pubDate>Fri, 25 Mar 2022 06:00:02 GMT</pubDate>
+            <itunes:duration>01:04:27</itunes:duration>
+        </item>
+        <item>
+            <title>В Китае упал пассажирский Боинг / Навального приговорили к 9 годам / Илон Маск поменял имя на Илону</title>
+            <enclosure url="https://podcast.tema.ru/audio/Vrre7Ukaq7Y.mp3" length="138043905" type="audio/mpeg"/>
+            <guid>Vrre7Ukaq7Y</guid>
+            <pubDate>Tue, 22 Mar 2022 23:59:46 GMT</pubDate>
+            <itunes:duration>01:35:52</itunes:duration>
+        </item>
+        <item>
+            <title>Массовая казнь в Саудовской Аравии / Чайковский запрещен в Уэльсе / Суд послал Свинку Пеппу</title>
+            <enclosure url="https://podcast.tema.ru/audio/6kuMxmyP43o.mp3" length="96385704" type="audio/mpeg"/>
+            <guid>6kuMxmyP43o</guid>
+            <pubDate>Fri, 18 Mar 2022 06:00:01 GMT</pubDate>
+            <itunes:duration>01:06:56</itunes:duration>
+        </item>
+        <item>
+            <title>В России отменили коронавирус / Англичане захватывают особняки олигархов / Блокировка Инстаграма</title>
+            <enclosure url="https://podcast.tema.ru/audio/md-z0JQS2HA.mp3" length="111504959" type="audio/mpeg"/>
+            <guid>md-z0JQS2HA</guid>
+            <pubDate>Tue, 15 Mar 2022 23:25:34 GMT</pubDate>
+            <itunes:duration>01:17:26</itunes:duration>
+        </item>
+        <item>
+            <title>Бренды покидают Россию / Илон Маск не заблокирует российские СМИ / Трансгендер-фсбшник арестован</title>
+            <enclosure url="https://podcast.tema.ru/audio/T1xQgWYi7mU.mp3" length="93901773" type="audio/mpeg"/>
+            <guid>T1xQgWYi7mU</guid>
+            <pubDate>Fri, 11 Mar 2022 06:00:12 GMT</pubDate>
+            <itunes:duration>01:05:13</itunes:duration>
+        </item>
+        <item>
+            <title>15 лет тюрьмы за фейки / Все о разработке ядерного оружия на Украине / В Москве перевернулся автозак</title>
+            <enclosure url="https://podcast.tema.ru/audio/A_yNtW8gCyk.mp3" length="118032646" type="audio/mpeg"/>
+            <guid>A_yNtW8gCyk</guid>
+            <pubDate>Tue, 08 Mar 2022 22:05:07 GMT</pubDate>
+            <itunes:duration>01:21:58</itunes:duration>
+        </item>
+        <item>
+            <title>Китай вводит санкции против США /Полмиллиарда баксов превратились в пепел /Отменили премьеру Бэтмена</title>
+            <enclosure url="https://podcast.tema.ru/audio/RUWrhqFA_88.mp3" length="63496496" type="audio/mpeg"/>
+            <guid>RUWrhqFA_88</guid>
+            <pubDate>Fri, 04 Mar 2022 06:00:15 GMT</pubDate>
+            <itunes:duration>44:06</itunes:duration>
+        </item>
+        <item>
+            <title>Россию забанил весь мир / ЕС лишил россиян шопинга в Милане / Украинский матрос отомстил олигарху</title>
+            <enclosure url="https://podcast.tema.ru/audio/94WZ0xMKs4U.mp3" length="86914540" type="audio/mpeg"/>
+            <guid>94WZ0xMKs4U</guid>
+            <pubDate>Tue, 01 Mar 2022 20:44:42 GMT</pubDate>
+            <itunes:duration>01:00:22</itunes:duration>
+        </item>
+        <item>
+            <title>В учебниках появился клитор / Первый в мире памятник проститутке / Мясо заменят насекомыми /+Украина</title>
+            <enclosure url="https://podcast.tema.ru/audio/QBA9kQFpYCI.mp3" length="100983673" type="audio/mpeg"/>
+            <guid>QBA9kQFpYCI</guid>
+            <pubDate>Thu, 24 Feb 2022 23:14:56 GMT</pubDate>
+            <itunes:duration>01:10:08</itunes:duration>
+        </item>
+        <item>
+            <title>Война!!! / Путин признал ДНР и ЛНР / Финский лыжник отморозил пенис</title>
+            <enclosure url="https://podcast.tema.ru/audio/7H_WqQLeftI.mp3" length="135319229" type="audio/mpeg"/>
+            <guid>7H_WqQLeftI</guid>
+            <pubDate>Tue, 22 Feb 2022 23:21:13 GMT</pubDate>
+            <itunes:duration>01:33:59</itunes:duration>
+        </item>
+        <item>
+            <title>Адидас показал голые сиськи / Священник 20 лет крестил неправильно / В Томске продают девственность</title>
+            <enclosure url="https://podcast.tema.ru/audio/HMV9XLp1imM.mp3" length="61263340" type="audio/mpeg"/>
+            <guid>HMV9XLp1imM</guid>
+            <pubDate>Fri, 18 Feb 2022 06:00:13 GMT</pubDate>
+            <itunes:duration>42:33</itunes:duration>
+        </item>
+        <item>
+            <title>Прослушка звонков в Телеграме / Человечество переезжает в метавселенную / Россия начинает войну</title>
+            <enclosure url="https://podcast.tema.ru/audio/85OTef94CmU.mp3" length="95972551" type="audio/mpeg"/>
+            <guid>85OTef94CmU</guid>
+            <pubDate>Tue, 15 Feb 2022 23:06:42 GMT</pubDate>
+            <itunes:duration>01:06:39</itunes:duration>
+        </item>
+        <item>
+            <title>Изобретатель вживил в робота сознание / Шведские вороны собирают окурки / Альпака в московском метро</title>
+            <enclosure url="https://podcast.tema.ru/audio/1PJ8tnqFSAc.mp3" length="105024920" type="audio/mpeg"/>
+            <guid>1PJ8tnqFSAc</guid>
+            <pubDate>Fri, 11 Feb 2022 06:01:56 GMT</pubDate>
+            <itunes:duration>01:12:56</itunes:duration>
+        </item>
+        <item>
+            <title>Мета потеряла 200 млрд $$$ за один день / Мегасрач Собчак и Шнура / Сурки проспали День сурка</title>
+            <enclosure url="https://podcast.tema.ru/audio/fWpySUzfaXE.mp3" length="101536006" type="audio/mpeg"/>
+            <guid>fWpySUzfaXE</guid>
+            <pubDate>Tue, 08 Feb 2022 22:58:26 GMT</pubDate>
+            <itunes:duration>01:10:31</itunes:duration>
+        </item>
+        <item>
+            <title>В Испании помиловали сотни ведьм / Революция в Канаде / Женщина бросила ребенка к медведю</title>
+            <enclosure url="https://podcast.tema.ru/audio/XEV0skpJ95I.mp3" length="69532662" type="audio/mpeg"/>
+            <guid>XEV0skpJ95I</guid>
+            <pubDate>Fri, 04 Feb 2022 06:00:09 GMT</pubDate>
+            <itunes:duration>48:18</itunes:duration>
+        </item>
+        <item>
+            <title>Украина просрала свой спутник / РПЦ против секс-шопов / Девочка упала с 22-го этажа</title>
+            <enclosure url="https://podcast.tema.ru/audio/qeeKXiUNk78.mp3" length="87555898" type="audio/mpeg"/>
+            <guid>qeeKXiUNk78</guid>
+            <pubDate>Tue, 01 Feb 2022 22:28:35 GMT</pubDate>
+            <itunes:duration>01:00:49</itunes:duration>
+        </item>
+        <item>
+            <title>Пастырь из Лимпопо пердит на прихожан / 12.400 евро за плевок в Путина / В ЗАГсах запретили смеяться</title>
+            <enclosure url="https://podcast.tema.ru/audio/BKED2M-XUpQ.mp3" length="91841025" type="audio/mpeg"/>
+            <guid>BKED2M-XUpQ</guid>
+            <pubDate>Fri, 28 Jan 2022 06:00:08 GMT</pubDate>
+            <itunes:duration>01:03:47</itunes:duration>
+        </item>
+        <item>
+            <title>Волочкова устроила пьяный дебош / Владимир Зеленский VS. Артемий Лебедев / В России запретили крипту</title>
+            <enclosure url="https://podcast.tema.ru/audio/4_sCz7_zIjY.mp3" length="91758573" type="audio/mpeg"/>
+            <guid>4_sCz7_zIjY</guid>
+            <pubDate>Tue, 25 Jan 2022 22:30:06 GMT</pubDate>
+            <itunes:duration>01:03:44</itunes:duration>
+        </item>
+        <item>
+            <title>Таракан прожил три дня в ухе / В Большом театре е*ут с 14 лет / В Питере убрали московские фекалии</title>
+            <enclosure url="https://podcast.tema.ru/audio/C-eeqSCJX7k.mp3" length="74205237" type="audio/mpeg"/>
+            <guid>C-eeqSCJX7k</guid>
+            <pubDate>Fri, 21 Jan 2022 06:00:08 GMT</pubDate>
+            <itunes:duration>51:32</itunes:duration>
+        </item>
+        <item>
+            <title>У американца уменьшился пенис / В Испании отдают долги минетом / На Украине запретили русский язык</title>
+            <enclosure url="https://podcast.tema.ru/audio/82eOiHh698M.mp3" length="118378716" type="audio/mpeg"/>
+            <guid>82eOiHh698M</guid>
+            <pubDate>Tue, 18 Jan 2022 23:17:25 GMT</pubDate>
+            <itunes:duration>01:22:13</itunes:duration>
+        </item>
+        <item>
+            <title>ДНК индейцев извлекли из вшей / Вся правда о переговорах России и США / Павел Дуров — самый богатый</title>
+            <enclosure url="https://podcast.tema.ru/audio/9E1h7EFKnVk.mp3" length="87464992" type="audio/mpeg"/>
+            <guid>9E1h7EFKnVk</guid>
+            <pubDate>Fri, 14 Jan 2022 06:00:05 GMT</pubDate>
+            <itunes:duration>01:00:45</itunes:duration>
+        </item>
+        <item>
+            <title>61-летняя женщина родила свою внучку / Революция в Казахстане / Актриса продает свои пуки в банках</title>
+            <enclosure url="https://podcast.tema.ru/audio/ntTZUkqbva8.mp3" length="101107053" type="audio/mpeg"/>
+            <guid>ntTZUkqbva8</guid>
+            <pubDate>Wed, 12 Jan 2022 01:26:18 GMT</pubDate>
+            <itunes:duration>01:10:13</itunes:duration>
+        </item>
+        <item>
+            <title>Тигры из навоза / Суд запретил «Мемориал» / Урок открывания шампанского саблей</title>
+            <enclosure url="https://podcast.tema.ru/audio/5qFz7bz2PvY.mp3" length="93405864" type="audio/mpeg"/>
+            <guid>5qFz7bz2PvY</guid>
+            <pubDate>Fri, 31 Dec 2021 07:30:01 GMT</pubDate>
+            <itunes:duration>01:04:52</itunes:duration>
+        </item>
+        <item>
+            <title>Европа против Телеграма / Следственный комитет за святые мощи / Китай против пива</title>
+            <enclosure url="https://podcast.tema.ru/audio/GROMn2DuT7g.mp3" length="77212035" type="audio/mpeg"/>
+            <guid>GROMn2DuT7g</guid>
+            <pubDate>Tue, 28 Dec 2021 09:05:34 GMT</pubDate>
+            <itunes:duration>53:38</itunes:duration>
+        </item>
+        <item>
+            <title>Новозеландцам разрешили оргии / Адидас отказался от своего названия / Обезьяны убили 250 собак</title>
+            <enclosure url="https://podcast.tema.ru/audio/xtseoq_x_DI.mp3" length="72026634" type="audio/mpeg"/>
+            <guid>xtseoq_x_DI</guid>
+            <pubDate>Fri, 24 Dec 2021 06:00:14 GMT</pubDate>
+            <itunes:duration>50:02</itunes:duration>
+        </item>
+        <item>
+            <title>В Калифорнии отменяют плохие оценки / Насильник заявил, что он — женщина / Подкожные чипы в Швеции</title>
+            <enclosure url="https://podcast.tema.ru/audio/811k9Ub--LE.mp3" length="100692773" type="audio/mpeg"/>
+            <guid>811k9Ub--LE</guid>
+            <pubDate>Tue, 21 Dec 2021 22:29:27 GMT</pubDate>
+            <itunes:duration>01:09:56</itunes:duration>
+        </item>
+        <item>
+            <title>Мэр запретил снегу выпадать / Женщина покормила кота грудью / Во Франции вакцинируют устриц</title>
+            <enclosure url="https://podcast.tema.ru/audio/VB4iy5cu3nk.mp3" length="90389035" type="audio/mpeg"/>
+            <guid>VB4iy5cu3nk</guid>
+            <pubDate>Fri, 17 Dec 2021 06:00:23 GMT</pubDate>
+            <itunes:duration>01:02:47</itunes:duration>
+        </item>
+        <item>
+            <title>Электропощечины на стриме / Мужчина упал анусом на боеприпас / Тиктокера посадили за снежки</title>
+            <enclosure url="https://podcast.tema.ru/audio/HURL97CBqh4.mp3" length="74700519" type="audio/mpeg"/>
+            <guid>HURL97CBqh4</guid>
+            <pubDate>Tue, 14 Dec 2021 21:50:35 GMT</pubDate>
+            <itunes:duration>51:53</itunes:duration>
+        </item>
+        <item>
+            <title>Дети вредны для Земли / Курпатов отправил любовника в СИЗО / «Яйца Моцарта» на грани банкротства</title>
+            <enclosure url="https://podcast.tema.ru/audio/vegzdVMCI_A.mp3" length="83982347" type="audio/mpeg"/>
+            <guid>vegzdVMCI_A</guid>
+            <pubDate>Fri, 10 Dec 2021 06:00:32 GMT</pubDate>
+            <itunes:duration>58:20</itunes:duration>
+        </item>
+        <item>
+            <title>Государство покупает ВК / Ученые создали биороботов из лягушек / Кокаин в британском парламенте</title>
+            <enclosure url="https://podcast.tema.ru/audio/wDxATyjLO9Y.mp3" length="94446582" type="audio/mpeg"/>
+            <guid>wDxATyjLO9Y</guid>
+            <pubDate>Tue, 07 Dec 2021 21:27:30 GMT</pubDate>
+            <itunes:duration>01:05:36</itunes:duration>
+        </item>
+        <item>
+            <title>Студенты прикинулись черными / Ютубер воссоздал «Игру в кальмара» / Училка сыграла на раздевание</title>
+            <enclosure url="https://podcast.tema.ru/audio/iq1CUPvpZU0.mp3" length="76667853" type="audio/mpeg"/>
+            <guid>iq1CUPvpZU0</guid>
+            <pubDate>Fri, 03 Dec 2021 06:00:11 GMT</pubDate>
+            <itunes:duration>53:15</itunes:duration>
+        </item>
+        <item>
+            <title>Москвич нассал на портрет ветерана / Санта Клаус — гей? / Моргенштерн сбежал из России</title>
+            <enclosure url="https://podcast.tema.ru/audio/-NZ6NvrlfDw.mp3" length="71286837" type="audio/mpeg"/>
+            <guid>-NZ6NvrlfDw</guid>
+            <pubDate>Tue, 30 Nov 2021 21:14:31 GMT</pubDate>
+            <itunes:duration>49:31</itunes:duration>
+        </item>
+        <item>
+            <title>Принудительная вакцинация / Шоссе в Калифорнии засыпало деньгами / Унитаз из памятника Ленину</title>
+            <enclosure url="https://podcast.tema.ru/audio/OGTFf_k9fg4.mp3" length="84653799" type="audio/mpeg"/>
+            <guid>OGTFf_k9fg4</guid>
+            <pubDate>Fri, 26 Nov 2021 06:00:14 GMT</pubDate>
+            <itunes:duration>58:48</itunes:duration>
+        </item>
+        <item>
+            <title>Джоан Роулинг обнулили / Сын расфасовал отца / Студенты перепутали водку с незамерзайкой</title>
+            <enclosure url="https://podcast.tema.ru/audio/-JpxzdiyTgM.mp3" length="45803030" type="audio/mpeg"/>
+            <guid>-JpxzdiyTgM</guid>
+            <pubDate>Tue, 23 Nov 2021 19:12:20 GMT</pubDate>
+            <itunes:duration>31:49</itunes:duration>
+        </item>
+        <item>
+            <title>Россия сбила собственный спутник / Девушку из ТикТока жестко прессуют / Эппл засудили за шмон</title>
+            <enclosure url="https://podcast.tema.ru/audio/XXUyTQ3Y6WI.mp3" length="66144058" type="audio/mpeg"/>
+            <guid>XXUyTQ3Y6WI</guid>
+            <pubDate>Fri, 19 Nov 2021 07:00:13 GMT</pubDate>
+            <itunes:duration>45:56</itunes:duration>
+        </item>
+        <item>
+            <title>Первый российский политик-трансгендер / Певица нассала на фаната / Мигранты берут польскую границу</title>
+            <enclosure url="https://podcast.tema.ru/audio/LomvP5ryUHo.mp3" length="96875970" type="audio/mpeg"/>
+            <guid>LomvP5ryUHo</guid>
+            <pubDate>Tue, 16 Nov 2021 20:39:39 GMT</pubDate>
+            <itunes:duration>01:07:17</itunes:duration>
+        </item>
+        <item>
+            <title>Виртуальные кроссы / Убегающего от пчел бразильца съели пираньи / Собчак грозит два года тюрьмы</title>
+            <enclosure url="https://podcast.tema.ru/audio/x9cHebANm7s.mp3" length="83961658" type="audio/mpeg"/>
+            <guid>x9cHebANm7s</guid>
+            <pubDate>Fri, 12 Nov 2021 06:00:30 GMT</pubDate>
+            <itunes:duration>58:19</itunes:duration>
+        </item>
+        <item>
+            <title>Оксимирон ответил бывшей / Байден напердел при герцогине / Первый супермакет мусора</title>
+            <enclosure url="https://podcast.tema.ru/audio/3NWaUaYIWqM.mp3" length="82422524" type="audio/mpeg"/>
+            <guid>3NWaUaYIWqM</guid>
+            <pubDate>Tue, 09 Nov 2021 19:35:45 GMT</pubDate>
+            <itunes:duration>57:15</itunes:duration>
+        </item>
+        <item>
+            <title>Билл Гейтс испортил воздух/ Бузову выгнали из МХАТа/ Отец в тюрьме за то, что не называет дочь сыном</title>
+            <enclosure url="https://podcast.tema.ru/audio/JUnJbjd1d0w.mp3" length="90862373" type="audio/mpeg"/>
+            <guid>JUnJbjd1d0w</guid>
+            <pubDate>Fri, 05 Nov 2021 06:00:09 GMT</pubDate>
+            <itunes:duration>01:03:06</itunes:duration>
+        </item>
+        <item>
+            <title>В стрингах на фоне храма / Куаркод для Гитлера / Сперма непривитых подорожала на 21 000 %</title>
+            <enclosure url="https://podcast.tema.ru/audio/dC0qswycHR8.mp3" length="93873560" type="audio/mpeg"/>
+            <guid>dC0qswycHR8</guid>
+            <pubDate>Tue, 02 Nov 2021 20:40:03 GMT</pubDate>
+            <itunes:duration>01:05:12</itunes:duration>
+        </item>
+        <item>
+            <title>Деторождение разрушает климат / Монета в 1 триллион долларов / В Японии всплыли корабли-призраки</title>
+            <enclosure url="https://podcast.tema.ru/audio/5rOCItHl9aM.mp3" length="80134824" type="audio/mpeg"/>
+            <guid>5rOCItHl9aM</guid>
+            <pubDate>Fri, 29 Oct 2021 06:00:02 GMT</pubDate>
+            <itunes:duration>55:39</itunes:duration>
+        </item>
+        <item>
+            <title>Останкино выгоняет студентов / Болдуин застрелил оператора / Марину Вульф из шоу Наливкина посади</title>
+            <enclosure url="https://podcast.tema.ru/audio/BnDqJCKx5X4.mp3" length="86807960" type="audio/mpeg"/>
+            <guid>BnDqJCKx5X4</guid>
+            <pubDate>Tue, 26 Oct 2021 19:25:53 GMT</pubDate>
+            <itunes:duration>01:00:17</itunes:duration>
+        </item>
+        <item>
+            <title>Французский суд послал Навального / Китаец сжег жену в тиктоке / Фейсбук нагнули на 26 лямов</title>
+            <enclosure url="https://podcast.tema.ru/audio/8esVMOQH_BU.mp3" length="71763937" type="audio/mpeg"/>
+            <guid>8esVMOQH_BU</guid>
+            <pubDate>Fri, 22 Oct 2021 06:00:05 GMT</pubDate>
+            <itunes:duration>49:51</itunes:duration>
+        </item>
+        <item>
+            <title>Фейсбук против хохломы / Вся правда о Мишленовских ресторанах / Первые безопасные вибраторы</title>
+            <enclosure url="https://podcast.tema.ru/audio/BJskpMMK_Pw.mp3" length="99877126" type="audio/mpeg"/>
+            <guid>BJskpMMK_Pw</guid>
+            <pubDate>Tue, 19 Oct 2021 21:31:42 GMT</pubDate>
+            <itunes:duration>01:09:22</itunes:duration>
+        </item>
+        <item>
+            <title>В Германии горят электробусы / Плазма против коровьих ссак / Миллион баксов за улитку</title>
+            <enclosure url="https://podcast.tema.ru/audio/7kUgDmvxhQ0.mp3" length="73287399" type="audio/mpeg"/>
+            <guid>7kUgDmvxhQ0</guid>
+            <pubDate>Fri, 15 Oct 2021 06:00:02 GMT</pubDate>
+            <itunes:duration>50:54</itunes:duration>
+        </item>
+        <item>
+            <title>Собчак и смертельное ДТП / Нобелевская премия - журналисту из России / Москвичка разбила 7 машин</title>
+            <enclosure url="https://podcast.tema.ru/audio/K7_QYsJMG8Q.mp3" length="103532179" type="audio/mpeg"/>
+            <guid>K7_QYsJMG8Q</guid>
+            <pubDate>Tue, 12 Oct 2021 21:10:02 GMT</pubDate>
+            <itunes:duration>01:11:54</itunes:duration>
+        </item>
+        <item>
+            <title>В Конго сожгли восемь ведьм / Студентку раздели на кастинге / Свиней трудоустроили в аэропорту</title>
+            <enclosure url="https://podcast.tema.ru/audio/UUKWhQXTaH4.mp3" length="77783177" type="audio/mpeg"/>
+            <guid>UUKWhQXTaH4</guid>
+            <pubDate>Fri, 08 Oct 2021 07:07:03 GMT</pubDate>
+            <itunes:duration>54:01</itunes:duration>
+        </item>
+        <item>
+            <title>Первый в мире факультет Тикток / Тиньков ошибся в 3333 раза / Минет на Красной площади</title>
+            <enclosure url="https://podcast.tema.ru/audio/0bFlLLGd1Q8.mp3" length="69794096" type="audio/mpeg"/>
+            <guid>0bFlLLGd1Q8</guid>
+            <pubDate>Tue, 05 Oct 2021 16:52:36 GMT</pubDate>
+            <itunes:duration>48:28</itunes:duration>
+        </item>
+        <item>
+            <title>В США запретили балалайки / Лекции по математике на Порнхабе / Драки на заправках в Великобритании</title>
+            <enclosure url="https://podcast.tema.ru/audio/VJP8Jdmvy64.mp3" length="91795258" type="audio/mpeg"/>
+            <guid>VJP8Jdmvy64</guid>
+            <pubDate>Sat, 02 Oct 2021 00:01:55 GMT</pubDate>
+            <itunes:duration>01:03:45</itunes:duration>
+        </item>
+        <item>
+            <title>Беспредел в Косове / В США потребовали вернуть рабство / Трагедия на Эльбрусе</title>
+            <enclosure url="https://podcast.tema.ru/audio/9JL0d9qQQl0.mp3" length="52674906" type="audio/mpeg"/>
+            <guid>9JL0d9qQQl0</guid>
+            <pubDate>Wed, 29 Sep 2021 16:45:26 GMT</pubDate>
+            <itunes:duration>36:35</itunes:duration>
+        </item>
+        <item>
+            <title>Баленсиага — расисты?/В Амстердаме запретили выходить на балконы/Подросток засунул кабель себе в пи</title>
+            <enclosure url="https://podcast.tema.ru/audio/SLcbEJIPcfo.mp3" length="74722462" type="audio/mpeg"/>
+            <guid>SLcbEJIPcfo</guid>
+            <pubDate>Fri, 24 Sep 2021 06:00:15 GMT</pubDate>
+            <itunes:duration>51:54</itunes:duration>
+        </item>
+        <item>
+            <title>Массовый расстрел в Перми / Вся правда о победе «Единой России» / Коров научили ходить в туалет</title>
+            <enclosure url="https://podcast.tema.ru/audio/JvMBCuUSiVE.mp3" length="85043755" type="audio/mpeg"/>
+            <guid>JvMBCuUSiVE</guid>
+            <pubDate>Tue, 21 Sep 2021 22:37:32 GMT</pubDate>
+            <itunes:duration>59:04</itunes:duration>
+        </item>
+        <item>
+            <title>Шведы назвали ребенка В. Путиным / Конец какашкалипсиса / В Америке воскрешают мамонтов</title>
+            <enclosure url="https://podcast.tema.ru/audio/BoYg9VYDQIM.mp3" length="73918099" type="audio/mpeg"/>
+            <guid>BoYg9VYDQIM</guid>
+            <pubDate>Fri, 17 Sep 2021 06:00:02 GMT</pubDate>
+            <itunes:duration>51:20</itunes:duration>
+        </item>
+        <item>
+            <title>Шокирующее признание Моргенштерна / Оргазм против насморка / Разгром нудистов в Испании</title>
+            <enclosure url="https://podcast.tema.ru/audio/j-j6lZjv9LQ.mp3" length="97304796" type="audio/mpeg"/>
+            <guid>j-j6lZjv9LQ</guid>
+            <pubDate>Tue, 14 Sep 2021 23:26:52 GMT</pubDate>
+            <itunes:duration>01:07:35</itunes:duration>
+        </item>
+        <item>
+            <title>Мужчина отрезал себе пенис / Путин чпонькнул в прямом эфире / Кот прожил 52 дня без еды</title>
+            <enclosure url="https://podcast.tema.ru/audio/zyCcJa1oqb8.mp3" length="87066886" type="audio/mpeg"/>
+            <guid>zyCcJa1oqb8</guid>
+            <pubDate>Fri, 10 Sep 2021 10:43:10 GMT</pubDate>
+            <itunes:duration>01:00:28</itunes:duration>
+        </item>
+        <item>
+            <title>Ученик возразил Путину / Ежик одновременно чихнул и пукнул / Черепно-мозговая травма Зеленского</title>
+            <enclosure url="https://podcast.tema.ru/audio/xbMkSstYCaE.mp3" length="61798746" type="audio/mpeg"/>
+            <guid>xbMkSstYCaE</guid>
+            <pubDate>Wed, 08 Sep 2021 16:51:43 GMT</pubDate>
+            <itunes:duration>42:55</itunes:duration>
+        </item>
+        <item>
+            <title>Фейсбук обозвал чернокожих приматами / Жуткая израильская история / Эдвард Сноуден выходит на связь</title>
+            <enclosure url="https://podcast.tema.ru/audio/8NMsfvSTaBw.mp3" length="63799307" type="audio/mpeg"/>
+            <guid>8NMsfvSTaBw</guid>
+            <pubDate>Tue, 07 Sep 2021 21:37:42 GMT</pubDate>
+            <itunes:duration>44:19</itunes:duration>
+        </item>
+        <item>
+            <title>Миллион рублей за кота экстрасенса / Президент заснул на переговорах / Реклама из космоса</title>
+            <enclosure url="https://podcast.tema.ru/audio/iN01wS1P_6A.mp3" length="73273606" type="audio/mpeg"/>
+            <guid>iN01wS1P_6A</guid>
+            <pubDate>Fri, 03 Sep 2021 11:51:57 GMT</pubDate>
+            <itunes:duration>50:53</itunes:duration>
+        </item>
+        <item>
+            <title>Мужское государство терроризирует рестораны / Депортация Мирзализаде / Датчики на ноге у школьников</title>
+            <enclosure url="https://podcast.tema.ru/audio/ANzwDSR9sBs.mp3" length="104255039" type="audio/mpeg"/>
+            <guid>ANzwDSR9sBs</guid>
+            <pubDate>Tue, 31 Aug 2021 21:00:05 GMT</pubDate>
+            <itunes:duration>01:12:24</itunes:duration>
+        </item>
+        <item>
+            <title>Ученые вырастили мозг с глазами / Якутские гусеницы едят пластик / 15 миллионов забыли на улице</title>
+            <enclosure url="https://podcast.tema.ru/audio/kOLsg_j8XLQ.mp3" length="72309374" type="audio/mpeg"/>
+            <guid>kOLsg_j8XLQ</guid>
+            <pubDate>Fri, 27 Aug 2021 06:00:31 GMT</pubDate>
+            <itunes:duration>50:13</itunes:duration>
+        </item>
+        <item>
+            <title>Зеленский возвращает Крым / Тульский пряник-спасатель / Девятилетняя девочка поступает в МГУ</title>
+            <enclosure url="https://podcast.tema.ru/audio/btNW_bbaGk0.mp3" length="764" type="audio/mpeg"/>
+            <guid>btNW_bbaGk0</guid>
+            <pubDate>Tue, 24 Aug 2021 21:14:42 GMT</pubDate>
+            <itunes:duration>01:05:27</itunes:duration>
+        </item>
+        <item>
+            <title>Десятиметровая какашка в центре Москвы / Значение цветов российского флага / Первый ябломобиль</title>
+            <enclosure url="https://podcast.tema.ru/audio/BwBpdoIbr20.mp3" length="55778879" type="audio/mpeg"/>
+            <guid>BwBpdoIbr20</guid>
+            <pubDate>Fri, 20 Aug 2021 06:00:02 GMT</pubDate>
+            <itunes:duration>38:45</itunes:duration>
+        </item>
+        <item>
+            <title>Паника в аэропорту Кабула / Вся правда про лесные пожары / Кота привлекли свидетелем</title>
+            <enclosure url="https://podcast.tema.ru/audio/-GBgpG-3eqc.mp3" length="82277701" type="audio/mpeg"/>
+            <guid>-GBgpG-3eqc</guid>
+            <pubDate>Tue, 17 Aug 2021 18:36:30 GMT</pubDate>
+            <itunes:duration>57:09</itunes:duration>
+        </item>
+        <item>
+            <title>Гомофобный Убер / Тесла против танка / Смерть миллионов пчел</title>
+            <enclosure url="https://podcast.tema.ru/audio/GcjxL26ACk4.mp3" length="75950635" type="audio/mpeg"/>
+            <guid>GcjxL26ACk4</guid>
+            <pubDate>Fri, 13 Aug 2021 06:00:03 GMT</pubDate>
+            <itunes:duration>52:45</itunes:duration>
+        </item>
+        <item>
+            <title>Танцующий Обама без маски / Египетское топливо из жожоба / Ксения Собчак vs Вероника Степанова</title>
+            <enclosure url="https://podcast.tema.ru/audio/3hrIaJuup9g.mp3" length="105450612" type="audio/mpeg"/>
+            <guid>3hrIaJuup9g</guid>
+            <pubDate>Wed, 11 Aug 2021 00:10:35 GMT</pubDate>
+            <itunes:duration>01:13:14</itunes:duration>
+        </item>
+        <item>
+            <title>Принудительное исцеление шамана / Эвтаназия в Латвии / Метавселенная Цукерберга</title>
+            <enclosure url="https://podcast.tema.ru/audio/y-fLcobYyQ0.mp3" length="72495575" type="audio/mpeg"/>
+            <guid>y-fLcobYyQ0</guid>
+            <pubDate>Fri, 06 Aug 2021 06:00:24 GMT</pubDate>
+            <itunes:duration>50:21</itunes:duration>
+        </item>
+        <item>
+            <title>Белорусская бегунья сбегает от режима / Таракан на Олимпийских играх / Гигантский оползень в Индии</title>
+            <enclosure url="https://podcast.tema.ru/audio/Hd7hAWNaH3Q.mp3" length="90082462" type="audio/mpeg"/>
+            <guid>Hd7hAWNaH3Q</guid>
+            <pubDate>Tue, 03 Aug 2021 23:03:54 GMT</pubDate>
+            <itunes:duration>01:02:34</itunes:duration>
+        </item>
+        <item>
+            <title>Баба прогнала детей-аутистов с детской площадки / Смерть после вакцинации / Вспышка чумы в США</title>
+            <enclosure url="https://podcast.tema.ru/audio/2jSUm9f6ULI.mp3" length="85537782" type="audio/mpeg"/>
+            <guid>2jSUm9f6ULI</guid>
+            <pubDate>Fri, 30 Jul 2021 06:00:02 GMT</pubDate>
+            <itunes:duration>59:25</itunes:duration>
+        </item>
+        <item>
+            <title>Азовское море превратилось в кисель / Ди Каприо спасает Якутию от пожаров? / Смертельный пердеж</title>
+            <enclosure url="https://podcast.tema.ru/audio/KUAIFBhJaW4.mp3" length="95985717" type="audio/mpeg"/>
+            <guid>KUAIFBhJaW4</guid>
+            <pubDate>Tue, 27 Jul 2021 23:06:17 GMT</pubDate>
+            <itunes:duration>01:06:40</itunes:duration>
+        </item>
+        <item>
+            <title>База собачьих фекалий / Гигантские золотые рыбки / На работу — без хиджаба</title>
+            <enclosure url="https://podcast.tema.ru/audio/BhLpUGhama4.mp3" length="76642775" type="audio/mpeg"/>
+            <guid>BhLpUGhama4</guid>
+            <pubDate>Fri, 23 Jul 2021 06:00:03 GMT</pubDate>
+            <itunes:duration>53:14</itunes:duration>
+        </item>
+        <item>
+            <title>Безос полетел в космос / Европа ушла под воду / Крысы едят Теслу</title>
+            <enclosure url="https://podcast.tema.ru/audio/XgpciHQ9_9E.mp3" length="89437968" type="audio/mpeg"/>
+            <guid>XgpciHQ9_9E</guid>
+            <pubDate>Tue, 20 Jul 2021 23:30:49 GMT</pubDate>
+            <itunes:duration>01:02:07</itunes:duration>
+        </item>
+        <item>
+            <title>Смерть ЖЖ / Нашествие божьих коровок / Обидный промокод</title>
+            <enclosure url="https://podcast.tema.ru/audio/iTQXek3EW94.mp3" length="71711275" type="audio/mpeg"/>
+            <guid>iTQXek3EW94</guid>
+            <pubDate>Fri, 16 Jul 2021 06:00:10 GMT</pubDate>
+            <itunes:duration>49:48</itunes:duration>
+        </item>
+        <item>
+            <title>Убийство президента Гаити / Кровавый День независимости / Талибан дал гарантии Москве</title>
+            <enclosure url="https://podcast.tema.ru/audio/fNwFk2-N6mA.mp3" length="71745756" type="audio/mpeg"/>
+            <guid>fNwFk2-N6mA</guid>
+            <pubDate>Tue, 13 Jul 2021 22:29:29 GMT</pubDate>
+            <itunes:duration>49:50</itunes:duration>
+        </item>
+        <item>
+            <title>Терроризм в Фейсбуке / Небесные пончики / Летающий смартфон</title>
+            <enclosure url="https://podcast.tema.ru/audio/OPHtIm4Yr0Y.mp3" length="66824287" type="audio/mpeg"/>
+            <guid>OPHtIm4Yr0Y</guid>
+            <pubDate>Fri, 09 Jul 2021 03:51:50 GMT</pubDate>
+            <itunes:duration>46:25</itunes:duration>
+        </item>
+        <item>
+            <title>Я проиграл лям / ВкусВилл отменяет однополую пару / Золотой КУАР-код</title>
+            <enclosure url="https://podcast.tema.ru/audio/y2v-pf-rns8.mp3" length="92350099" type="audio/mpeg"/>
+            <guid>y2v-pf-rns8</guid>
+            <pubDate>Tue, 06 Jul 2021 23:51:18 GMT</pubDate>
+            <itunes:duration>01:04:08</itunes:duration>
+        </item>
+        <item>
+            <title>Гей-парад в США / Всемирный интернет Илона Маска / Лего из мусора</title>
+            <enclosure url="https://podcast.tema.ru/audio/RIuVdi2FlMM.mp3" length="54586442" type="audio/mpeg"/>
+            <guid>RIuVdi2FlMM</guid>
+            <pubDate>Fri, 02 Jul 2021 06:01:54 GMT</pubDate>
+            <itunes:duration>37:55</itunes:duration>
+        </item>
+        <item>
+            <title>Ковидный апокалипсис / Усачев: «Пора валить из России»/ Английский военный корабль прогнали из Крыма</title>
+            <enclosure url="https://podcast.tema.ru/audio/FFXVbOCsPb8.mp3" length="69828577" type="audio/mpeg"/>
+            <guid>FFXVbOCsPb8</guid>
+            <pubDate>Tue, 29 Jun 2021 21:21:23 GMT</pubDate>
+            <itunes:duration>48:30</itunes:duration>
+        </item>
+        <item>
+            <title>Тонна цемента на выпускной / Дефицит сала на Украине / Закон против домашних животных</title>
+            <enclosure url="https://podcast.tema.ru/audio/3JETMZGABNc.mp3" length="57467853" type="audio/mpeg"/>
+            <guid>3JETMZGABNc</guid>
+            <pubDate>Fri, 25 Jun 2021 06:45:51 GMT</pubDate>
+            <itunes:duration>39:55</itunes:duration>
+        </item>
+        <item>
+            <title>Зеленая плесень в Индии / Колпачковый вор / Байден бросил вызов России</title>
+            <enclosure url="https://podcast.tema.ru/audio/mFPHdIr4paE.mp3" length="88032999" type="audio/mpeg"/>
+            <guid>mFPHdIr4paE</guid>
+            <pubDate>Tue, 22 Jun 2021 10:51:05 GMT</pubDate>
+            <itunes:duration>01:01:08</itunes:duration>
+        </item>
+        <item>
+            <title>Туалет на колесах / Депортация цыган / +Новый океан</title>
+            <enclosure url="https://podcast.tema.ru/audio/Vo0bl9ShIkU.mp3" length="72577704" type="audio/mpeg"/>
+            <guid>Vo0bl9ShIkU</guid>
+            <pubDate>Fri, 18 Jun 2021 06:00:17 GMT</pubDate>
+            <itunes:duration>50:24</itunes:duration>
+        </item>
+        <item>
+            <title>Отряд Путина против Поп-ит / Секретный анализ Навального / Выстрел в голову на Красной Площади</title>
+            <enclosure url="https://podcast.tema.ru/audio/kmI_cbWTaCM.mp3" length="94180133" type="audio/mpeg"/>
+            <guid>kmI_cbWTaCM</guid>
+            <pubDate>Tue, 15 Jun 2021 22:07:39 GMT</pubDate>
+            <itunes:duration>01:05:25</itunes:duration>
+        </item>
+        <item>
+            <title>Постельный слив Любови Соболь / Микробы спасают Микеланджело / Самсунг-вайфу</title>
+            <enclosure url="https://podcast.tema.ru/audio/T5d0rY1SoJY.mp3" length="98707258" type="audio/mpeg"/>
+            <guid>T5d0rY1SoJY</guid>
+            <pubDate>Fri, 11 Jun 2021 05:45:59 GMT</pubDate>
+            <itunes:duration>01:08:33</itunes:duration>
+        </item>
+        <item>
+            <title>Косяк на памятнике Александру III / Угар Элджея / Илону Маску объявили войну?</title>
+            <enclosure url="https://podcast.tema.ru/audio/r-ypAE40Gk8.mp3" length="104488261" type="audio/mpeg"/>
+            <guid>r-ypAE40Gk8</guid>
+            <pubDate>Tue, 08 Jun 2021 22:14:56 GMT</pubDate>
+            <itunes:duration>01:12:34</itunes:duration>
+        </item>
+        <item>
+            <title>Новый олимпийский вирус / Иран майнит битки / Грета Тунберг: «Нам п*зда»</title>
+            <enclosure url="https://podcast.tema.ru/audio/fTv6Om9qm0U.mp3" length="56102380" type="audio/mpeg"/>
+            <guid>fTv6Om9qm0U</guid>
+            <pubDate>Fri, 04 Jun 2021 07:00:09 GMT</pubDate>
+            <itunes:duration>38:58</itunes:duration>
+        </item>
+        <item>
+            <title>Музей мата / Голунов vs Навальный: кто победит? / Плавучая тюрьма в центре Нью-Йорка</title>
+            <enclosure url="https://podcast.tema.ru/audio/456vhwmJxvg.mp3" length="63447595" type="audio/mpeg"/>
+            <guid>456vhwmJxvg</guid>
+            <pubDate>Tue, 01 Jun 2021 10:36:28 GMT</pubDate>
+            <itunes:duration>44:04</itunes:duration>
+        </item>
+        <item>
+            <title>Гендерно-нейтральный язык / Несовершеннолетние на линии хаоса / Взлет цен красной икры</title>
+            <enclosure url="https://podcast.tema.ru/audio/a4TGzQtNLaU.mp3" length="39345560" type="audio/mpeg"/>
+            <guid>a4TGzQtNLaU</guid>
+            <pubDate>Fri, 28 May 2021 07:00:00 GMT</pubDate>
+            <itunes:duration>27:20</itunes:duration>
+        </item>
+        <item>
+            <title>Захват Протасевича в самолете / Ютуб заставит платить налоги / Марафонцы замерзли насмерть</title>
+            <enclosure url="https://podcast.tema.ru/audio/fNRV4FGeiMw.mp3" length="70300662" type="audio/mpeg"/>
+            <guid>fNRV4FGeiMw</guid>
+            <pubDate>Tue, 25 May 2021 22:09:00 GMT</pubDate>
+            <itunes:duration>48:50</itunes:duration>
+        </item>
+        <item>
+            <title>Ароматизация воздуха в метро / Кадыров — не шайтан / Роботизированный третий глаз</title>
+            <enclosure url="https://podcast.tema.ru/audio/gEPyjnF3v40.mp3" length="57821446" type="audio/mpeg"/>
+            <guid>gEPyjnF3v40</guid>
+            <pubDate>Fri, 21 May 2021 12:38:05 GMT</pubDate>
+            <itunes:duration>40:10</itunes:duration>
+        </item>
+        <item>
+            <title>Конфликт Израиля и Палестины / Отмена ЕГЭ / Твиттер временно прощен</title>
+            <enclosure url="https://podcast.tema.ru/audio/RsWv9h6Fj-c.mp3" length="51411624" type="audio/mpeg"/>
+            <guid>RsWv9h6Fj-c</guid>
+            <pubDate>Tue, 18 May 2021 21:37:58 GMT</pubDate>
+            <itunes:duration>35:43</itunes:duration>
+        </item>
+        <item>
+            <title>Жирофобная кофейня в Лондоне / Гигантская моль и кроссовки ПС5 / Слава КПСС — чиновник</title>
+            <enclosure url="https://podcast.tema.ru/audio/6fc4sMEFglE.mp3" length="54570768" type="audio/mpeg"/>
+            <guid>6fc4sMEFglE</guid>
+            <pubDate>Fri, 14 May 2021 07:00:02 GMT</pubDate>
+            <itunes:duration>37:54</itunes:duration>
+        </item>
+        <item>
+            <title>Жуткая стрельба в Казанской школе / Отравитель Навального найден в лесу / Эфир пробивает потолок</title>
+            <enclosure url="https://podcast.tema.ru/audio/KRskEjEjx6k.mp3" length="62013786" type="audio/mpeg"/>
+            <guid>KRskEjEjx6k</guid>
+            <pubDate>Tue, 11 May 2021 20:41:21 GMT</pubDate>
+            <itunes:duration>43:04</itunes:duration>
+        </item>
+        <item>
+            <title>Странные сутки на Венере / Неонацисты на Украине / Замороженные пенисы</title>
+            <enclosure url="https://podcast.tema.ru/audio/RGT1ZZd7G5g.mp3" length="36413995" type="audio/mpeg"/>
+            <guid>RGT1ZZd7G5g</guid>
+            <pubDate>Fri, 07 May 2021 07:00:06 GMT</pubDate>
+            <itunes:duration>25:18</itunes:duration>
+        </item>
+        <item>
+            <title>Ивангай против Дудя / Запрет на очереди / Билл Гейтс развелся с женой</title>
+            <enclosure url="https://podcast.tema.ru/audio/AfdAUjV5uEs.mp3" length="52932577" type="audio/mpeg"/>
+            <guid>AfdAUjV5uEs</guid>
+            <pubDate>Tue, 04 May 2021 21:46:21 GMT</pubDate>
+            <itunes:duration>36:46</itunes:duration>
+        </item>
+        <item>
+            <title>Мортал Комбат в кино / Сексизм в Амазоне / Приговор трэш-стримеру</title>
+            <enclosure url="https://podcast.tema.ru/audio/Yx7VPxzPaOU.mp3" length="51718824" type="audio/mpeg"/>
+            <guid>Yx7VPxzPaOU</guid>
+            <pubDate>Fri, 30 Apr 2021 07:48:53 GMT</pubDate>
+            <itunes:duration>35:55</itunes:duration>
+        </item>
+        <item>
+            <title>Масочный режим — смертелен? / Захват Лондона / Оскар 2021</title>
+            <enclosure url="https://podcast.tema.ru/audio/eU7YTIG_BFs.mp3" length="65934034" type="audio/mpeg"/>
+            <guid>eU7YTIG_BFs</guid>
+            <pubDate>Tue, 27 Apr 2021 13:11:17 GMT</pubDate>
+            <itunes:duration>45:48</itunes:duration>
+        </item>
+        <item>
+            <title>Приемная разведчиков в даркнете / Митинг в поддержку Навального / Убер доставляет каннабис</title>
+            <enclosure url="https://podcast.tema.ru/audio/6i0xSiVSunA.mp3" length="65623072" type="audio/mpeg"/>
+            <guid>6i0xSiVSunA</guid>
+            <pubDate>Fri, 23 Apr 2021 11:05:06 GMT</pubDate>
+            <itunes:duration>45:35</itunes:duration>
+        </item>
+        <item>
+            <title>Работорговля одноклассниками / Навальный умирает? / Обезьяны-аферисты</title>
+            <enclosure url="https://podcast.tema.ru/audio/PtoYNjpgGi4.mp3" length="68491317" type="audio/mpeg"/>
+            <guid>PtoYNjpgGi4</guid>
+            <pubDate>Tue, 20 Apr 2021 17:26:37 GMT</pubDate>
+            <itunes:duration>47:34</itunes:duration>
+        </item>
+        <item>
+            <title>Китовые пенисы / Ядерный взрыв в Иране / Тюремный контактный зоопарк</title>
+            <enclosure url="https://podcast.tema.ru/audio/0UoDPoH1sxM.mp3" length="48120195" type="audio/mpeg"/>
+            <guid>0UoDPoH1sxM</guid>
+            <pubDate>Fri, 16 Apr 2021 06:00:00 GMT</pubDate>
+            <itunes:duration>33:25</itunes:duration>
+        </item>
+        <item>
+            <title>Смертельные приседания / Банды Латинской Америки / Компостирование людей</title>
+            <enclosure url="https://podcast.tema.ru/audio/R0os4HL7WR8.mp3" length="67700747" type="audio/mpeg"/>
+            <guid>R0os4HL7WR8</guid>
+            <pubDate>Tue, 13 Apr 2021 20:49:24 GMT</pubDate>
+            <itunes:duration>47:01</itunes:duration>
+        </item>
+        <item>
+            <title>Утечка Фейсбука / Смертельная вечеринка / Кража Гоголя</title>
+            <enclosure url="https://podcast.tema.ru/audio/EWtk4u8pvVM.mp3" length="78190060" type="audio/mpeg"/>
+            <guid>EWtk4u8pvVM</guid>
+            <pubDate>Fri, 09 Apr 2021 06:00:02 GMT</pubDate>
+            <itunes:duration>54:18</itunes:duration>
+        </item>
+        <item>
+            <title>Ютуб без дизлайков / Новый логотип Яндекса / Мальчик с тремя #ями</title>
+            <enclosure url="https://podcast.tema.ru/audio/sEiecMOEobU.mp3" length="58993195" type="audio/mpeg"/>
+            <guid>sEiecMOEobU</guid>
+            <pubDate>Tue, 06 Apr 2021 22:04:17 GMT</pubDate>
+            <itunes:duration>40:58</itunes:duration>
+        </item>
+        <item>
+            <title>Затык Суэцкого канала / Олимпийский огонь погас / Коррупция Ивана Жданова</title>
+            <enclosure url="https://podcast.tema.ru/audio/KK8AJUYKI5o.mp3" length="76599516" type="audio/mpeg"/>
+            <guid>KK8AJUYKI5o</guid>
+            <pubDate>Tue, 30 Mar 2021 21:55:30 GMT</pubDate>
+            <itunes:duration>53:12</itunes:duration>
+        </item>
+        <item>
+            <title>Навальный — проект спецслужб? / Олимпиада без зрителей / Легализация эвтаназии в Испании</title>
+            <enclosure url="https://podcast.tema.ru/audio/kA-DPVp6cNQ.mp3" length="63362958" type="audio/mpeg"/>
+            <guid>kA-DPVp6cNQ</guid>
+            <pubDate>Fri, 26 Mar 2021 07:05:32 GMT</pubDate>
+            <itunes:duration>44:01</itunes:duration>
+        </item>
+        <item>
+            <title>Собчак и Скопинский маньяк / Где сейчас Навальный? / Путин вызвал на дебаты Байдена</title>
+            <enclosure url="https://podcast.tema.ru/audio/Fy5XkuTjoU4.mp3" length="63097965" type="audio/mpeg"/>
+            <guid>Fy5XkuTjoU4</guid>
+            <pubDate>Tue, 23 Mar 2021 21:31:03 GMT</pubDate>
+            <itunes:duration>43:49</itunes:duration>
+        </item>
+        <item>
+            <title>Талибан приедет в Москву / Министр культуры *%}^+€ / Твиттер ноет про ограничения</title>
+            <enclosure url="https://podcast.tema.ru/audio/FV7ELeJ3T3o.mp3" length="37965041" type="audio/mpeg"/>
+            <guid>FV7ELeJ3T3o</guid>
+            <pubDate>Tue, 16 Mar 2021 16:42:41 GMT</pubDate>
+            <itunes:duration>26:22</itunes:duration>
+        </item>
+        <item>
+            <title>Илон Маск построит свой город / Китайцы анально карают Японцев / Блокировка Твиттера в России</title>
+            <enclosure url="https://podcast.tema.ru/audio/TRzJdCv_vlw.mp3" length="58601358" type="audio/mpeg"/>
+            <guid>TRzJdCv_vlw</guid>
+            <pubDate>Fri, 12 Mar 2021 07:00:10 GMT</pubDate>
+            <itunes:duration>40:42</itunes:duration>
+        </item>
+        <item>
+            <title>Новый всемирный потоп / Татуировки с подсветкой / Ковидобесие все сильнее</title>
+            <enclosure url="https://podcast.tema.ru/audio/41Vw05mXGBM.mp3" length="46596107" type="audio/mpeg"/>
+            <guid>41Vw05mXGBM</guid>
+            <pubDate>Tue, 09 Mar 2021 07:00:01 GMT</pubDate>
+            <itunes:duration>32:22</itunes:duration>
+        </item>
+        <item>
+            <title>Уроки Ислама в Германии / У Леди Гаги похитили собак / Уголовка за оскорбление ветеранов</title>
+            <enclosure url="https://podcast.tema.ru/audio/KRYcuLh-dqU.mp3" length="46878857" type="audio/mpeg"/>
+            <guid>KRYcuLh-dqU</guid>
+            <pubDate>Fri, 05 Mar 2021 07:00:10 GMT</pubDate>
+            <itunes:duration>32:34</itunes:duration>
+        </item>
+        <item>
+            <title>Немецкое гражданство Навальной / ФАС напал на клип Моргенштерна / Штурм Зеленского</title>
+            <enclosure url="https://podcast.tema.ru/audio/A6AC_VN5HrE.mp3" length="47323983" type="audio/mpeg"/>
+            <guid>A6AC_VN5HrE</guid>
+            <pubDate>Tue, 02 Mar 2021 07:18:50 GMT</pubDate>
+            <itunes:duration>32:52</itunes:duration>
+        </item>
+        <item>
+            <title>Страшный заговор Билла Гейтса / Астронавты с инвалидностью / Эмодзи с бородатыми женщинами</title>
+            <enclosure url="https://podcast.tema.ru/audio/TzK7qUD1cI4.mp3" length="48829263" type="audio/mpeg"/>
+            <guid>TzK7qUD1cI4</guid>
+            <pubDate>Fri, 26 Feb 2021 07:00:04 GMT</pubDate>
+            <itunes:duration>33:55</itunes:duration>
+        </item>
+        <item>
+            <title>Неисправный автомат Зеленского / Двигатель рассыпался в полете / Бабуля увела парня дочки</title>
+            <enclosure url="https://podcast.tema.ru/audio/VjK8VvXXewg.mp3" length="38500447" type="audio/mpeg"/>
+            <guid>VjK8VvXXewg</guid>
+            <pubDate>Tue, 23 Feb 2021 18:15:41 GMT</pubDate>
+            <itunes:duration>26:45</itunes:duration>
+        </item>
+        <item>
+            <title>Эбола возвращается / Анатолия Шария обвинили в госизмене / Маск позвал Путина в Клабхаус</title>
+            <enclosure url="https://podcast.tema.ru/audio/aTNsCKEBoyw.mp3" length="42739807" type="audio/mpeg"/>
+            <guid>aTNsCKEBoyw</guid>
+            <pubDate>Fri, 19 Feb 2021 11:48:53 GMT</pubDate>
+            <itunes:duration>29:41</itunes:duration>
+        </item>
+        <item>
+            <title>Инстаграм следит за сообщениями / Мать бросила детей в лесу / Джину Карано выгнали из Мандалорца</title>
+            <enclosure url="https://podcast.tema.ru/audio/E74BJM_Tgs4.mp3" length="66526491" type="audio/mpeg"/>
+            <guid>E74BJM_Tgs4</guid>
+            <pubDate>Tue, 16 Feb 2021 19:43:13 GMT</pubDate>
+            <itunes:duration>46:12</itunes:duration>
+        </item>
+        <item>
+            <title>Жестокая судьба Ютуб-пранкера / Стульчак от унитаза Гитлера / Клубхаус — тренд Илона Маска</title>
+            <enclosure url="https://podcast.tema.ru/audio/Lf1FkAnp9bQ.mp3" length="40943000" type="audio/mpeg"/>
+            <guid>Lf1FkAnp9bQ</guid>
+            <pubDate>Fri, 12 Feb 2021 07:00:03 GMT</pubDate>
+            <itunes:duration>28:26</itunes:duration>
+        </item>
+        <item>
+            <title>Байден требует освобождения Навального / Илон Маск вживляет чипы в мозг / Дуров прогнулся под Эппл</title>
+            <enclosure url="https://podcast.tema.ru/audio/trYWn8mFOqI.mp3" length="51565851" type="audio/mpeg"/>
+            <guid>trYWn8mFOqI</guid>
+            <pubDate>Wed, 10 Feb 2021 07:00:30 GMT</pubDate>
+            <itunes:duration>35:49</itunes:duration>
+        </item>
+        <item>
+            <title>Навальный в тюрьме / Бриллиантовый лоб / Школьные инвестиции в биткоин</title>
+            <enclosure url="https://podcast.tema.ru/audio/rkt76uNDIDE.mp3" length="42263960" type="audio/mpeg"/>
+            <guid>rkt76uNDIDE</guid>
+            <pubDate>Fri, 05 Feb 2021 07:00:07 GMT</pubDate>
+            <itunes:duration>29:21</itunes:duration>
+        </item>
+        <item>
+            <title>Одичавшие коровы Чернобыля / Трампа кинули адвокаты / Космическая вагина</title>
+            <enclosure url="https://podcast.tema.ru/audio/7nSf2mYrcBI.mp3" length="44027757" type="audio/mpeg"/>
+            <guid>7nSf2mYrcBI</guid>
+            <pubDate>Tue, 02 Feb 2021 20:04:39 GMT</pubDate>
+            <itunes:duration>30:35</itunes:duration>
+        </item>
+        <item>
+            <title>Самоподжог у дома правительства / Смертельная уборка снега / Тетрадь смерти запретили в РФ</title>
+            <enclosure url="https://podcast.tema.ru/audio/KJI97vith5A.mp3" length="30154638" type="audio/mpeg"/>
+            <guid>KJI97vith5A</guid>
+            <pubDate>Fri, 29 Jan 2021 07:13:34 GMT</pubDate>
+            <itunes:duration>20:57</itunes:duration>
+        </item>
+        <item>
+            <title>Свечи с запахом вагины / О Навальном и протестах / Новая вакцина ЭпиВакКорона</title>
+            <enclosure url="https://podcast.tema.ru/audio/NRWGlC4q0O4.mp3" length="45945345" type="audio/mpeg"/>
+            <guid>NRWGlC4q0O4</guid>
+            <pubDate>Tue, 26 Jan 2021 15:54:08 GMT</pubDate>
+            <itunes:duration>31:55</itunes:duration>
+        </item>
+        <item>
+            <title>Арест Навального / Блокировка поясов верности / Город без дорог и машин</title>
+            <enclosure url="https://podcast.tema.ru/audio/Pf60HhrHrGU.mp3" length="55683585" type="audio/mpeg"/>
+            <guid>Pf60HhrHrGU</guid>
+            <pubDate>Fri, 22 Jan 2021 07:01:45 GMT</pubDate>
+            <itunes:duration>38:41</itunes:duration>
+        </item>
+        <item>
+            <title>Возвращение Навального / Переводчик для собак / Рукоблудство в такси</title>
+            <enclosure url="https://podcast.tema.ru/audio/c2cxxGwHK_Q.mp3" length="50016685" type="audio/mpeg"/>
+            <guid>c2cxxGwHK_Q</guid>
+            <pubDate>Tue, 19 Jan 2021 07:00:08 GMT</pubDate>
+            <itunes:duration>34:44</itunes:duration>
+        </item>
+        <item>
+            <title>Ребрендинг ЦРУ / Вакцина Спутник V / Новый поход Якутского шамана</title>
+            <enclosure url="https://podcast.tema.ru/audio/xZCbldLbmqA.mp3" length="55735621" type="audio/mpeg"/>
+            <guid>xZCbldLbmqA</guid>
+            <pubDate>Fri, 15 Jan 2021 07:00:08 GMT</pubDate>
+            <itunes:duration>38:43</itunes:duration>
+        </item>
+        <item>
+            <title>Пожар в Екатеринбурге / Свобода слова в Америке / Шаурма от Сталина</title>
+            <enclosure url="https://podcast.tema.ru/audio/Ld20wfEnIBE.mp3" length="74548799" type="audio/mpeg"/>
+            <guid>Ld20wfEnIBE</guid>
+            <pubDate>Tue, 12 Jan 2021 20:41:53 GMT</pubDate>
+            <itunes:duration>51:47</itunes:duration>
+        </item>
+        <item>
+            <title>Штурм Капитолия в США / Вечный новогодний рейв / УАЗ будущего</title>
+            <enclosure url="https://podcast.tema.ru/audio/D8vPhpHL7DA.mp3" length="71589022" type="audio/mpeg"/>
+            <guid>D8vPhpHL7DA</guid>
+            <pubDate>Fri, 08 Jan 2021 07:00:02 GMT</pubDate>
+            <itunes:duration>49:43</itunes:duration>
+        </item>
+        <item>
+            <title>Дело против Соболь / Монетизация Телеграма / Коронавирус на Антарктиде</title>
+            <enclosure url="https://podcast.tema.ru/audio/gsZE1EAjqHY.mp3" length="65900806" type="audio/mpeg"/>
+            <guid>gsZE1EAjqHY</guid>
+            <pubDate>Tue, 29 Dec 2020 20:42:44 GMT</pubDate>
+            <itunes:duration>45:46</itunes:duration>
+        </item>
+        <item>
+            <title>Коронавирусный Санта-Клаус / Дело об отмывании денег мафии / Исцеление Олега Тинькова</title>
+            <enclosure url="https://podcast.tema.ru/audio/mREOGbMhX-E.mp3" length="43512822" type="audio/mpeg"/>
+            <guid>mREOGbMhX-E</guid>
+            <pubDate>Fri, 25 Dec 2020 07:48:52 GMT</pubDate>
+            <itunes:duration>30:13</itunes:duration>
+        </item>
+        <item>
+            <title>Трансгендеры захватят мир? / Акции Теслы бьют рекорды / Китовая рвота</title>
+            <enclosure url="https://podcast.tema.ru/audio/uDG9sEgyx60.mp3" length="49606040" type="audio/mpeg"/>
+            <guid>uDG9sEgyx60</guid>
+            <pubDate>Wed, 23 Dec 2020 13:41:33 GMT</pubDate>
+            <itunes:duration>34:27</itunes:duration>
+        </item>
+        <item>
+            <title>Спецвыпуск. Ядовитые трусы Навального / Эксклюзивное расследование</title>
+            <enclosure url="https://podcast.tema.ru/audio/YYBFyg1kgr4.mp3" length="25419369" type="audio/mpeg"/>
+            <guid>YYBFyg1kgr4</guid>
+            <pubDate>Tue, 22 Dec 2020 17:07:23 GMT</pubDate>
+            <itunes:duration>17:40</itunes:duration>
+        </item>
+        <item>
+            <title>Барыга победил на выборах / Житель Армавира убил свою девушку / Лошадь откусила нос</title>
+            <enclosure url="https://podcast.tema.ru/audio/0_fikE6YXT8.mp3" length="46307715" type="audio/mpeg"/>
+            <guid>0_fikE6YXT8</guid>
+            <pubDate>Fri, 18 Dec 2020 06:00:01 GMT</pubDate>
+            <itunes:duration>32:10</itunes:duration>
+        </item>
+        <item>
+            <title>Джо Байден — человек года / Отравление Навального 2.0 / Порнхаб запретили?</title>
+            <enclosure url="https://podcast.tema.ru/audio/4bsRVk0yxhE.mp3" length="59437694" type="audio/mpeg"/>
+            <guid>4bsRVk0yxhE</guid>
+            <pubDate>Tue, 15 Dec 2020 20:55:36 GMT</pubDate>
+            <itunes:duration>41:17</itunes:duration>
+        </item>
+        <item>
+            <title>Мистический хайп / Пердеж на слушании выборов / Ребенок года по версии Тайм</title>
+            <enclosure url="https://podcast.tema.ru/audio/xTRJx-tuKP0.mp3" length="62850749" type="audio/mpeg"/>
+            <guid>xTRJx-tuKP0</guid>
+            <pubDate>Fri, 11 Dec 2020 06:00:24 GMT</pubDate>
+            <itunes:duration>43:39</itunes:duration>
+        </item>
+        <item>
+            <title>Патриарх — дьявол? / Кабинет - двойник Путина / Китай переезжает на Луну</title>
+            <enclosure url="https://podcast.tema.ru/audio/Fvy8mUb-6SM.mp3" length="65514861" type="audio/mpeg"/>
+            <guid>Fvy8mUb-6SM</guid>
+            <pubDate>Tue, 08 Dec 2020 21:55:30 GMT</pubDate>
+            <itunes:duration>45:30</itunes:duration>
+        </item>
+        <item>
+            <title>Электрические мотоциклы / Обзор вибраторов / Бесконечный карантин</title>
+            <enclosure url="https://podcast.tema.ru/audio/ny5aq6uKew4.mp3" length="53247301" type="audio/mpeg"/>
+            <guid>ny5aq6uKew4</guid>
+            <pubDate>Fri, 04 Dec 2020 06:00:23 GMT</pubDate>
+            <itunes:duration>36:59</itunes:duration>
+        </item>
+        <item>
+            <title>Третья дочь Путина / Эппл подкупает полицию техникой / В Сапсанах появятся купе</title>
+            <enclosure url="https://podcast.tema.ru/audio/fJQhQE7dUNM.mp3" length="73076120" type="audio/mpeg"/>
+            <guid>fJQhQE7dUNM</guid>
+            <pubDate>Tue, 01 Dec 2020 21:28:50 GMT</pubDate>
+            <itunes:duration>50:45</itunes:duration>
+        </item>
+        <item>
+            <title>Ребрендинг Макдональдса / США уходят из Афганистана и Ирака / Студенты судятся с МГУ</title>
+            <enclosure url="https://podcast.tema.ru/audio/c7rw886n0Uk.mp3" length="57097959" type="audio/mpeg"/>
+            <guid>c7rw886n0Uk</guid>
+            <pubDate>Fri, 27 Nov 2020 06:00:05 GMT</pubDate>
+            <itunes:duration>39:40</itunes:duration>
+        </item>
+        <item>
+            <title>Украина арестовала российские самолеты / Птичий грипп в Дании / В России заблокируют Ютуб</title>
+            <enclosure url="https://podcast.tema.ru/audio/AG4vZTCNflI.mp3" length="60063379" type="audio/mpeg"/>
+            <guid>AG4vZTCNflI</guid>
+            <pubDate>Tue, 24 Nov 2020 22:18:50 GMT</pubDate>
+            <itunes:duration>41:43</itunes:duration>
+        </item>
+        <item>
+            <title>Затопленный город / Навальный против Пескова / Доступ в интернет через березу</title>
+            <enclosure url="https://podcast.tema.ru/audio/EYbur16lyKQ.mp3" length="55543777" type="audio/mpeg"/>
+            <guid>EYbur16lyKQ</guid>
+            <pubDate>Fri, 20 Nov 2020 06:00:01 GMT</pubDate>
+            <itunes:duration>38:35</itunes:duration>
+        </item>
+        <item>
+            <title>Баттл билбордов в Тольятти / Беспорядки в Вашингтоне / Новое изобретение Илона Маска</title>
+            <enclosure url="https://podcast.tema.ru/audio/VyfveUPbdow.mp3" length="76918001" type="audio/mpeg"/>
+            <guid>VyfveUPbdow</guid>
+            <pubDate>Tue, 17 Nov 2020 21:52:24 GMT</pubDate>
+            <itunes:duration>53:25</itunes:duration>
+        </item>
+        <item>
+            <title>Маэстро Понасенков подает в суд / Новая вакцина против коронавируса / Самое идиотское решение Путина</title>
+            <enclosure url="https://podcast.tema.ru/audio/ujzrXIkxllo.mp3" length="73591464" type="audio/mpeg"/>
+            <guid>ujzrXIkxllo</guid>
+            <pubDate>Fri, 13 Nov 2020 06:00:06 GMT</pubDate>
+            <itunes:duration>51:07</itunes:duration>
+        </item>
+        <item>
+            <title>Новые офисы Альфа-Банка / Я/Мы Дзюба / Победа Джо Байдена</title>
+            <enclosure url="https://podcast.tema.ru/audio/SLsOV8U-NDE.mp3" length="45744724" type="audio/mpeg"/>
+            <guid>SLsOV8U-NDE</guid>
+            <pubDate>Tue, 10 Nov 2020 16:16:15 GMT</pubDate>
+            <itunes:duration>31:46</itunes:duration>
+        </item>
+        <item>
+            <title>Байден или Трамп / Вторая волна коронавируса / Ресторан будущего Бургер Кинг</title>
+            <enclosure url="https://podcast.tema.ru/audio/itoZsZ0u2K0.mp3" length="45140355" type="audio/mpeg"/>
+            <guid>itoZsZ0u2K0</guid>
+            <pubDate>Fri, 06 Nov 2020 06:00:03 GMT</pubDate>
+            <itunes:duration>31:21</itunes:duration>
+        </item>
+        <item>
+            <title>Выборы в США / Теракт в центре Вены / Лебедева выкинули в мусорку</title>
+            <enclosure url="https://podcast.tema.ru/audio/wGMkCWDBXcc.mp3" length="68288189" type="audio/mpeg"/>
+            <guid>wGMkCWDBXcc</guid>
+            <pubDate>Tue, 03 Nov 2020 21:13:52 GMT</pubDate>
+            <itunes:duration>47:26</itunes:duration>
+        </item>
+        <item>
+            <title>Литвин сжег Мерседес / Перемирие Армении и Азербайджана / Сосиски на Вечном огне</title>
+            <enclosure url="https://podcast.tema.ru/audio/N4rvq1Agt2Q.mp3" length="43411258" type="audio/mpeg"/>
+            <guid>N4rvq1Agt2Q</guid>
+            <pubDate>Fri, 30 Oct 2020 07:00:03 GMT</pubDate>
+            <itunes:duration>30:09</itunes:duration>
+        </item>
+        <item>
+            <title>Хабиб завершил карьеру / Компромат сына Байдена / Пингвины-геи украли яйцо</title>
+            <enclosure url="https://podcast.tema.ru/audio/xX_-Hm0UoWg.mp3" length="52436042" type="audio/mpeg"/>
+            <guid>xX_-Hm0UoWg</guid>
+            <pubDate>Tue, 27 Oct 2020 20:56:32 GMT</pubDate>
+            <itunes:duration>36:25</itunes:duration>
+        </item>
+        <item>
+            <title>Помилование Елизаветы II / Преступная группировка Саркози / Родину-мать хотели взорвать</title>
+            <enclosure url="https://podcast.tema.ru/audio/i_TZ5YsXUyg.mp3" length="45740963" type="audio/mpeg"/>
+            <guid>i_TZ5YsXUyg</guid>
+            <pubDate>Fri, 23 Oct 2020 06:36:13 GMT</pubDate>
+            <itunes:duration>31:46</itunes:duration>
+        </item>
+        <item>
+            <title>Дроны-камикадзе / Срыв сделки Яндекса и Тинькова / Принудительная стерилизация в Екатеринбурге</title>
+            <enclosure url="https://podcast.tema.ru/audio/hSLNlzwB_Ew.mp3" length="64325309" type="audio/mpeg"/>
+            <guid>hSLNlzwB_Ew</guid>
+            <pubDate>Tue, 20 Oct 2020 20:14:31 GMT</pubDate>
+            <itunes:duration>44:41</itunes:duration>
+        </item>
+        <item>
+            <title>Тайное оплодотворение / Сексуальный лук / Памятник клещу Валере</title>
+            <enclosure url="https://podcast.tema.ru/audio/1J9FHO-lE4I.mp3" length="56883546" type="audio/mpeg"/>
+            <guid>1J9FHO-lE4I</guid>
+            <pubDate>Fri, 16 Oct 2020 06:00:01 GMT</pubDate>
+            <itunes:duration>39:31</itunes:duration>
+        </item>
+        <item>
+            <title>Секс-вечеринка для олдов / 12-й Айфон / Радужный флаг на здании ФСБ</title>
+            <enclosure url="https://podcast.tema.ru/audio/6rNrsqYrLl4.mp3" length="64939709" type="audio/mpeg"/>
+            <guid>6rNrsqYrLl4</guid>
+            <pubDate>Tue, 13 Oct 2020 21:16:22 GMT</pubDate>
+            <itunes:duration>45:06</itunes:duration>
+        </item>
+        <item>
+            <title>Вакцина от Ковида по блату / Утюги с прослушкой / Яд не справился с Навальным</title>
+            <enclosure url="https://podcast.tema.ru/audio/u81iG70GwDA.mp3" length="54277361" type="audio/mpeg"/>
+            <guid>u81iG70GwDA</guid>
+            <pubDate>Fri, 09 Oct 2020 06:00:06 GMT</pubDate>
+            <itunes:duration>37:42</itunes:duration>
+        </item>
+        <item>
+            <title>Навального отравил Путин / Экологическая катастрофа на Камчатке / Трамп заразился коронавирусом</title>
+            <enclosure url="https://podcast.tema.ru/audio/uQ7Lr7eZ_qQ.mp3" length="79584372" type="audio/mpeg"/>
+            <guid>uQ7Lr7eZ_qQ</guid>
+            <pubDate>Tue, 06 Oct 2020 21:10:57 GMT</pubDate>
+            <itunes:duration>55:16</itunes:duration>
+        </item>
+        <item>
+            <title>Охранный дрон Амазона / Уборщица выиграла выборы / Крабовый бизнес Ксении Собчак</title>
+            <enclosure url="https://podcast.tema.ru/audio/vZK1V5aekF0.mp3" length="57639634" type="audio/mpeg"/>
+            <guid>vZK1V5aekF0</guid>
+            <pubDate>Fri, 02 Oct 2020 06:00:05 GMT</pubDate>
+            <itunes:duration>40:02</itunes:duration>
+        </item>
+        <item>
+            <title>Кто такая Мария Певчих? / Война Армении и Азербайджана / Вторая волна КОВИД-19</title>
+            <enclosure url="https://podcast.tema.ru/audio/jzdC_I9iiSM.mp3" length="74487359" type="audio/mpeg"/>
+            <guid>jzdC_I9iiSM</guid>
+            <pubDate>Tue, 29 Sep 2020 20:20:35 GMT</pubDate>
+            <itunes:duration>51:44</itunes:duration>
+        </item>
+        <item>
+            <title>Елизавету II хотят свергнуть? / Тик-Ток против ЛГБТ / Нобелевская премия для Навального?</title>
+            <enclosure url="https://podcast.tema.ru/audio/8Y-GO145Wp4.mp3" length="63895856" type="audio/mpeg"/>
+            <guid>8Y-GO145Wp4</guid>
+            <pubDate>Fri, 25 Sep 2020 06:00:01 GMT</pubDate>
+            <itunes:duration>44:23</itunes:duration>
+        </item>
+        <item>
+            <title>Навальный не задекларировал любовницу / Трампа пытались отравить / Тесака больше нет</title>
+            <enclosure url="https://podcast.tema.ru/audio/lmhRRgGKO9M.mp3" length="51683088" type="audio/mpeg"/>
+            <guid>lmhRRgGKO9M</guid>
+            <pubDate>Tue, 22 Sep 2020 19:10:45 GMT</pubDate>
+            <itunes:duration>35:54</itunes:duration>
+        </item>
+        <item>
+            <title>Лазерная реклама из космоса / Ютуб создал аналог Тик-тока / Папа римский благословил на секс</title>
+            <enclosure url="https://podcast.tema.ru/audio/mAUCIWsC1jo.mp3" length="60727934" type="audio/mpeg"/>
+            <guid>mAUCIWsC1jo</guid>
+            <pubDate>Fri, 18 Sep 2020 06:00:09 GMT</pubDate>
+            <itunes:duration>42:11</itunes:duration>
+        </item>
+        <item>
+            <title>ФСБ охотится на Лебедева? / Эппл показали новинки / Пожары в Сан-Франциско</title>
+            <enclosure url="https://podcast.tema.ru/audio/mJGSdwTwwbE.mp3" length="71175869" type="audio/mpeg"/>
+            <guid>mJGSdwTwwbE</guid>
+            <pubDate>Tue, 15 Sep 2020 21:07:22 GMT</pubDate>
+            <itunes:duration>49:26</itunes:duration>
+        </item>
+        <item>
+            <title>Гигантские осы в Великобритании / Новый слоган КФС / Дискриминация в Макдональдсе</title>
+            <enclosure url="https://podcast.tema.ru/audio/Df7cYbcJKk0.mp3" length="42577430" type="audio/mpeg"/>
+            <guid>Df7cYbcJKk0</guid>
+            <pubDate>Fri, 11 Sep 2020 06:00:02 GMT</pubDate>
+            <itunes:duration>29:34</itunes:duration>
+        </item>
+        <item>
+            <title>Навальный вышел из комы / Похищение Марии Колесниковой / Курьер подкатил к клиентке</title>
+            <enclosure url="https://podcast.tema.ru/audio/a6g4aDfsHio.mp3" length="67880679" type="audio/mpeg"/>
+            <guid>a6g4aDfsHio</guid>
+            <pubDate>Tue, 08 Sep 2020 22:04:21 GMT</pubDate>
+            <itunes:duration>47:09</itunes:duration>
+        </item>
+        <item>
+            <title>Подробности отравления Навального / Протесты в Берлине / Нападение на Егора Жукова</title>
+            <enclosure url="https://podcast.tema.ru/audio/iabMz2UhA8s.mp3" length="61742321" type="audio/mpeg"/>
+            <guid>iabMz2UhA8s</guid>
+            <pubDate>Thu, 03 Sep 2020 20:50:09 GMT</pubDate>
+            <itunes:duration>42:53</itunes:duration>
+        </item>
+        <item>
+            <title>Пожары в Калифорнии / В Симферополе кончилась вода / Слизни гиганты в Ленобласти</title>
+            <enclosure url="https://podcast.tema.ru/audio/uegvdSsQTZ4.mp3" length="51241724" type="audio/mpeg"/>
+            <guid>uegvdSsQTZ4</guid>
+            <pubDate>Fri, 28 Aug 2020 06:00:05 GMT</pubDate>
+            <itunes:duration>35:36</itunes:duration>
+        </item>
+        <item>
+            <title>Фекальная трансплантация / Покушение на Навального / Нетфликс облажался</title>
+            <enclosure url="https://podcast.tema.ru/audio/DztX_ah6Tpo.mp3" length="68684414" type="audio/mpeg"/>
+            <guid>DztX_ah6Tpo</guid>
+            <pubDate>Tue, 25 Aug 2020 20:24:57 GMT</pubDate>
+            <itunes:duration>47:42</itunes:duration>
+        </item>
+        <item>
+            <title>Навальный в коме / Смарт-ружье Калашникова / Белоруссия и Россия снимают ограничения</title>
+            <enclosure url="https://podcast.tema.ru/audio/IItZPw93zv8.mp3" length="59418259" type="audio/mpeg"/>
+            <guid>IItZPw93zv8</guid>
+            <pubDate>Fri, 21 Aug 2020 12:12:51 GMT</pubDate>
+            <itunes:duration>41:16</itunes:duration>
+        </item>
+        <item>
+            <title>Лукашенко планирует бегство в Россию? / Трамп против ТикТока / Кредиты по биометрии</title>
+            <enclosure url="https://podcast.tema.ru/audio/ckEekWUpLkM.mp3" length="85159111" type="audio/mpeg"/>
+            <guid>ckEekWUpLkM</guid>
+            <pubDate>Wed, 19 Aug 2020 05:01:27 GMT</pubDate>
+            <itunes:duration>59:09</itunes:duration>
+        </item>
+        <item>
+            <title>Сверхзвуковой пассажирский самолет / Роспись ракет в гжель и хохлому / Девушка продала душу дьяволу</title>
+            <enclosure url="https://podcast.tema.ru/audio/l3kGqSB-4BA.mp3" length="54813394" type="audio/mpeg"/>
+            <guid>l3kGqSB-4BA</guid>
+            <pubDate>Fri, 14 Aug 2020 06:00:15 GMT</pubDate>
+            <itunes:duration>38:04</itunes:duration>
+        </item>
+        <item>
+            <title>Столкновения и беспорядки в Белоруссии / Ефремова госпитализировали из суда / Авиакатастрофа в Индии</title>
+            <enclosure url="https://podcast.tema.ru/audio/7xlH5JEehYQ.mp3" length="80626971" type="audio/mpeg"/>
+            <guid>7xlH5JEehYQ</guid>
+            <pubDate>Tue, 11 Aug 2020 20:31:39 GMT</pubDate>
+            <itunes:duration>56:00</itunes:duration>
+        </item>
+        <item>
+            <title>В Бейруте взорвалась селитра / Суд Понасенкова и Лебедева / Нашествие гигантских слизней в Таллине</title>
+            <enclosure url="https://podcast.tema.ru/audio/tNf5onOYEtY.mp3" length="80033887" type="audio/mpeg"/>
+            <guid>tNf5onOYEtY</guid>
+            <pubDate>Fri, 07 Aug 2020 06:00:07 GMT</pubDate>
+            <itunes:duration>55:35</itunes:duration>
+        </item>
+        <item>
+            <title>В США закрывают Тик-Ток / Убитый Энди Картрайт / Возобновление авиасообщения из России</title>
+            <enclosure url="https://podcast.tema.ru/audio/0L_bGTPNfls.mp3" length="105942759" type="audio/mpeg"/>
+            <guid>0L_bGTPNfls</guid>
+            <pubDate>Mon, 03 Aug 2020 22:14:45 GMT</pubDate>
+            <itunes:duration>01:13:35</itunes:duration>
+        </item>
+        <item>
+            <title>Полицейское государство Микрософта / Смертная казнь в США / Пьяный эфир Бузовой</title>
+            <enclosure url="https://podcast.tema.ru/audio/YlYVYUsB2fQ.mp3" length="58676590" type="audio/mpeg"/>
+            <guid>YlYVYUsB2fQ</guid>
+            <pubDate>Fri, 24 Jul 2020 06:00:06 GMT</pubDate>
+            <itunes:duration>40:45</itunes:duration>
+        </item>
+        <item>
+            <title>В Израиле раздают деньги / Террорист захватил заложников в Луцке / Бордель на Алтае</title>
+            <enclosure url="https://podcast.tema.ru/audio/QHEtfIz6sjA.mp3" length="73200881" type="audio/mpeg"/>
+            <guid>QHEtfIz6sjA</guid>
+            <pubDate>Wed, 22 Jul 2020 05:00:05 GMT</pubDate>
+            <itunes:duration>50:50</itunes:duration>
+        </item>
+        <item>
+            <title>Трамп одобрил кибератаку / Как остановить Эппл и Гугл? / Профессора растворили в кислоте</title>
+            <enclosure url="https://podcast.tema.ru/audio/vynjwRdqOa8.mp3" length="76841515" type="audio/mpeg"/>
+            <guid>vynjwRdqOa8</guid>
+            <pubDate>Fri, 17 Jul 2020 06:00:06 GMT</pubDate>
+            <itunes:duration>53:22</itunes:duration>
+        </item>
+        <item>
+            <title>Битва Зелимхана и Коваленко / Протесты в Хабаровске / Канье Уэст баллотируется в президенты</title>
+            <enclosure url="https://podcast.tema.ru/audio/Jgl0CS7Yj7w.mp3" length="109538879" type="audio/mpeg"/>
+            <guid>Jgl0CS7Yj7w</guid>
+            <pubDate>Tue, 14 Jul 2020 21:27:51 GMT</pubDate>
+            <itunes:duration>01:16:05</itunes:duration>
+        </item>
+        <item>
+            <title>Версия охотника о хаски и гусях / Ефремова пытаются отмазать / Дискриминация в Ворлд оф Варкрафт</title>
+            <enclosure url="https://podcast.tema.ru/audio/lOVcdKbAfXc.mp3" length="72704973" type="audio/mpeg"/>
+            <guid>lOVcdKbAfXc</guid>
+            <pubDate>Fri, 10 Jul 2020 06:00:16 GMT</pubDate>
+            <itunes:duration>50:30</itunes:duration>
+        </item>
+        <item>
+            <title>Радуга под запретом / Переписка Олега Соколова и Ещенко / Вспышка бубонной чумы</title>
+            <enclosure url="https://podcast.tema.ru/audio/bEcQc_Is-yI.mp3" length="92226592" type="audio/mpeg"/>
+            <guid>bEcQc_Is-yI</guid>
+            <pubDate>Tue, 07 Jul 2020 21:31:06 GMT</pubDate>
+            <itunes:duration>01:04:03</itunes:duration>
+        </item>
+        <item>
+            <title>Адово царство на Патриарших прудах / В США появился 51-й штат / Космический туалет Илона Маска</title>
+            <enclosure url="https://podcast.tema.ru/audio/8ank3mlYBR4.mp3" length="71342008" type="audio/mpeg"/>
+            <guid>8ank3mlYBR4</guid>
+            <pubDate>Fri, 03 Jul 2020 06:00:01 GMT</pubDate>
+            <itunes:duration>49:33</itunes:duration>
+        </item>
+        <item>
+            <title>Собчак лишают рекламных контрактов / Серебренникова осудили? / Двойной голос за поправки</title>
+            <enclosure url="https://podcast.tema.ru/audio/73RrDxnNASk.mp3" length="90451728" type="audio/mpeg"/>
+            <guid>73RrDxnNASk</guid>
+            <pubDate>Tue, 30 Jun 2020 21:22:59 GMT</pubDate>
+            <itunes:duration>01:02:49</itunes:duration>
+        </item>
+        <item>
+            <title>Дело Юлии Цветковой / Нейросеть заменила дизайнера / Дорога из Воронежа до Марса</title>
+            <enclosure url="https://podcast.tema.ru/audio/q50rTU3i8mY.mp3" length="43736639" type="audio/mpeg"/>
+            <guid>q50rTU3i8mY</guid>
+            <pubDate>Fri, 26 Jun 2020 06:00:07 GMT</pubDate>
+            <itunes:duration>30:23</itunes:duration>
+        </item>
+        <item>
+            <title>Презентация новинок Эппла / Игумен захватил женский монастырь / Дезинфекционный тоннель Путина</title>
+            <enclosure url="https://podcast.tema.ru/audio/e3m0BeUdwfc.mp3" length="69248659" type="audio/mpeg"/>
+            <guid>e3m0BeUdwfc</guid>
+            <pubDate>Tue, 23 Jun 2020 22:21:58 GMT</pubDate>
+            <itunes:duration>48:06</itunes:duration>
+        </item>
+        <item>
+            <title>Прототип консоли КФС / Взятки за участие в голосовании / Презентация Плейстейшн 5</title>
+            <enclosure url="https://podcast.tema.ru/audio/gSJ7w78iG90.mp3" length="42868329" type="audio/mpeg"/>
+            <guid>gSJ7w78iG90</guid>
+            <pubDate>Fri, 19 Jun 2020 07:34:59 GMT</pubDate>
+            <itunes:duration>29:47</itunes:duration>
+        </item>
+        <item>
+            <title>Настя Ивлеева села за руль после шампанского / Беспорядки в США / Газета «Ведомости» развалилась</title>
+            <enclosure url="https://podcast.tema.ru/audio/ykLw8zOXLGg.mp3" length="69024842" type="audio/mpeg"/>
+            <guid>ykLw8zOXLGg</guid>
+            <pubDate>Tue, 16 Jun 2020 20:45:58 GMT</pubDate>
+            <itunes:duration>47:56</itunes:duration>
+        </item>
+        <item>
+            <title>Китай скрыл факты о коронавирусе? / Электрические маршрутки Теслы / Россия выходит из карантина</title>
+            <enclosure url="https://podcast.tema.ru/audio/jVJlrQEriZY.mp3" length="55358204" type="audio/mpeg"/>
+            <guid>jVJlrQEriZY</guid>
+            <pubDate>Fri, 12 Jun 2020 06:00:08 GMT</pubDate>
+            <itunes:duration>38:27</itunes:duration>
+        </item>
+        <item>
+            <title>Путин будет править вечно? / Расовые протесты в США / ДТП с участием Михаила Ефремова</title>
+            <enclosure url="https://podcast.tema.ru/audio/6TnIWRoZctg.mp3" length="67412355" type="audio/mpeg"/>
+            <guid>6TnIWRoZctg</guid>
+            <pubDate>Tue, 09 Jun 2020 22:14:52 GMT</pubDate>
+            <itunes:duration>46:49</itunes:duration>
+        </item>
+        <item>
+            <title>Поправки к конституции — обман? / Собаки могут чуять зараженных КОВИД-19 / Цифровой паспорт</title>
+            <enclosure url="https://podcast.tema.ru/audio/nvNx-CpCKkM.mp3" length="44959797" type="audio/mpeg"/>
+            <guid>nvNx-CpCKkM</guid>
+            <pubDate>Fri, 05 Jun 2020 07:00:15 GMT</pubDate>
+            <itunes:duration>31:14</itunes:duration>
+        </item>
+        <item>
+            <title>Антикарантинная вечеринка / Бунт против Трампа? / Рогозин и Маск поспорили в Твиттере</title>
+            <enclosure url="https://podcast.tema.ru/audio/oQnVX49JOpc.mp3" length="73388963" type="audio/mpeg"/>
+            <guid>oQnVX49JOpc</guid>
+            <pubDate>Tue, 02 Jun 2020 22:08:21 GMT</pubDate>
+            <itunes:duration>50:58</itunes:duration>
+        </item>
+        <item>
+            <title>Какой ты диван? / Эппл выпустит круглые Виар-очки / «Изоляция» медсестер в морге</title>
+            <enclosure url="https://podcast.tema.ru/audio/WNjsBSQiqjo.mp3" length="47039980" type="audio/mpeg"/>
+            <guid>WNjsBSQiqjo</guid>
+            <pubDate>Fri, 29 May 2020 06:00:06 GMT</pubDate>
+            <itunes:duration>32:40</itunes:duration>
+        </item>
+        <item>
+            <title>Медсестра в бикини / Аэробус А320 разбился в Пакистане / «Лев Против» за нищету в России</title>
+            <enclosure url="https://podcast.tema.ru/audio/mtvRdpBY-wA.mp3" length="63327222" type="audio/mpeg"/>
+            <guid>mtvRdpBY-wA</guid>
+            <pubDate>Tue, 26 May 2020 21:48:07 GMT</pubDate>
+            <itunes:duration>43:59</itunes:duration>
+        </item>
+        <item>
+            <title>Лекарство для слепых / Трамп рассказал о «супер-пупер ракете» / Открытие границ и авиасообщения</title>
+            <enclosure url="https://podcast.tema.ru/audio/l1MpBo5fl7A.mp3" length="57092316" type="audio/mpeg"/>
+            <guid>l1MpBo5fl7A</guid>
+            <pubDate>Fri, 22 May 2020 06:00:12 GMT</pubDate>
+            <itunes:duration>39:39</itunes:duration>
+        </item>
+        <item>
+            <title>Животные болеют коронавирусом? / В Москве оштрафовали женщину-инвалида / Отмена ЕГЭ по математике</title>
+            <enclosure url="https://podcast.tema.ru/audio/SdlIaUmQmgI.mp3" length="72035402" type="audio/mpeg"/>
+            <guid>SdlIaUmQmgI</guid>
+            <pubDate>Tue, 19 May 2020 20:39:10 GMT</pubDate>
+            <itunes:duration>50:02</itunes:duration>
+        </item>
+        <item>
+            <title>Моргенштерн продался кремлю / Правда о кремниевой долине от Павла Дурова / Снесли «Дом-2»</title>
+            <enclosure url="https://podcast.tema.ru/audio/mPMcP7DEvpA.mp3" length="32279960" type="audio/mpeg"/>
+            <guid>mPMcP7DEvpA</guid>
+            <pubDate>Fri, 15 May 2020 11:13:28 GMT</pubDate>
+            <itunes:duration>22:25</itunes:duration>
+        </item>
+        <item>
+            <title>***анных девушек оштрафовали / Окончание периода нерабочих дней / Имя сына Илона Маска</title>
+            <enclosure url="https://podcast.tema.ru/audio/AxLqh00RLuc.mp3" length="74436577" type="audio/mpeg"/>
+            <guid>AxLqh00RLuc</guid>
+            <pubDate>Tue, 12 May 2020 22:34:31 GMT</pubDate>
+            <itunes:duration>51:42</itunes:duration>
+        </item>
+        <item>
+            <title>Президентские выборы по почте / Дроны следят за нарушителями самоизоляции / Убийственный субботник</title>
+            <enclosure url="https://podcast.tema.ru/audio/Acj23muV04Q.mp3" length="72464855" type="audio/mpeg"/>
+            <guid>Acj23muV04Q</guid>
+            <pubDate>Fri, 08 May 2020 17:30:06 GMT</pubDate>
+            <itunes:duration>50:20</itunes:duration>
+        </item>
+        <item>
+            <title>Билл Гейтс готовится вживлять всем чипы / Михалков поехал кукухой / Зачем чиновники поджигают леса?</title>
+            <enclosure url="https://podcast.tema.ru/audio/aIKpWyrdyrY.mp3" length="44401822" type="audio/mpeg"/>
+            <guid>aIKpWyrdyrY</guid>
+            <pubDate>Tue, 05 May 2020 19:22:33 GMT</pubDate>
+            <itunes:duration>30:50</itunes:duration>
+        </item>
+        <item>
+            <title>Трэвис Скотт дал концерт в Фортнайте / Продление нерабочих дней / Вакцина от коронавируса</title>
+            <enclosure url="https://podcast.tema.ru/audio/tIEEWgyU_RE.mp3" length="44186782" type="audio/mpeg"/>
+            <guid>tIEEWgyU_RE</guid>
+            <pubDate>Fri, 01 May 2020 06:00:15 GMT</pubDate>
+            <itunes:duration>30:42</itunes:duration>
+        </item>
+        <item>
+            <title>Травля Регины Тодоренко / Ким Чен Ын серьезно болен / Покупатели нашли в куличе презерватив</title>
+            <enclosure url="https://podcast.tema.ru/audio/UJHHzGB8APk.mp3" length="55012760" type="audio/mpeg"/>
+            <guid>UJHHzGB8APk</guid>
+            <pubDate>Tue, 28 Apr 2020 22:19:47 GMT</pubDate>
+            <itunes:duration>38:13</itunes:duration>
+        </item>
+        <item>
+            <title>Геймеры уничтожат КОВИД-19 / Свадьба по интернету / Отсрочка для церкви по коммунальным платежам</title>
+            <enclosure url="https://podcast.tema.ru/audio/fhwr6nZrjPQ.mp3" length="58316728" type="audio/mpeg"/>
+            <guid>fhwr6nZrjPQ</guid>
+            <pubDate>Fri, 24 Apr 2020 06:00:22 GMT</pubDate>
+            <itunes:duration>40:30</itunes:duration>
+        </item>
+        <item>
+            <title>Виртуальные митинги / Нефть с отрицательной ценой / Война Уткина и Соловьева</title>
+            <enclosure url="https://podcast.tema.ru/audio/dqVtil_227E.mp3" length="55225293" type="audio/mpeg"/>
+            <guid>dqVtil_227E</guid>
+            <pubDate>Tue, 21 Apr 2020 23:03:43 GMT</pubDate>
+            <itunes:duration>38:21</itunes:duration>
+        </item>
+        <item>
+            <title>В Японии объявили режим ЧС / Выпускников школ не станут призывать в армию / Онлайн-кладбища</title>
+            <enclosure url="https://podcast.tema.ru/audio/a6MkCJxn8XE.mp3" length="38024600" type="audio/mpeg"/>
+            <guid>a6MkCJxn8XE</guid>
+            <pubDate>Fri, 17 Apr 2020 08:00:00 GMT</pubDate>
+            <itunes:duration>26:25</itunes:duration>
+        </item>
+        <item>
+            <title>Пожары в зоне отчуждения / Пропускной режим в Москве / В США объявили режим стихийного бедствия</title>
+            <enclosure url="https://podcast.tema.ru/audio/wAKARFdSm00.mp3" length="57041534" type="audio/mpeg"/>
+            <guid>wAKARFdSm00</guid>
+            <pubDate>Tue, 14 Apr 2020 22:04:14 GMT</pubDate>
+            <itunes:duration>39:37</itunes:duration>
+        </item>
+        <item>
+            <title>Трамп присвоил ресурсы Галактики / Назвали ребенка в честь КОВИД-19 / В Грузии ввели «сухой закон»</title>
+            <enclosure url="https://podcast.tema.ru/audio/Z867EOP_NFs.mp3" length="45958510" type="audio/mpeg"/>
+            <guid>Z867EOP_NFs</guid>
+            <pubDate>Fri, 10 Apr 2020 08:00:13 GMT</pubDate>
+            <itunes:duration>31:55</itunes:duration>
+        </item>
+        <item>
+            <title>Приложение для «слежки» / Патриарх Кирилл проехал с иконой против коронавируса / Арестован Иисус</title>
+            <enclosure url="https://podcast.tema.ru/audio/puOvWdLLvzM.mp3" length="55874174" type="audio/mpeg"/>
+            <guid>puOvWdLLvzM</guid>
+            <pubDate>Wed, 08 Apr 2020 00:11:28 GMT</pubDate>
+            <itunes:duration>38:49</itunes:duration>
+        </item>
+        <item>
+            <title>Гуф в психбольнице / Прочистка туалетов за $400000 / Попытка изобрести «ожерелье от коронавируса»</title>
+            <enclosure url="https://podcast.tema.ru/audio/S47Zi8mDYfw.mp3" length="37513018" type="audio/mpeg"/>
+            <guid>S47Zi8mDYfw</guid>
+            <pubDate>Fri, 03 Apr 2020 08:00:13 GMT</pubDate>
+            <itunes:duration>26:03</itunes:duration>
+        </item>
+        <item>
+            <title>Путина заразили коронавирусом? // Россия уходит на карантин // Евровидение-2020 может пройти онлайн</title>
+            <enclosure url="https://podcast.tema.ru/audio/rJtJYlBLxp4.mp3" length="49501342" type="audio/mpeg"/>
+            <guid>rJtJYlBLxp4</guid>
+            <pubDate>Tue, 31 Mar 2020 21:58:46 GMT</pubDate>
+            <itunes:duration>34:23</itunes:duration>
+        </item>
+        <item>
+            <title>Лекция в Майнкрафте // Олимпийские игры в Японии перенесут на год // КИВИ закроет «Рокетбанк»</title>
+            <enclosure url="https://podcast.tema.ru/audio/HDKI0XD8Xe0.mp3" length="37417097" type="audio/mpeg"/>
+            <guid>HDKI0XD8Xe0</guid>
+            <pubDate>Fri, 27 Mar 2020 08:00:06 GMT</pubDate>
+            <itunes:duration>25:59</itunes:duration>
+        </item>
+        <item>
+            <title>Первая смерть от коронавируса в России // Инфекционист Ставрополья заразила регион</title>
+            <enclosure url="https://podcast.tema.ru/audio/QRjxqaskm-s.mp3" length="45258220" type="audio/mpeg"/>
+            <guid>QRjxqaskm-s</guid>
+            <pubDate>Tue, 24 Mar 2020 20:46:49 GMT</pubDate>
+            <itunes:duration>31:26</itunes:duration>
+        </item>
+        <item>
+            <title>Девушки выцарапали имена на фреске Рафаэля / Порно во время коронавируса / Покемон Гоу на карантине</title>
+            <enclosure url="https://podcast.tema.ru/audio/9UZMewjLC94.mp3" length="47731493" type="audio/mpeg"/>
+            <guid>9UZMewjLC94</guid>
+            <pubDate>Fri, 20 Mar 2020 15:46:53 GMT</pubDate>
+            <itunes:duration>33:09</itunes:duration>
+        </item>
+        <item>
+            <title>ВОЗ объявила о пандемии // Что пьют москвичи? // Страны Евросоюза закрывают границы из-за вируса</title>
+            <enclosure url="https://podcast.tema.ru/audio/Qf6qcmrCvX8.mp3" length="43860773" type="audio/mpeg"/>
+            <guid>Qf6qcmrCvX8</guid>
+            <pubDate>Wed, 18 Mar 2020 14:44:31 GMT</pubDate>
+            <itunes:duration>30:28</itunes:duration>
+        </item>
+        <item>
+            <title>Удар по имиджу ТикТока // Олегу Тинькову диагностировали лейкемию // Куда делась туалетная бумага?</title>
+            <enclosure url="https://podcast.tema.ru/audio/_Enp6WDX5LI.mp3" length="40232679" type="audio/mpeg"/>
+            <guid>_Enp6WDX5LI</guid>
+            <pubDate>Fri, 13 Mar 2020 06:01:35 GMT</pubDate>
+            <itunes:duration>27:57</itunes:duration>
+        </item>
+        <item>
+            <title>Обнуление президентских сроков / Рубль рухнул до 75 за доллар / Курпатова обвинили в домогательствах</title>
+            <enclosure url="https://podcast.tema.ru/audio/R4_-xhGd2rk.mp3" length="48341505" type="audio/mpeg"/>
+            <guid>R4_-xhGd2rk</guid>
+            <pubDate>Tue, 10 Mar 2020 22:00:44 GMT</pubDate>
+            <itunes:duration>33:35</itunes:duration>
+        </item>
+        <item>
+            <title>Упоминание бога в Конституции / Лицензии для порноактеров и вебкам-моделей / Двойники Путина — миф?</title>
+            <enclosure url="https://podcast.tema.ru/audio/QsD-EFkGroM.mp3" length="43131017" type="audio/mpeg"/>
+            <guid>QsD-EFkGroM</guid>
+            <pubDate>Fri, 06 Mar 2020 06:02:39 GMT</pubDate>
+            <itunes:duration>29:58</itunes:duration>
+        </item>
+        <item>
+            <title>Трое погибли в бассейне с сухим льдом / Тинькова посадят? / Убийство знакомой фигурантов дела «Сети»</title>
+            <enclosure url="https://podcast.tema.ru/audio/NToFiWsSp5Y.mp3" length="58526752" type="audio/mpeg"/>
+            <guid>NToFiWsSp5Y</guid>
+            <pubDate>Tue, 03 Mar 2020 21:14:58 GMT</pubDate>
+            <itunes:duration>40:39</itunes:duration>
+        </item>
+        <item>
+            <title>Солист Рамштайн выпустил порноклип // Собчак сравнила Шнурова с лошадью // Дизайнеры - сатанисты</title>
+            <enclosure url="https://podcast.tema.ru/audio/dcfANTyTnX0.mp3" length="47772871" type="audio/mpeg"/>
+            <guid>dcfANTyTnX0</guid>
+            <pubDate>Fri, 28 Feb 2020 16:00:05 GMT</pubDate>
+            <itunes:duration>33:11</itunes:duration>
+        </item>
+        <item>
+            <title>Ребрендинг «Единой России» // Работники морга заказали стриптиз // «Арбидол» убьет коронавирус?</title>
+            <enclosure url="https://podcast.tema.ru/audio/8GYQ9lAV1qw.mp3" length="53413439" type="audio/mpeg"/>
+            <guid>8GYQ9lAV1qw</guid>
+            <pubDate>Wed, 26 Feb 2020 21:03:31 GMT</pubDate>
+            <itunes:duration>37:06</itunes:duration>
+        </item>
+        <item>
+            <title>Мать поговорила с умершей дочерью / Прокурор закопал жену в огороде / Cбежал от полиции по льду</title>
+            <enclosure url="https://podcast.tema.ru/audio/F8n50JvZ2HQ.mp3" length="28539644" type="audio/mpeg"/>
+            <guid>F8n50JvZ2HQ</guid>
+            <pubDate>Fri, 21 Feb 2020 06:00:04 GMT</pubDate>
+            <itunes:duration>19:50</itunes:duration>
+        </item>
+        <item>
+            <title>Бесплатное порно на зараженном лайнере / Анонимный интернет Дурова /Зачем видеокамеры у гинекологов?</title>
+            <enclosure url="https://podcast.tema.ru/audio/olBAswlGel8.mp3" length="39769998" type="audio/mpeg"/>
+            <guid>olBAswlGel8</guid>
+            <pubDate>Tue, 18 Feb 2020 19:51:43 GMT</pubDate>
+            <itunes:duration>27:38</itunes:duration>
+        </item>
+        <item>
+            <title>Награды и премии: Оскар 2020 / Стрельба в торговом центре Таиланда / Анестезиолог убивает ветеранов</title>
+            <enclosure url="https://podcast.tema.ru/audio/TWRxpuWAGJs.mp3" length="49557139" type="audio/mpeg"/>
+            <guid>TWRxpuWAGJs</guid>
+            <pubDate>Tue, 11 Feb 2020 20:14:20 GMT</pubDate>
+            <itunes:duration>34:25</itunes:duration>
+        </item>
+        <item>
+            <title>Эвакуация россиян из Ухани // Обрушение комплекса «Петербургский» // Гугл продает пользователей</title>
+            <enclosure url="https://podcast.tema.ru/audio/Ppv-L5XeL9w.mp3" length="39701035" type="audio/mpeg"/>
+            <guid>Ppv-L5XeL9w</guid>
+            <pubDate>Fri, 07 Feb 2020 19:28:12 GMT</pubDate>
+            <itunes:duration>27:35</itunes:duration>
+        </item>
+        <item>
+            <title>Справедливость для Джонни Деппа // Новые жертвы коронавируса // Олега Соколова признали вменяемым</title>
+            <enclosure url="https://podcast.tema.ru/audio/8mHxG3C9KJU.mp3" length="47049384" type="audio/mpeg"/>
+            <guid>8mHxG3C9KJU</guid>
+            <pubDate>Tue, 04 Feb 2020 22:38:39 GMT</pubDate>
+            <itunes:duration>32:41</itunes:duration>
+        </item>
+        <item>
+            <title>Женская грудь в рекламе КФС / Голунов требует извинений от государства / Ребенка засосало в бассейн</title>
+            <enclosure url="https://podcast.tema.ru/audio/KhPU6NK-FUY.mp3" length="49273136" type="audio/mpeg"/>
+            <guid>KhPU6NK-FUY</guid>
+            <pubDate>Fri, 31 Jan 2020 06:03:03 GMT</pubDate>
+            <itunes:duration>34:13</itunes:duration>
+        </item>
+        <item>
+            <title>Китайский коронавирус мутировал // Долгополов тайно покинул Россию // Коби Брайант погиб</title>
+            <enclosure url="https://podcast.tema.ru/audio/QDoOO16G8Jw.mp3" length="43819395" type="audio/mpeg"/>
+            <guid>QDoOO16G8Jw</guid>
+            <pubDate>Tue, 28 Jan 2020 20:24:08 GMT</pubDate>
+            <itunes:duration>30:26</itunes:duration>
+        </item>
+        <item>
+            <title>Глухой подал в суд на Порнхаб // Аэротакси Порше с вертикальным взлетом // Девственность за 1,2 млн</title>
+            <enclosure url="https://podcast.tema.ru/audio/cLJCzpHhn3w.mp3" length="49762775" type="audio/mpeg"/>
+            <guid>cLJCzpHhn3w</guid>
+            <pubDate>Fri, 24 Jan 2020 15:00:17 GMT</pubDate>
+            <itunes:duration>34:34</itunes:duration>
+        </item>
+        <item>
+            <title>Отставка правительства России // Фейковый университет США // Петиция за лишение Урганта гражданства</title>
+            <enclosure url="https://podcast.tema.ru/audio/dxNp7yhWlL8.mp3" length="49480026" type="audio/mpeg"/>
+            <guid>dxNp7yhWlL8</guid>
+            <pubDate>Wed, 22 Jan 2020 12:12:15 GMT</pubDate>
+            <itunes:duration>34:22</itunes:duration>
+        </item>
+        <item>
+            <title>Спутница для полета на Луну // Поезд опоздал на два часа из-за верблюда // Новые оценки в аттестате</title>
+            <enclosure url="https://podcast.tema.ru/audio/OtDJzq4rkC4.mp3" length="35395219" type="audio/mpeg"/>
+            <guid>OtDJzq4rkC4</guid>
+            <pubDate>Fri, 17 Jan 2020 06:00:04 GMT</pubDate>
+            <itunes:duration>24:35</itunes:duration>
+        </item>
+        <item>
+            <title>Подробности крушения украинского Боинга // Загадочный китайский вирус // Переговоры по Ливии</title>
+            <enclosure url="https://podcast.tema.ru/audio/5fO94tYAAvk.mp3" length="44009358" type="audio/mpeg"/>
+            <guid>5fO94tYAAvk</guid>
+            <pubDate>Tue, 14 Jan 2020 20:40:46 GMT</pubDate>
+            <itunes:duration>30:34</itunes:duration>
+        </item>
+        <item>
+            <title>Жириновский раздает деньги // Минирования в Москве // Ликвидация Киевского патриархата</title>
+            <enclosure url="https://podcast.tema.ru/audio/lJI2tPgoUos.mp3" length="61867709" type="audio/mpeg"/>
+            <guid>lJI2tPgoUos</guid>
+            <pubDate>Fri, 10 Jan 2020 18:21:52 GMT</pubDate>
+            <itunes:duration>42:58</itunes:duration>
+        </item>
+        <item>
+            <title>Разбился украинский боинг // Третья мировая война // Австралия сгорела</title>
+            <enclosure url="https://podcast.tema.ru/audio/kavcEZIVoaI.mp3" length="48874403" type="audio/mpeg"/>
+            <guid>kavcEZIVoaI</guid>
+            <pubDate>Wed, 08 Jan 2020 22:12:35 GMT</pubDate>
+            <itunes:duration>33:57</itunes:duration>
+        </item>
+        <item>
+            <title>Поздравление с наступающим 2020 годом</title>
+            <enclosure url="https://podcast.tema.ru/audio/ITskphvV9n8.mp3" length="11440515" type="audio/mpeg"/>
+            <guid>ITskphvV9n8</guid>
+            <pubDate>Tue, 31 Dec 2019 20:45:10 GMT</pubDate>
+            <itunes:duration>07:57</itunes:duration>
+        </item>
+        <item>
+            <title>Нападение на здание ФСБ на Лубянке // «Загар для промежности» // Регистрация брака трансгендеров</title>
+            <enclosure url="https://podcast.tema.ru/audio/OSVxPnAgjeI.mp3" length="40307284" type="audio/mpeg"/>
+            <guid>OSVxPnAgjeI</guid>
+            <pubDate>Fri, 20 Dec 2019 06:00:03 GMT</pubDate>
+            <itunes:duration>28:00</itunes:duration>
+        </item>
+        <item>
+            <title>Кто стал человеком года? // «Слуга народа» снят с эфира // Рамблер напал на Энжин-Икс</title>
+            <enclosure url="https://podcast.tema.ru/audio/6YYXY83GPLw.mp3" length="51037342" type="audio/mpeg"/>
+            <guid>6YYXY83GPLw</guid>
+            <pubDate>Tue, 17 Dec 2019 17:36:52 GMT</pubDate>
+            <itunes:duration>35:27</itunes:duration>
+        </item>
+        <item>
+            <title>Макдак выпускает свой мерч // Налоги для самозанятых // Новый Джеймс Бонд - телочка</title>
+            <enclosure url="https://podcast.tema.ru/audio/hEkqhMS2RDs.mp3" length="52599046" type="audio/mpeg"/>
+            <guid>hEkqhMS2RDs</guid>
+            <pubDate>Fri, 13 Dec 2019 06:10:30 GMT</pubDate>
+            <itunes:duration>36:32</itunes:duration>
+        </item>
+        <item>
+            <title>Умер Юрий Лужков // Девочка-маугли найдена в московской больнице // Егору Жукову дали 3 года</title>
+            <enclosure url="https://podcast.tema.ru/audio/-6wrrw6bVX4.mp3" length="54512463" type="audio/mpeg"/>
+            <guid>-6wrrw6bVX4</guid>
+            <pubDate>Tue, 10 Dec 2019 20:42:57 GMT</pubDate>
+            <itunes:duration>37:52</itunes:duration>
+        </item>
+        <item>
+            <title>На МКС сломались все туалеты // Джони Айв покинул Эппл // Елизавета II больше не королева?</title>
+            <enclosure url="https://podcast.tema.ru/audio/OFXzngLeq8A.mp3" length="38582576" type="audio/mpeg"/>
+            <guid>OFXzngLeq8A</guid>
+            <pubDate>Fri, 06 Dec 2019 07:01:27 GMT</pubDate>
+            <itunes:duration>26:48</itunes:duration>
+        </item>
+        <item>
+            <title>В Лондоне обезвредили террориста // Закон о домашнем насилии // Эппл уйдет из России?</title>
+            <enclosure url="https://podcast.tema.ru/audio/BDE7DXqeq4Q.mp3" length="70133270" type="audio/mpeg"/>
+            <guid>BDE7DXqeq4Q</guid>
+            <pubDate>Wed, 04 Dec 2019 09:29:48 GMT</pubDate>
+            <itunes:duration>48:43</itunes:duration>
+        </item>
+        <item>
+            <title>Кибертрак Илона Маска // Дуров призвал удалить Вацапп // Учительницу уволили за Твиттер</title>
+            <enclosure url="https://podcast.tema.ru/audio/CWY9XNnVTBA.mp3" length="42571160" type="audio/mpeg"/>
+            <guid>CWY9XNnVTBA</guid>
+            <pubDate>Fri, 29 Nov 2019 06:00:18 GMT</pubDate>
+            <itunes:duration>29:34</itunes:duration>
+        </item>
+        <item>
+            <title>Путин прокатился по МЦД // Виртуальная реальность для коров // Зеленский требует унитазы обратно</title>
+            <enclosure url="https://podcast.tema.ru/audio/-EWA7A-Het0.mp3" length="51585913" type="audio/mpeg"/>
+            <guid>-EWA7A-Het0</guid>
+            <pubDate>Wed, 27 Nov 2019 04:00:00 GMT</pubDate>
+            <itunes:duration>35:50</itunes:duration>
+        </item>
+        <item>
+            <title>Потоп в Венеции // Руки-базуки из вазелина? // «Нацистский» астероид НАСА</title>
+            <enclosure url="https://podcast.tema.ru/audio/CK3Xt8DxYc8.mp3" length="44110295" type="audio/mpeg"/>
+            <guid>CK3Xt8DxYc8</guid>
+            <pubDate>Fri, 22 Nov 2019 07:00:01 GMT</pubDate>
+            <itunes:duration>30:38</itunes:duration>
+        </item>
+        <item>
+            <title>Лебедев в «списке Путина» // «Инстаграм» отменил «лайки» // Солдата «бросили» умирать в лесу</title>
+            <enclosure url="https://podcast.tema.ru/audio/5jyzgAFtr5M.mp3" length="40866514" type="audio/mpeg"/>
+            <guid>5jyzgAFtr5M</guid>
+            <pubDate>Tue, 19 Nov 2019 21:14:06 GMT</pubDate>
+            <itunes:duration>28:23</itunes:duration>
+        </item>
+        <item>
+            <title>Стрелок из Благовещенска // Аэрофлот против котиков // Чиполлино запретили к показу</title>
+            <enclosure url="https://podcast.tema.ru/audio/ZxRn2OBNRok.mp3" length="62030086" type="audio/mpeg"/>
+            <guid>ZxRn2OBNRok</guid>
+            <pubDate>Fri, 15 Nov 2019 11:00:45 GMT</pubDate>
+            <itunes:duration>43:05</itunes:duration>
+        </item>
+        <item>
+            <title>Профессор расчленил любовницу // Трамп на параде победы в Москве</title>
+            <enclosure url="https://podcast.tema.ru/audio/3RVcItsos00.mp3" length="69256182" type="audio/mpeg"/>
+            <guid>3RVcItsos00</guid>
+            <pubDate>Wed, 13 Nov 2019 11:50:12 GMT</pubDate>
+            <itunes:duration>48:06</itunes:duration>
+        </item>
+        <item>
+            <title>Собчак VS Симоньян // Дети говорят с геем // Фадеев закрывает лейбл</title>
+            <enclosure url="https://podcast.tema.ru/audio/4z2Eod6UvVc.mp3" length="51821642" type="audio/mpeg"/>
+            <guid>4z2Eod6UvVc</guid>
+            <pubDate>Fri, 08 Nov 2019 07:19:01 GMT</pubDate>
+            <itunes:duration>36:00</itunes:duration>
+        </item>
+        <item>
+            <title>Росгвардеец погиб на экзамене // Гарик куколд Харламов // Конгрессвумен на сайте свингеров</title>
+            <enclosure url="https://podcast.tema.ru/audio/YHGV3tSqGU4.mp3" length="36363839" type="audio/mpeg"/>
+            <guid>YHGV3tSqGU4</guid>
+            <pubDate>Wed, 06 Nov 2019 06:12:11 GMT</pubDate>
+            <itunes:duration>25:16</itunes:duration>
+        </item>
+        <item>
+            <title>7-летний ребенок меняет пол // Сатанизм в творчестве Егора Крида // Орел разорил ученых</title>
+            <enclosure url="https://podcast.tema.ru/audio/-rOjBD7TvNA.mp3" length="29614844" type="audio/mpeg"/>
+            <guid>-rOjBD7TvNA</guid>
+            <pubDate>Fri, 01 Nov 2019 07:00:02 GMT</pubDate>
+            <itunes:duration>20:34</itunes:duration>
+        </item>
+        <item>
+            <title>Дедовщина в Забайкалье // Ликвидации лидера ИГ // Телеграм разблокировали</title>
+            <enclosure url="https://podcast.tema.ru/audio/QnhfUDwVU5o.mp3" length="34540075" type="audio/mpeg"/>
+            <guid>QnhfUDwVU5o</guid>
+            <pubDate>Tue, 29 Oct 2019 19:57:50 GMT</pubDate>
+            <itunes:duration>24:00</itunes:duration>
+        </item>
+        <item>
+            <title>Деанон преступников в масках? // «Однажды в Голливуде» не покажут в Китае // Порно на НТВ</title>
+            <enclosure url="https://podcast.tema.ru/audio/D7md0-ixyNs.mp3" length="32221028" type="audio/mpeg"/>
+            <guid>D7md0-ixyNs</guid>
+            <pubDate>Fri, 25 Oct 2019 06:00:02 GMT</pubDate>
+            <itunes:duration>22:23</itunes:duration>
+        </item>
+        <item>
+            <title>Картель взял в осаду город // Дуров вернет деньги инвесторам? // Украина хочет вернуть Кубань?</title>
+            <enclosure url="https://podcast.tema.ru/audio/bbgfOZjE2fE.mp3" length="45353515" type="audio/mpeg"/>
+            <guid>bbgfOZjE2fE</guid>
+            <pubDate>Tue, 22 Oct 2019 21:00:14 GMT</pubDate>
+            <itunes:duration>31:30</itunes:duration>
+        </item>
+        <item>
+            <title>Криптовалюту Павла Дурова приостановили // Кроссовки со святой водой // Протест игроков Близзард</title>
+            <enclosure url="https://podcast.tema.ru/audio/ZxCa7xNIM4g.mp3" length="38617684" type="audio/mpeg"/>
+            <guid>ZxCa7xNIM4g</guid>
+            <pubDate>Fri, 18 Oct 2019 07:00:03 GMT</pubDate>
+            <itunes:duration>26:49</itunes:duration>
+        </item>
+        <item>
+            <title>Жители Саратова требуют самосуд // 8 миллиардов $$$ за сиськи мужчине</title>
+            <enclosure url="https://podcast.tema.ru/audio/htsrjmJokXE.mp3" length="45836257" type="audio/mpeg"/>
+            <guid>htsrjmJokXE</guid>
+            <pubDate>Tue, 15 Oct 2019 19:26:40 GMT</pubDate>
+            <itunes:duration>31:50</itunes:duration>
+        </item>
+        <item>
+            <title>Новые правила призыва в армию // Колдовство по СМС // Павел Дуров раздает ключи от криптовалюты</title>
+            <enclosure url="https://podcast.tema.ru/audio/AMirVixkJEM.mp3" length="39256535" type="audio/mpeg"/>
+            <guid>AMirVixkJEM</guid>
+            <pubDate>Fri, 11 Oct 2019 05:00:01 GMT</pubDate>
+            <itunes:duration>27:16</itunes:duration>
+        </item>
+        <item>
+            <title>Джокер — шедевр? // Авиакатастрофа подо Львовом // Сбербанк слил данные о клиентах</title>
+            <enclosure url="https://podcast.tema.ru/audio/ax61pCS0AQk.mp3" length="55235950" type="audio/mpeg"/>
+            <guid>ax61pCS0AQk</guid>
+            <pubDate>Wed, 09 Oct 2019 05:00:02 GMT</pubDate>
+            <itunes:duration>38:22</itunes:duration>
+        </item>
+        <item>
+            <title>В Греции торгуют детьми // Запрет на лотерею грин-карт // Штрафы за неуважение к полицейским</title>
+            <enclosure url="https://podcast.tema.ru/audio/mcXAQLZtKTg.mp3" length="21749897" type="audio/mpeg"/>
+            <guid>mcXAQLZtKTg</guid>
+            <pubDate>Fri, 04 Oct 2019 07:00:05 GMT</pubDate>
+            <itunes:duration>15:07</itunes:duration>
+        </item>
+        <item>
+            <title>Трампа — в отставку! // Митинг в Москве // Реутов ТВ рекламирует Студию Лебедева</title>
+            <enclosure url="https://podcast.tema.ru/audio/QOlwSFceVeM.mp3" length="40953031" type="audio/mpeg"/>
+            <guid>QOlwSFceVeM</guid>
+            <pubDate>Tue, 01 Oct 2019 21:34:26 GMT</pubDate>
+            <itunes:duration>28:27</itunes:duration>
+        </item>
+        <item>
+            <title>Айфон 11 - шедевр или дерьмо? // За что убили Михаила Круга? // Россию отстранили от Олимпиады</title>
+            <enclosure url="https://podcast.tema.ru/audio/CC_zbOL_kSU.mp3" length="32222282" type="audio/mpeg"/>
+            <guid>CC_zbOL_kSU</guid>
+            <pubDate>Fri, 27 Sep 2019 07:56:19 GMT</pubDate>
+            <itunes:duration>22:23</itunes:duration>
+        </item>
+        <item>
+            <title>Трамп против Байдена // Шаман против Путина // Грета Тунберг против политиков</title>
+            <enclosure url="https://podcast.tema.ru/audio/ycVl4o8J6WM.mp3" length="59221400" type="audio/mpeg"/>
+            <guid>ycVl4o8J6WM</guid>
+            <pubDate>Wed, 25 Sep 2019 06:30:25 GMT</pubDate>
+            <itunes:duration>41:08</itunes:duration>
+        </item>
+        <item>
+            <title>Грузия вступает в НАТО // Покрас Лампас остался без креста // Россия и Белоруссия объединяются?</title>
+            <enclosure url="https://podcast.tema.ru/audio/jZsnoLBsp5Y.mp3" length="21865880" type="audio/mpeg"/>
+            <guid>jZsnoLBsp5Y</guid>
+            <pubDate>Fri, 20 Sep 2019 07:27:52 GMT</pubDate>
+            <itunes:duration>15:12</itunes:duration>
+        </item>
+        <item>
+            <title>Флешмоб в поддержку Павла Устинова / Закрытие счета «Матерей Беслана» / Очереди за айФонами</title>
+            <enclosure url="https://podcast.tema.ru/audio/AcBd_RYeaLI.mp3" length="34464842" type="audio/mpeg"/>
+            <guid>AcBd_RYeaLI</guid>
+            <pubDate>Tue, 17 Sep 2019 21:22:55 GMT</pubDate>
+            <itunes:duration>23:56</itunes:duration>
+        </item>
+        <item>
+            <title>Комиксы для убогих // Отмена школьных экзаменов // Фашисты возвращаются</title>
+            <enclosure url="https://podcast.tema.ru/audio/xdusvmwJwWo.mp3" length="45834377" type="audio/mpeg"/>
+            <guid>xdusvmwJwWo</guid>
+            <pubDate>Fri, 13 Sep 2019 09:23:51 GMT</pubDate>
+            <itunes:duration>31:50</itunes:duration>
+        </item>
+        <item>
+            <title>Тимати подставил Гуфа // Катер сбил человека // Нападение на Памфилову</title>
+            <enclosure url="https://podcast.tema.ru/audio/VlegHufM69k.mp3" length="56588257" type="audio/mpeg"/>
+            <guid>VlegHufM69k</guid>
+            <pubDate>Tue, 10 Sep 2019 21:24:25 GMT</pubDate>
+            <itunes:duration>39:18</itunes:duration>
+        </item>
+        <item>
+            <title>Россия увеличила ввоз пластикового мусора / Почему Путин платит наличными?!</title>
+            <enclosure url="https://podcast.tema.ru/audio/4Er4WEA-9gM.mp3" length="44089606" type="audio/mpeg"/>
+            <guid>4Er4WEA-9gM</guid>
+            <pubDate>Fri, 06 Sep 2019 07:58:31 GMT</pubDate>
+            <itunes:duration>30:37</itunes:duration>
+        </item>
+        <item>
+            <title>15 лет со дня теракта в Беслане / 5 лет колонии за твит / Зеленский говорит по-русски с собаками</title>
+            <enclosure url="https://podcast.tema.ru/audio/hvfKu_11ocE.mp3" length="34676120" type="audio/mpeg"/>
+            <guid>hvfKu_11ocE</guid>
+            <pubDate>Tue, 03 Sep 2019 20:46:47 GMT</pubDate>
+            <itunes:duration>24:05</itunes:duration>
+        </item>
+        <item>
+            <title>Робот Федор на МКС // Преступление в космосе // Возрождение «Матрицы»</title>
+            <enclosure url="https://podcast.tema.ru/audio/j-LrNACv1Qw.mp3" length="29713900" type="audio/mpeg"/>
+            <guid>j-LrNACv1Qw</guid>
+            <pubDate>Thu, 29 Aug 2019 22:26:16 GMT</pubDate>
+            <itunes:duration>20:38</itunes:duration>
+        </item>
+        <item>
+            <title>Изнасилование в Анапе / Состарился ради пенсии / Трамп против урагана</title>
+            <enclosure url="https://podcast.tema.ru/audio/eJApivzIaac.mp3" length="23082768" type="audio/mpeg"/>
+            <guid>eJApivzIaac</guid>
+            <pubDate>Tue, 27 Aug 2019 20:57:54 GMT</pubDate>
+            <itunes:duration>16:02</itunes:duration>
+        </item>
+        <item>
+            <title>Плохое воспитание жены премьер-министра // Бузова закрыла инстаграм // Штрафы за перекур на работе</title>
+            <enclosure url="https://podcast.tema.ru/audio/l3Hex1R2n8M.mp3" length="46727137" type="audio/mpeg"/>
+            <guid>l3Hex1R2n8M</guid>
+            <pubDate>Fri, 23 Aug 2019 07:55:23 GMT</pubDate>
+            <itunes:duration>32:27</itunes:duration>
+        </item>
+        <item>
+            <title>Чудо на кукурузном поле // Новая ядерная катастрофа // Дизайн для Руслана Усачева</title>
+            <enclosure url="https://podcast.tema.ru/audio/3q7w-F9s1Ko.mp3" length="30915115" type="audio/mpeg"/>
+            <guid>3q7w-F9s1Ko</guid>
+            <pubDate>Tue, 20 Aug 2019 19:55:50 GMT</pubDate>
+            <itunes:duration>21:29</itunes:duration>
+        </item>
+        <item>
+            <title>Манипуляции людьми через Ютюб // Электромобиль «Калашников» // Детский труд в Китае</title>
+            <enclosure url="https://podcast.tema.ru/audio/3C0LKrwoR6k.mp3" length="25646321" type="audio/mpeg"/>
+            <guid>3C0LKrwoR6k</guid>
+            <pubDate>Thu, 15 Aug 2019 17:24:05 GMT</pubDate>
+            <itunes:duration>17:49</itunes:duration>
+        </item>
+        <item>
+            <title>Как прошел митинг?! // Секретные испытания под Архангельском // Торгуют человечиной</title>
+            <enclosure url="https://podcast.tema.ru/audio/0g2obQfNZ_w.mp3" length="14353900" type="audio/mpeg"/>
+            <guid>0g2obQfNZ_w</guid>
+            <pubDate>Tue, 13 Aug 2019 14:19:10 GMT</pubDate>
+            <itunes:duration>09:59</itunes:duration>
+        </item>
+        <item>
+            <title>Валим из России // Протесты в Москве // Логотип Хованского // Падение рубля</title>
+            <enclosure url="https://podcast.tema.ru/audio/T5oE89fAtYk.mp3" length="45529684" type="audio/mpeg"/>
+            <guid>T5oE89fAtYk</guid>
+            <pubDate>Thu, 08 Aug 2019 22:12:23 GMT</pubDate>
+            <itunes:duration>31:38</itunes:duration>
+        </item>
+        <item>
+            <title>Сибирь горит! / Зачем нужны митинги? / Смертельный луч ФСБ</title>
+            <enclosure url="https://podcast.tema.ru/audio/7GVSYwiItLA.mp3" length="66428062" type="audio/mpeg"/>
+            <guid>7GVSYwiItLA</guid>
+            <pubDate>Fri, 02 Aug 2019 15:50:40 GMT</pubDate>
+            <itunes:duration>46:08</itunes:duration>
+        </item>
+        <item>
+            <title>Инстаграм скроет лайки // Стартап Илона Маска // Полуголые люди варят сыр</title>
+            <enclosure url="https://podcast.tema.ru/audio/nxHcMNL1alQ.mp3" length="47935875" type="audio/mpeg"/>
+            <guid>nxHcMNL1alQ</guid>
+            <pubDate>Fri, 26 Jul 2019 12:40:56 GMT</pubDate>
+            <itunes:duration>33:18</itunes:duration>
+        </item>
+        <item>
+            <title>Металлика спела «Группу крови» // Ведьмак - бодибилдер // Покраса Лампаса закатали в асфальт</title>
+            <enclosure url="https://podcast.tema.ru/audio/JCtJaGxhQ4Q.mp3" length="17745639" type="audio/mpeg"/>
+            <guid>JCtJaGxhQ4Q</guid>
+            <pubDate>Tue, 23 Jul 2019 13:02:39 GMT</pubDate>
+            <itunes:duration>12:20</itunes:duration>
+        </item>
+        <item>
+            <title>Зачем штурмовать «Зону 51»? // Гугл следит за тобой // Выстрел в окно из гранатомета</title>
+            <enclosure url="https://podcast.tema.ru/audio/cFOQX4fpDpg.mp3" length="30063105" type="audio/mpeg"/>
+            <guid>cFOQX4fpDpg</guid>
+            <pubDate>Fri, 19 Jul 2019 07:55:38 GMT</pubDate>
+            <itunes:duration>20:53</itunes:duration>
+        </item>
+        <item>
+            <title>Женщины глупее мужчин?! // Дезинформация об окружении Путина // ФейсАпп челлендж</title>
+            <enclosure url="https://podcast.tema.ru/audio/8dFg-vEFZVE.mp3" length="10118302" type="audio/mpeg"/>
+            <guid>8dFg-vEFZVE</guid>
+            <pubDate>Tue, 16 Jul 2019 20:41:36 GMT</pubDate>
+            <itunes:duration>07:02</itunes:duration>
+        </item>
+        <item>
+            <title>Как заработать на глупости фанатов?! // Выполнил трендовый челлендж // Самый богатый холостяк</title>
+            <enclosure url="https://podcast.tema.ru/audio/2Gqh3P5gkTM.mp3" length="48302008" type="audio/mpeg"/>
+            <guid>2Gqh3P5gkTM</guid>
+            <pubDate>Fri, 12 Jul 2019 11:58:50 GMT</pubDate>
+            <itunes:duration>33:33</itunes:duration>
+        </item>
+        <item>
+            <title>Грузинский журналист перешел все границы // Эл’ван судится с Блэк Стар // Она утонула</title>
+            <enclosure url="https://podcast.tema.ru/audio/-MqxQOwO5SQ.mp3" length="14850435" type="audio/mpeg"/>
+            <guid>-MqxQOwO5SQ</guid>
+            <pubDate>Tue, 09 Jul 2019 12:44:26 GMT</pubDate>
+            <itunes:duration>10:19</itunes:duration>
+        </item>
+        <item>
+            <title>Махинации основателя «Рольф» // Элтон Джон против Путина? // «Эпл» лишились главного дизайнера</title>
+            <enclosure url="https://podcast.tema.ru/audio/suB7PPyxfzM.mp3" length="27033110" type="audio/mpeg"/>
+            <guid>suB7PPyxfzM</guid>
+            <pubDate>Fri, 05 Jul 2019 07:29:03 GMT</pubDate>
+            <itunes:duration>18:47</itunes:duration>
+        </item>
+        <item>
+            <title>Нейросети раздевают женщин // Аварийная посадка АН-24 // Гоголь скул на тавриде</title>
+            <enclosure url="https://podcast.tema.ru/audio/j7y7hTrLlEA.mp3" length="9017397" type="audio/mpeg"/>
+            <guid>j7y7hTrLlEA</guid>
+            <pubDate>Tue, 02 Jul 2019 20:41:43 GMT</pubDate>
+            <itunes:duration>06:16</itunes:duration>
+        </item>
+        <item>
+            <title>Запретили лететь в Грузию // Дело серийного отравителя // В чем виноваты сестры Хачатурян?</title>
+            <enclosure url="https://podcast.tema.ru/audio/VX92zCsBcKs.mp3" length="39069080" type="audio/mpeg"/>
+            <guid>VX92zCsBcKs</guid>
+            <pubDate>Thu, 27 Jun 2019 09:41:55 GMT</pubDate>
+            <itunes:duration>27:08</itunes:duration>
+        </item>
+        <item>
+            <title>Женский выпуск: Бьюти-скандал с косметикой Кайли Дженнер // Принц Уильям - изменщик</title>
+            <enclosure url="https://podcast.tema.ru/audio/R4wBThNUip8.mp3" length="16850997" type="audio/mpeg"/>
+            <guid>R4wBThNUip8</guid>
+            <pubDate>Mon, 24 Jun 2019 17:58:17 GMT</pubDate>
+            <itunes:duration>11:43</itunes:duration>
+        </item>
+        <item>
+            <title>Хованский стал помощником депутата // Убер доставляет еду дронами // Криптовалюта Фейсбука - Либра</title>
+            <enclosure url="https://podcast.tema.ru/audio/LG-bD4lRJLc.mp3" length="20108571" type="audio/mpeg"/>
+            <guid>LG-bD4lRJLc</guid>
+            <pubDate>Thu, 20 Jun 2019 10:13:06 GMT</pubDate>
+            <itunes:duration>13:58</itunes:duration>
+        </item>
+        <item>
+            <title>Мишель Платини поимел УЕФА // С цыганами шутки плохи // Майл.ру поспорили с Билайн</title>
+            <enclosure url="https://podcast.tema.ru/audio/uFCiAe80Fl0.mp3" length="7981694" type="audio/mpeg"/>
+            <guid>uFCiAe80Fl0</guid>
+            <pubDate>Tue, 18 Jun 2019 21:05:49 GMT</pubDate>
+            <itunes:duration>05:33</itunes:duration>
+        </item>
+        <item>
+            <title>Сколько зарабатывает Михалков? // Дуров праноед // Продукты в кредит и ароматизация вагонов РЖД</title>
+            <enclosure url="https://podcast.tema.ru/audio/mUvv8rE8JMY.mp3" length="8974765" type="audio/mpeg"/>
+            <guid>mUvv8rE8JMY</guid>
+            <pubDate>Thu, 13 Jun 2019 07:42:44 GMT</pubDate>
+            <itunes:duration>06:14</itunes:duration>
+        </item>
+        <item>
+            <title>Голунов в суде // К Панину больше ни ногой // Алибасов при смерти // Россия 9:0 Сан-Марино</title>
+            <enclosure url="https://podcast.tema.ru/audio/O_aU-lYkduw.mp3" length="16657900" type="audio/mpeg"/>
+            <guid>O_aU-lYkduw</guid>
+            <pubDate>Tue, 11 Jun 2019 21:26:43 GMT</pubDate>
+            <itunes:duration>11:34</itunes:duration>
+        </item>
+        <item>
+            <title>Китайские шорты Тимати // Эпл убил Айтюнс // Лечим энцефалит гомеопатией</title>
+            <enclosure url="https://podcast.tema.ru/audio/r6azEkw-AxI.mp3" length="18613949" type="audio/mpeg"/>
+            <guid>r6azEkw-AxI</guid>
+            <pubDate>Thu, 06 Jun 2019 10:52:23 GMT</pubDate>
+            <itunes:duration>12:56</itunes:duration>
+        </item>
+        <item>
+            <title>Бэдкомедиан ждет суд // Активисты «Лев Против» творят беспредел // Инстаграм злоупотребляет властью</title>
+            <enclosure url="https://podcast.tema.ru/audio/FnzPm3Ibxe0.mp3" length="10022380" type="audio/mpeg"/>
+            <guid>FnzPm3Ibxe0</guid>
+            <pubDate>Tue, 04 Jun 2019 19:05:31 GMT</pubDate>
+            <itunes:duration>06:58</itunes:duration>
+        </item>
+        <item>
+            <title>Школьный БДСМ-выпускной // Китай проверяет переписки туристов // Бабы скачут</title>
+            <enclosure url="https://podcast.tema.ru/audio/LGJYNwVmp5U.mp3" length="21927320" type="audio/mpeg"/>
+            <guid>LGJYNwVmp5U</guid>
+            <pubDate>Thu, 30 May 2019 10:16:59 GMT</pubDate>
+            <itunes:duration>15:14</itunes:duration>
+        </item>
+        <item>
+            <title>Кастрация газеты Коммерсантъ // Почему диктаторы любят Вотсап // ВИЧ - это отмывание бабла</title>
+            <enclosure url="https://podcast.tema.ru/audio/EzWcdP42IYI.mp3" length="26322788" type="audio/mpeg"/>
+            <guid>EzWcdP42IYI</guid>
+            <pubDate>Fri, 24 May 2019 11:50:33 GMT</pubDate>
+            <itunes:duration>18:17</itunes:duration>
+        </item>
+        <item>
+            <title>Война за сквер в Екатеринбурге // Логотип для группировки Ленинград // Что делать после смерти</title>
+            <enclosure url="https://podcast.tema.ru/audio/ejrY8aUyS6s.mp3" length="20151203" type="audio/mpeg"/>
+            <guid>ejrY8aUyS6s</guid>
+            <pubDate>Thu, 16 May 2019 11:27:37 GMT</pubDate>
+            <itunes:duration>14:00</itunes:duration>
+        </item>
+        <item>
+            <title>Почему сгорел Суперджет // Задержали с пустым плакатом // Изоляция рунета и отсутствие мозгов</title>
+            <enclosure url="https://podcast.tema.ru/audio/nKHQ0B9LhVo.mp3" length="17501759" type="audio/mpeg"/>
+            <guid>nKHQ0B9LhVo</guid>
+            <pubDate>Thu, 09 May 2019 14:05:23 GMT</pubDate>
+            <itunes:duration>12:10</itunes:duration>
+        </item>
+        <item>
+            <title>Заделал яму - получи п***ы // 404 логотипа ВКонтакте</title>
+            <enclosure url="https://podcast.tema.ru/audio/KtTfa9GX4jE.mp3" length="15713103" type="audio/mpeg"/>
+            <guid>KtTfa9GX4jE</guid>
+            <pubDate>Thu, 02 May 2019 09:17:21 GMT</pubDate>
+            <itunes:duration>10:55</itunes:duration>
+        </item>
+        <item>
+            <title>В жопу власть // Цирк на Украине // Кокорин и Мамаев воспитывают заключенных (:::Пилот:::)</title>
+            <enclosure url="https://podcast.tema.ru/audio/MCnuuNGxgd4.mp3" length="18822719" type="audio/mpeg"/>
+            <guid>MCnuuNGxgd4</guid>
+            <pubDate>Thu, 25 Apr 2019 22:18:21 GMT</pubDate>
+            <itunes:duration>13:05</itunes:duration>
+        </item>
+    </channel>
+</rss>
